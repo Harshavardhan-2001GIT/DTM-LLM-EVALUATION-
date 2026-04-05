@@ -2,7 +2,7 @@
 # Automated Evaluation of Dynamic Topic Models Using Large Language Models
 
 > A Comparative Study with Human Judgment and Temporal Metrics  
-> RPTU Kaiserslautern | WS2025-2026 | Supervisor: Charu Karakkaparambil James
+> RPTU Kaiserslautern |Supervisor: Charu Karakkaparambil James
 
 ---
 
