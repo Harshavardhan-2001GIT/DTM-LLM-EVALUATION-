@@ -1,0 +1,561 @@
+dtm_model,dataset,llm,topic_idx,year_start,year_end,label,justification,raw
+DETM,nyt,llama,0,1987,1989,Minor drift,"The topic evolution shows a gradual shift from a topic focused on a person (John) to a topic focused on sports, but the change is not drastic and the words are still somewhat related.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a topic focused on a person (John) to a topic focused on sports, but the change is not drastic and the words are still somewhat related.""
+}"
+DETM,nyt,llama,0,1990,1992,Minor drift,"The change in topic representation appears to be a gradual shift in focus from legal terminology to political terminology, which is a plausible semantic change, but the similarity in vocabulary and themes suggests a minor drift rather than a significant shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topic representation appears to be a gradual shift in focus from legal terminology to political terminology, which is a plausible semantic change, but the similarity in vocabulary and themes suggests a minor drift rather than a significant shift.""
+}"
+DETM,nyt,llama,0,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from political administration to legal and judicial issues, but the core themes and vocabulary remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from political administration to legal and judicial issues, but the core themes and vocabulary remain relatively consistent.""
+}"
+DETM,nyt,llama,0,1996,1998,Minor drift,"The change in topics appears to be a gradual shift from sports-related terms to financial terms, which could be a minor drift in the context of a broader topic, but it doesn't represent a drastic or unexpected semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics appears to be a gradual shift from sports-related terms to financial terms, which could be a minor drift in the context of a broader topic, but it doesn't represent a drastic or unexpected semantic change.""
+}"
+DETM,nyt,llama,0,1999,2001,Minor drift,"The topic evolution shows a gradual shift in focus from 'energy' and 'laboratory' in 1999 to 'cells' and 'stem' in 2001, but the core topics of 'research', 'human', 'university', and 'scientists' remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'energy' and 'laboratory' in 1999 to 'cells' and 'stem' in 2001, but the core topics of 'research', 'human', 'university', and 'scientists' remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,0,2002,2004,Minor drift,"The topic evolution shows a consistent focus on health-related terms, with minor variations in word order and slight changes in term prominence, indicating a gradual shift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent focus on health-related terms, with minor variations in word order and slight changes in term prominence, indicating a gradual shift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,0,2005,2007,Minor drift,"The changes in the topic model from 2005 to 2007 are subtle and incremental, with some words being replaced or added, but the overall theme of the topic remains consistent, suggesting a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic model from 2005 to 2007 are subtle and incremental, with some words being replaced or added, but the overall theme of the topic remains consistent, suggesting a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,1,1987,1989,Minor drift,"The change in topics from art-related terms to cooking-related terms is a significant shift, but it may be due to the inclusion of a single outlier year (1989) rather than a sustained semantic change across multiple years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics from art-related terms to cooking-related terms is a significant shift, but it may be due to the inclusion of a single outlier year (1989) rather than a sustained semantic change across multiple years.""
+}"
+DETM,nyt,llama,1,1990,1992,Minor drift,"The topic evolution shows a gradual shift in word emphasis, but the core theme of cooking remains consistent, with words like 'minutes', 'salt', 'pepper', 'heat', and 'cook' persisting across years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word emphasis, but the core theme of cooking remains consistent, with words like 'minutes', 'salt', 'pepper', 'heat', and 'cook' persisting across years.""
+}"
+DETM,nyt,llama,1,1993,1995,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual refinement of the topic, with some words being replaced by related terms (e.g., 'taste' becoming 'yield' in 1994), but the overall theme of cooking remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual refinement of the topic, with some words being replaced by related terms (e.g., 'taste' becoming 'yield' in 1994), but the overall theme of cooking remains consistent.""
+}"
+DETM,nyt,llama,1,1996,1998,Minor drift,"The topic evolution shows a slight shift in word order and emphasis, but the overall theme of restaurants and food remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word order and emphasis, but the overall theme of restaurants and food remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,1,1999,2001,Minor drift,"The topic evolution shows a slight reordering of words, but the overall theme of food and restaurants remains consistent, indicating a minor shift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight reordering of words, but the overall theme of food and restaurants remains consistent, indicating a minor shift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,1,2002,2004,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the overall theme of 'food and dining' remains consistent across the years, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the overall theme of 'food and dining' remains consistent across the years, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,1,2005,2007,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the overall theme of 'food' and 'restaurant' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the overall theme of 'food' and 'restaurant' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,2,1987,1989,Meaningful evolution,"The topic evolution reflects a shift from a focus on police officers being killed or arrested in 1987 and 1988, to a broader focus on police and drug-related issues in 1989, which is a plausible semantic change given the rise of the crack epidemic in the late 1980s.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on police officers being killed or arrested in 1987 and 1988, to a broader focus on police and drug-related issues in 1989, which is a plausible semantic change given the rise of the crack epidemic in the late 1980s.""
+}"
+DETM,nyt,llama,2,1990,1992,Minor drift,"The topic evolution shows a gradual shift in focus from government and military-related terms to law enforcement and crime-related terms, but the core theme remains related to violence and its consequences.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from government and military-related terms to law enforcement and crime-related terms, but the core theme remains related to violence and its consequences.""
+}"
+DETM,nyt,llama,2,1993,1995,Meaningful evolution,The topic evolution reflects a shift from a focus on individual officer deaths to a broader discussion of police departments and their involvement in drug-related crimes.,"{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on individual officer deaths to a broader discussion of police departments and their involvement in drug-related crimes.""
+}"
+DETM,nyt,llama,2,1996,1998,Minor drift,"The topic evolution shows a gradual shift in vocabulary, with some words being replaced or added, but the overall theme of legal proceedings remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in vocabulary, with some words being replaced or added, but the overall theme of legal proceedings remains consistent.""
+}"
+DETM,nyt,llama,2,1999,2001,Meaningful evolution,"The topic evolution shows a shift from a focus on police and crime investigation in 1999 to a focus on the legal process and court proceedings in 2001, indicating a semantic change in the topic's meaning.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on police and crime investigation in 1999 to a focus on the legal process and court proceedings in 2001, indicating a semantic change in the topic's meaning.""
+}"
+DETM,nyt,llama,2,2002,2004,Minor drift,"The topics seem to be shifting from a focus on legal proceedings to a more personal and emotional tone, but the change is not drastic and still appears to be related to the same general theme of a high-profile case.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a focus on legal proceedings to a more personal and emotional tone, but the change is not drastic and still appears to be related to the same general theme of a high-profile case.""
+}"
+DETM,nyt,llama,2,2005,2007,Minor drift,"The changes in the topic representation from 2005 to 2007 are subtle and consistent with a gradual shift in focus from the specifics of a trial (e.g., 'prison', 'judge') to a broader discussion of the justice system (e.g., 'justice', 'federal'), indicating a minor drift in the topic's semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 2005 to 2007 are subtle and consistent with a gradual shift in focus from the specifics of a trial (e.g., 'prison', 'judge') to a broader discussion of the justice system (e.g., 'justice', 'federal'), indicating a minor drift in the topic's semantic meaning.""
+}"
+DETM,nyt,llama,3,1987,1989,Minor drift,"The change in the topic representation is subtle, with some words shifting positions, but the overall theme of the topic appears to be related to government and law, suggesting a minor adjustment in the topic's nuances rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in the topic representation is subtle, with some words shifting positions, but the overall theme of the topic appears to be related to government and law, suggesting a minor adjustment in the topic's nuances rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,3,1990,1992,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in focus from 'state' and 'commission' to 'rules' and 'federal', suggesting a refinement in the topic rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in focus from 'state' and 'commission' to 'rules' and 'federal', suggesting a refinement in the topic rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,3,1993,1995,Minor drift,"The topic evolution shows a slight shift in word order and some word replacements, but the overall theme of 'public institutions and governance' remains consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word order and some word replacements, but the overall theme of 'public institutions and governance' remains consistent across the three years.""
+}"
+DETM,nyt,llama,3,1996,1998,Minor drift,"The topic evolution shows a gradual shift in word order, but the overall theme of 'healthcare' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order, but the overall theme of 'healthcare' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,3,1999,2001,Minor drift,"The topic evolution shows a gradual shift in word importance, but the overall theme of 'healthcare' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word importance, but the overall theme of 'healthcare' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,3,2002,2004,Minor drift,"The topic evolution shows a gradual shift in word order and addition of new words, but the core theme of government and security remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and addition of new words, but the core theme of government and security remains consistent across the years.""
+}"
+DETM,nyt,llama,3,2005,2007,Minor drift,"The changes in the topic model from 2005 to 2007 are subtle and reflect a gradual shift in focus from 'information' and 'national' in 2006 to 'states' in 2007, which is a minor variation on the theme of government and administration.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic model from 2005 to 2007 are subtle and reflect a gradual shift in focus from 'information' and 'national' in 2006 to 'states' in 2007, which is a minor variation on the theme of government and administration.""
+}"
+DETM,nyt,llama,4,1987,1989,Minor drift,"The topics seem to be shifting from a focus on baseball game outcomes (e.g. 'lead', 'save', 'second') to a broader focus on the baseball season and team performance (e.g. 'season', 'league', 'games'), which is a natural and expected semantic change in the context of sports.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a focus on baseball game outcomes (e.g. 'lead', 'save', 'second') to a broader focus on the baseball season and team performance (e.g. 'season', 'league', 'games'), which is a natural and expected semantic change in the context of sports.""
+}"
+DETM,nyt,llama,4,1990,1992,Incoherent change,"The topics shift from a gardening-related theme to a travel-related theme, indicating a lack of semantic continuity and a significant change in the underlying topic.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topics shift from a gardening-related theme to a travel-related theme, indicating a lack of semantic continuity and a significant change in the underlying topic.""
+}"
+DETM,nyt,llama,4,1993,1995,Minor drift,"The topics seem to be shifting from a focus on golf and sports to travel and infrastructure, but the change is gradual and not drastic, suggesting a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a focus on golf and sports to travel and infrastructure, but the change is gradual and not drastic, suggesting a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,4,1996,1998,Minor drift,"The topic evolution shows a gradual shift in focus from transportation modes (trains, cars, etc.) to travel-related concepts (miles, hour, trip, etc.), which is a plausible semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from transportation modes (trains, cars, etc.) to travel-related concepts (miles, hour, trip, etc.), which is a plausible semantic change.""
+}"
+DETM,nyt,llama,4,1999,2001,Minor drift,"The topics seem to be shifting between related concepts, such as transportation and real estate, but the changes are not drastic or unexpected, suggesting a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting between related concepts, such as transportation and real estate, but the changes are not drastic or unexpected, suggesting a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,4,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from general transportation terms to more specific modes of transportation, but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from general transportation terms to more specific modes of transportation, but the overall theme remains consistent.""
+}"
+DETM,nyt,llama,4,2005,2007,Meaningful evolution,"The topic evolution shows a gradual shift from a focus on general transportation modes (2005) to a more specific focus on air travel and services (2006-2007), indicating a real-world semantic shift in the context of the data.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on general transportation modes (2005) to a more specific focus on air travel and services (2006-2007), indicating a real-world semantic shift in the context of the data.""
+}"
+DETM,nyt,llama,5,1987,1989,Incoherent change,"The topics shift abruptly from a mix of natural and man-made objects to a specific context of art and museum, indicating a lack of semantic continuity.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topics shift abruptly from a mix of natural and man-made objects to a specific context of art and museum, indicating a lack of semantic continuity.""
+}"
+DETM,nyt,llama,5,1990,1992,Incoherent change,"The topics shift abruptly from sports-related terms to health-related terms, indicating a lack of semantic continuity and a change that is not representative of a real-world semantic shift.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topics shift abruptly from sports-related terms to health-related terms, indicating a lack of semantic continuity and a change that is not representative of a real-world semantic shift.""
+}"
+DETM,nyt,llama,5,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from AIDS treatment to general health and medical care, with some minor additions and substitutions of related terms, indicating a nuanced but not drastic change in the topic's semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from AIDS treatment to general health and medical care, with some minor additions and substitutions of related terms, indicating a nuanced but not drastic change in the topic's semantic meaning.""
+}"
+DETM,nyt,llama,5,1996,1998,Minor drift,"The topic evolution shows a gradual shift in vocabulary, with some words being replaced or added, but the overall theme and context remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in vocabulary, with some words being replaced or added, but the overall theme and context remain relatively consistent.""
+}"
+DETM,nyt,llama,5,1999,2001,Minor drift,"The topic evolution shows a gradual shift in focus from the 2000 presidential election to the aftermath of the election and the transition of power, but the core themes of politics and the presidency remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from the 2000 presidential election to the aftermath of the election and the transition of power, but the core themes of politics and the presidency remain consistent.""
+}"
+DETM,nyt,llama,5,2002,2004,Minor drift,"The topics seem to shift from a focus on politics and current events in 2002 and 2003 to a focus on fashion and color in 2004, which is a subtle but related change in topic, possibly reflecting a shift in public interest or media focus.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to shift from a focus on politics and current events in 2002 and 2003 to a focus on fashion and color in 2004, which is a subtle but related change in topic, possibly reflecting a shift in public interest or media focus.""
+}"
+DETM,nyt,llama,5,2005,2007,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in language usage, with 'floor' replacing 'room' and 'glass' emerging as a related concept, but the overall theme remains focused on fashion and design.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in language usage, with 'floor' replacing 'room' and 'glass' emerging as a related concept, but the overall theme remains focused on fashion and design.""
+}"
+DETM,nyt,llama,6,1987,1989,Minor drift,"The change in topic words is subtle, with some words being replaced or reordered, but the overall theme and vocabulary remain relatively consistent, suggesting a minor shift in the topic rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topic words is subtle, with some words being replaced or reordered, but the overall theme and vocabulary remain relatively consistent, suggesting a minor shift in the topic rather than a significant semantic change.""
+}"
+DETM,nyt,llama,6,1990,1992,Minor drift,"The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall semantic meaning remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall semantic meaning remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,6,1993,1995,Minor drift,"The topic evolution shows a gradual shift in vocabulary, but the underlying themes and concepts remain relatively consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in vocabulary, but the underlying themes and concepts remain relatively consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,6,1996,1998,Meaningful evolution,"The topic shifts from a general, abstract discussion in 1996 to a more specific, scientific focus in 1997 and 1998, indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic shifts from a general, abstract discussion in 1996 to a more specific, scientific focus in 1997 and 1998, indicating a real-world semantic shift.""
+}"
+DETM,nyt,llama,6,1999,2001,Minor drift,"The topic evolution shows a consistent shift in word order, but the words themselves remain largely the same, indicating a minor change in the topic's representation rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent shift in word order, but the words themselves remain largely the same, indicating a minor change in the topic's representation rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,6,2002,2004,Meaningful evolution,"The topics show a shift from a focus on general statements and actions ('said', 'going', 'want') to a more nuanced discussion of opinions and thoughts ('people', 'think', 'like', 'know') over the years, indicating a semantic change in the topic's meaning.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics show a shift from a focus on general statements and actions ('said', 'going', 'want') to a more nuanced discussion of opinions and thoughts ('people', 'think', 'like', 'know') over the years, indicating a semantic change in the topic's meaning.""
+}"
+DETM,nyt,llama,6,2005,2007,Minor drift,"The topic evolution shows a slight change in word order and removal of 'come' in 2007, but the overall vocabulary and themes remain consistent, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight change in word order and removal of 'come' in 2007, but the overall vocabulary and themes remain consistent, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,7,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word usage, with 'president' and 'executive' being replaced by 'company' and 'business', indicating a refinement in the topic's focus on corporate management, but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, with 'president' and 'executive' being replaced by 'company' and 'business', indicating a refinement in the topic's focus on corporate management, but the overall theme remains consistent.""
+}"
+DETM,nyt,llama,7,1990,1992,Minor drift,"The changes in the topic representation appear to be gradual and related to the context of the time period, with a shift from a focus on business and corporate leadership to a more personal and educational tone, but the core themes remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation appear to be gradual and related to the context of the time period, with a shift from a focus on business and corporate leadership to a more personal and educational tone, but the core themes remain relatively consistent.""
+}"
+DETM,nyt,llama,7,1993,1995,Meaningful evolution,"The topic evolves from a list of names to a discussion of restaurants, food, and dining, reflecting a real-world semantic shift from a personal to a culinary theme.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolves from a list of names to a discussion of restaurants, food, and dining, reflecting a real-world semantic shift from a personal to a culinary theme.""
+}"
+DETM,nyt,llama,7,1996,1998,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in cooking techniques and ingredient preferences, but do not indicate a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in cooking techniques and ingredient preferences, but do not indicate a significant semantic change.""
+}"
+DETM,nyt,llama,7,1999,2001,Minor drift,"The topics seem to be shifting from cooking-related words to travel-related words, but the change is not drastic and the words are still somewhat related to each other.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from cooking-related words to travel-related words, but the change is not drastic and the words are still somewhat related to each other.""
+}"
+DETM,nyt,llama,7,2002,2004,Minor drift,"The topics seem to be shifting from a focus on travel and accommodations to a focus on family and relationships, but the change is gradual and not drastic, suggesting a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a focus on travel and accommodations to a focus on family and relationships, but the change is gradual and not drastic, suggesting a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,7,2005,2007,Minor drift,"The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall theme of 'family and children' remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall theme of 'family and children' remains consistent across the years.""
+}"
+DETM,nyt,llama,8,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the core theme of racial demographics in the United States remains consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the core theme of racial demographics in the United States remains consistent across the three years.""
+}"
+DETM,nyt,llama,8,1990,1992,Minor drift,"The changes in the topic representation are subtle and gradual, with some words being replaced or added, but the overall theme and vocabulary remain consistent, indicating a minor shift in the topic rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and gradual, with some words being replaced or added, but the overall theme and vocabulary remain consistent, indicating a minor shift in the topic rather than a significant semantic change.""
+}"
+DETM,nyt,llama,8,1993,1995,Minor drift,"The changes in the topic representation are subtle and incremental, with words being replaced or reordered, but the overall theme of the topic remains consistent, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being replaced or reordered, but the overall theme of the topic remains consistent, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,8,1996,1998,Minor drift,"The changes in the topic representation are subtle and incremental, with words being replaced or reordered, but the overall theme of discussing economic or financial data remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being replaced or reordered, but the overall theme of discussing economic or financial data remains consistent.""
+}"
+DETM,nyt,llama,8,1999,2001,Minor drift,"The change in topics appears to be a gradual shift from a focus on general statistics and demographics to a more specific focus on education, but the core themes and vocabulary are still related, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics appears to be a gradual shift from a focus on general statistics and demographics to a more specific focus on education, but the core themes and vocabulary are still related, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,8,2002,2004,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in focus from 'high school' to 'college' and 'education' in general, suggesting a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in focus from 'high school' to 'college' and 'education' in general, suggesting a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,8,2005,2007,Minor drift,"The topic evolution shows a slight reordering of words, but the overall theme of education remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight reordering of words, but the overall theme of education remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,9,1987,1989,Minor drift,"The changes in the topic representation are subtle and gradual, with some words being replaced or added, but the overall theme of the topic appears to be related to literature and culture, suggesting a minor shift in focus rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and gradual, with some words being replaced or added, but the overall theme of the topic appears to be related to literature and culture, suggesting a minor shift in focus rather than a significant semantic change.""
+}"
+DETM,nyt,llama,9,1990,1992,Minor drift,"The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of the topic remains consistent, indicating a minor shift in the topic rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of the topic remains consistent, indicating a minor shift in the topic rather than a significant semantic change.""
+}"
+DETM,nyt,llama,9,1993,1995,Minor drift,"The topic evolution shows a gradual shift from a focus on literature and history to a focus on current events and everyday life, but the changes are relatively subtle and consistent with a gradual shift in topic rather than a sudden or drastic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on literature and history to a focus on current events and everyday life, but the changes are relatively subtle and consistent with a gradual shift in topic rather than a sudden or drastic change.""
+}"
+DETM,nyt,llama,9,1996,1998,Minor drift,"The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme and vocabulary remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme and vocabulary remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,9,1999,2001,Minor drift,"The topic evolution shows a gradual shift in word usage, with 'long' replacing 'good' in 2001, but the overall topic remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, with 'long' replacing 'good' in 2001, but the overall topic remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,9,2002,2004,Minor drift,"The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme of the topic remains consistent, suggesting a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme of the topic remains consistent, suggesting a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,9,2005,2007,Minor drift,"The topic evolution shows a slight shift in word order and removal of 'year' in 2007, but the overall theme of time and positivity remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word order and removal of 'year' in 2007, but the overall theme of time and positivity remains consistent.""
+}"
+DETM,nyt,llama,10,1987,1989,Minor drift,"The topic evolution shows a gradual shift in focus from the 1988 presidential election to the 1989 New York City mayoral election, but the underlying themes and vocabulary remain largely consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from the 1988 presidential election to the 1989 New York City mayoral election, but the underlying themes and vocabulary remain largely consistent.""
+}"
+DETM,nyt,llama,10,1990,1992,Minor drift,"The changes in the topic representation are subtle and gradual, reflecting a shift from a focus on Soviet politics to a broader international context, but the core themes of government and politics remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and gradual, reflecting a shift from a focus on Soviet politics to a broader international context, but the core themes of government and politics remain consistent.""
+}"
+DETM,nyt,llama,10,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from a general discussion of military and government to a more specific event in 1994 (Haiti) and then a broader international context in 1995 (British soldiers, killed, etc.), but the core theme of military and government remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from a general discussion of military and government to a more specific event in 1994 (Haiti) and then a broader international context in 1995 (British soldiers, killed, etc.), but the core theme of military and government remains consistent.""
+}"
+DETM,nyt,llama,10,1996,1998,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in the context, such as the introduction of new words like 'street' and 'avenue' in 1998, but the core theme of the topic remains relatively stable.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in the context, such as the introduction of new words like 'street' and 'avenue' in 1998, but the core theme of the topic remains relatively stable.""
+}"
+DETM,nyt,llama,10,1999,2001,Meaningful evolution,"The topics shift from geographical locations to family and politics, reflecting a real-world semantic shift in response to significant global events such as the change in US presidency from Clinton to Bush in 2001.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from geographical locations to family and politics, reflecting a real-world semantic shift in response to significant global events such as the change in US presidency from Clinton to Bush in 2001.""
+}"
+DETM,nyt,llama,10,2002,2004,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'weapons' and 'nuclear' decreasing in importance, while 'president' and 'security' become more prominent, but the overall theme remains consistent with the Iraq War and US politics.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'weapons' and 'nuclear' decreasing in importance, while 'president' and 'security' become more prominent, but the overall theme remains consistent with the Iraq War and US politics.""
+}"
+DETM,nyt,llama,10,2005,2007,Minor drift,"The changes in the topic representation are subtle and incremental, with words being reordered or replaced with similar terms, indicating a gradual shift in the topic's focus rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being reordered or replaced with similar terms, indicating a gradual shift in the topic's focus rather than a significant semantic change.""
+}"
+DETM,nyt,llama,11,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the overall theme appears to remain consistent with a focus on card games, with some minor changes in specific card names and geographical references.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the overall theme appears to remain consistent with a focus on card games, with some minor changes in specific card names and geographical references.""
+}"
+DETM,nyt,llama,11,1990,1992,Minor drift,"The topics seem to be shifting from a general news or editorial tone to a more specific focus on politics and elections, but the changes are relatively gradual and consistent with the progression of time.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a general news or editorial tone to a more specific focus on politics and elections, but the changes are relatively gradual and consistent with the progression of time.""
+}"
+DETM,nyt,llama,11,1993,1995,Meaningful evolution,"The topic evolution shows a shift from a focus on playing cards (1993) to tennis and golf (1994-1995), indicating a real-world semantic shift from a specific card game to sports.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on playing cards (1993) to tennis and golf (1994-1995), indicating a real-world semantic shift from a specific card game to sports.""
+}"
+DETM,nyt,llama,11,1996,1998,Incoherent change,"The topic shifts from baseball-related terms to theater-related terms, indicating a sudden and unrelated change rather than a semantic shift.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topic shifts from baseball-related terms to theater-related terms, indicating a sudden and unrelated change rather than a semantic shift.""
+}"
+DETM,nyt,llama,11,1999,2001,Minor drift,"The changes in the topic representation from 1999 to 2001 are subtle, with some terms being replaced or reordered, but the overall theme of the topic remains focused on the performing arts, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 1999 to 2001 are subtle, with some terms being replaced or reordered, but the overall theme of the topic remains focused on the performing arts, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,11,2002,2004,Minor drift,"The change in topics appears to be a shift from a cultural/entertainment focus in 2002 to a political focus in 2003 and 2004, which is a plausible and coherent semantic change given the time period.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics appears to be a shift from a cultural/entertainment focus in 2002 to a political focus in 2003 and 2004, which is a plausible and coherent semantic change given the time period.""
+}"
+DETM,nyt,llama,11,2005,2007,Minor drift,"The changes in the topic representation are subtle and consistent with the topic's focus on economic data, indicating a minor shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the topic's focus on economic data, indicating a minor shift in emphasis rather than a significant semantic change.""
+}"
+DETM,nyt,llama,12,1987,1989,Minor drift,"The topic evolution shows a slight reordering of words, but the overall theme and vocabulary remain consistent, indicating a minor shift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight reordering of words, but the overall theme and vocabulary remain consistent, indicating a minor shift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,12,1990,1992,Minor drift,"The topic evolution shows a gradual shift in word emphasis, but the core theme of government-related topics remains consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word emphasis, but the core theme of government-related topics remains consistent across the three years.""
+}"
+DETM,nyt,llama,12,1993,1995,Minor drift,"The topic evolution shows a gradual shift in word importance, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word importance, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,12,1996,1998,Minor drift,"The changes in the topic representation are subtle and incremental, with words being reordered or replaced with similar terms, suggesting a gradual shift in focus rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being reordered or replaced with similar terms, suggesting a gradual shift in focus rather than a significant semantic change.""
+}"
+DETM,nyt,llama,12,1999,2001,Incoherent change,"The topic evolution appears to be a sudden and unrelated shift from media-related terms to film-related terms, indicating a lack of semantic continuity.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topic evolution appears to be a sudden and unrelated shift from media-related terms to film-related terms, indicating a lack of semantic continuity.""
+}"
+DETM,nyt,llama,12,2002,2004,Minor drift,"The changes in the topic representation are subtle and consistent with the natural evolution of language, with some terms being replaced by synonyms or related concepts, but the overall meaning remains relatively stable.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the natural evolution of language, with some terms being replaced by synonyms or related concepts, but the overall meaning remains relatively stable.""
+}"
+DETM,nyt,llama,12,2005,2007,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in focus from 'artists' and 'works' to 'gallery' and 'exhibition', suggesting a minor evolution in the topic's semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in focus from 'artists' and 'works' to 'gallery' and 'exhibition', suggesting a minor evolution in the topic's semantic meaning.""
+}"
+DETM,nyt,llama,13,1987,1989,Minor drift,"The topic evolution shows a gradual shift in focus from President Reagan to President Bush, indicating a change in the political landscape, but the core topics and vocabulary remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from President Reagan to President Bush, indicating a change in the political landscape, but the core topics and vocabulary remain relatively consistent.""
+}"
+DETM,nyt,llama,13,1990,1992,Minor drift,"The topics seem to be shifting from a political context to a musical context, but the change is not drastic and could be attributed to a change in the source or focus of the data rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a political context to a musical context, but the change is not drastic and could be attributed to a change in the source or focus of the data rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,13,1993,1995,Minor drift,"The changes in the topic representation from 1993 to 1995 are subtle and incremental, with 'ong' replacing 'opera' and 'hall' replacing 'program', suggesting a gradual shift in focus within the same general topic of music and performance.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 1993 to 1995 are subtle and incremental, with 'ong' replacing 'opera' and 'hall' replacing 'program', suggesting a gradual shift in focus within the same general topic of music and performance.""
+}"
+DETM,nyt,llama,13,1996,1998,Minor drift,"The topic evolution shows a gradual shift from a focus on general music and performance terms to more specific genres like jazz and rock, but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on general music and performance terms to more specific genres like jazz and rock, but the overall theme remains consistent.""
+}"
+DETM,nyt,llama,13,1999,2001,Minor drift,"The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme of music remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme of music remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,13,2002,2004,Incoherent change,"The topics in 2002 and 2003 are related to corporate governance, while the topics in 2004 are unrelated to the previous years and seem to be about music, indicating a sudden and unrelated shift.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topics in 2002 and 2003 are related to corporate governance, while the topics in 2004 are unrelated to the previous years and seem to be about music, indicating a sudden and unrelated shift.""
+}"
+DETM,nyt,llama,13,2005,2007,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the overall theme of 'music' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the overall theme of 'music' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,14,1987,1989,Minor drift,"The topic evolution shows a gradual shift in focus from the Iran-Contra affair in 1987 to the transition to the Bush administration and military defense in 1989, with a consistent presence of core terms like 'military', 'american', and 'administration', indicating a coherent and expected semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from the Iran-Contra affair in 1987 to the transition to the Bush administration and military defense in 1989, with a consistent presence of core terms like 'military', 'american', and 'administration', indicating a coherent and expected semantic change.""
+}"
+DETM,nyt,llama,14,1990,1992,Minor drift,"The topic evolution shows a gradual shift from a focus on health and medicine to a broader topic of environmental science, but the core themes and vocabulary are still related, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on health and medicine to a broader topic of environmental science, but the core themes and vocabulary are still related, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,14,1993,1995,Meaningful evolution,"The topic evolution shows a shift from a focus on general computer and technology terms in 1993 to more specific software and internet-related terms in 1994 and 1995, indicating a real-world semantic shift as the internet became more prominent in the mid-1990s.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on general computer and technology terms in 1993 to more specific software and internet-related terms in 1994 and 1995, indicating a real-world semantic shift as the internet became more prominent in the mid-1990s.""
+}"
+DETM,nyt,llama,14,1996,1998,Minor drift,"The topic evolution shows a consistent presence of core words related to real estate ('bedroom', 'market', 'listed', 'broker', 'kitchen', 'bath', 'house'), with minor fluctuations in word order and addition of related terms ('taxes', 'weeks'), indicating a gradual and predictable change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of core words related to real estate ('bedroom', 'market', 'listed', 'broker', 'kitchen', 'bath', 'house'), with minor fluctuations in word order and addition of related terms ('taxes', 'weeks'), indicating a gradual and predictable change.""
+}"
+DETM,nyt,llama,14,1999,2001,Minor drift,"The changes in the topic representation are subtle and consistent with the natural evolution of language, but do not indicate a significant shift in semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the natural evolution of language, but do not indicate a significant shift in semantic meaning.""
+}"
+DETM,nyt,llama,14,2002,2004,Minor drift,"The topic evolution shows a slight shift in word order and addition of new words, but the overall theme of the topic remains focused on the legal system, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word order and addition of new words, but the overall theme of the topic remains focused on the legal system, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,14,2005,2007,Minor drift,"The topic evolution shows a gradual shift in word usage, with some words being replaced by synonyms or related terms, but the overall theme of the topic remains consistent with the legal system.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, with some words being replaced by synonyms or related terms, but the overall theme of the topic remains consistent with the legal system.""
+}"
+DETM,nyt,llama,15,1987,1989,Minor drift,"The topics seem to be shifting from sports-related terms to financial and economic terms, but the change is gradual and not drastic, suggesting a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from sports-related terms to financial and economic terms, but the change is gradual and not drastic, suggesting a minor drift rather than a significant semantic shift.""
+}"
+DETM,nyt,llama,15,1990,1992,Meaningful evolution,"The topic evolution shows a shift from a focus on short-term price movements (1990) to a more nuanced discussion of market trends and economic analysis (1992), indicating a real-world semantic shift in the topic.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on short-term price movements (1990) to a more nuanced discussion of market trends and economic analysis (1992), indicating a real-world semantic shift in the topic.""
+}"
+DETM,nyt,llama,15,1993,1995,Minor drift,"The topic evolution shows a gradual shift from a focus on financial markets (1993) to scientific research and energy (1994-1995), which is a related but distinct semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on financial markets (1993) to scientific research and energy (1994-1995), which is a related but distinct semantic change.""
+}"
+DETM,nyt,llama,15,1996,1998,Minor drift,"The topic evolution shows a gradual shift from a focus on scientific research and nuclear energy to a broader context of international relations and politics, but the core themes of research and science remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on scientific research and nuclear energy to a broader context of international relations and politics, but the core themes of research and science remain consistent.""
+}"
+DETM,nyt,llama,15,1999,2001,Minor drift,"The topic evolution shows a gradual shift in focus from 'officials' and 'military' to 'trade' and 'international', which is a plausible semantic change in the context of global politics and economics.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'officials' and 'military' to 'trade' and 'international', which is a plausible semantic change in the context of global politics and economics.""
+}"
+DETM,nyt,llama,15,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from 'government' and 'international' to 'trade', but the core themes of 'united states', 'american', and 'world' remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'government' and 'international' to 'trade', but the core themes of 'united states', 'american', and 'world' remain consistent.""
+}"
+DETM,nyt,llama,15,2005,2007,Minor drift,"The topic evolution shows a consistent presence of core terms related to international relations and geography, with minor fluctuations in the frequency of specific terms like 'foreign' and 'european', indicating a gradual shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of core terms related to international relations and geography, with minor fluctuations in the frequency of specific terms like 'foreign' and 'european', indicating a gradual shift in emphasis rather than a significant semantic change.""
+}"
+DETM,nyt,llama,16,1987,1989,Minor drift,"The topic evolution shows a consistent presence of geographic-related terms, but with some minor variations in word order and slight changes in term frequency, indicating a gradual shift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of geographic-related terms, but with some minor variations in word order and slight changes in term frequency, indicating a gradual shift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,16,1990,1992,Minor drift,"The changes in the topic representation are subtle and incremental, with some words being replaced or reordered, but the overall theme of food and dining remains consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words being replaced or reordered, but the overall theme of food and dining remains consistent across the three years.""
+}"
+DETM,nyt,llama,16,1993,1995,Minor drift,"The change in topics from 1993 to 1995 appears to be a shift from a focus on dining and food to a discussion of interior design and architecture, which is a related but distinct semantic domain, suggesting a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics from 1993 to 1995 appears to be a shift from a focus on dining and food to a discussion of interior design and architecture, which is a related but distinct semantic domain, suggesting a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,16,1996,1998,Minor drift,"The changes in the topic representation are subtle and gradual, with some words being replaced or added, but the overall theme of the topic (related to plants and water) remains consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and gradual, with some words being replaced or added, but the overall theme of the topic (related to plants and water) remains consistent across the three years.""
+}"
+DETM,nyt,llama,16,1999,2001,Minor drift,"The change in topic words is gradual and consistent with a shift from a natural environment to a more abstract concept, but the connection between the two topics is not entirely clear.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topic words is gradual and consistent with a shift from a natural environment to a more abstract concept, but the connection between the two topics is not entirely clear.""
+}"
+DETM,nyt,llama,16,2002,2004,Incoherent change,"The topics in 2002 and 2003 appear to be related to fashion and design, while the topic in 2004 is unrelated and seems to be about economics, indicating a sudden and unrelated shift rather than a semantic change.","{
+  ""label"": ""Incoherent change"",
+  ""justification"": ""The topics in 2002 and 2003 appear to be related to fashion and design, while the topic in 2004 is unrelated and seems to be about economics, indicating a sudden and unrelated shift rather than a semantic change.""
+}"
+DETM,nyt,llama,16,2005,2007,Minor drift,"The topic evolution shows a gradual shift in focus from the impact of hurricanes on the environment (2005) to the effects on agriculture and wildlife (2006-2007), indicating a minor drift in the topic's semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from the impact of hurricanes on the environment (2005) to the effects on agriculture and wildlife (2006-2007), indicating a minor drift in the topic's semantic meaning.""
+}"
+DETM,nyt,llama,17,1987,1989,Minor drift,"The topic evolution shows a gradual shift in focus from general banking terms to more specific financial metrics, but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from general banking terms to more specific financial metrics, but the overall theme remains consistent.""
+}"
+DETM,nyt,llama,17,1990,1992,Minor drift,"The topic evolution shows a gradual shift from a general time-related topic to a more specific education-related topic, but the change is not drastic and the words still share some common themes.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a general time-related topic to a more specific education-related topic, but the change is not drastic and the words still share some common themes.""
+}"
+DETM,nyt,llama,17,1993,1995,Minor drift,"The topic evolution shows a gradual shift from a business-related topic in 1993 to an education-related topic in 1994 and 1995, indicating a minor drift in the topic's semantic direction.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a business-related topic in 1993 to an education-related topic in 1994 and 1995, indicating a minor drift in the topic's semantic direction.""
+}"
+DETM,nyt,llama,17,1996,1998,Minor drift,"The change in topics appears to be a gradual shift from a focus on education and academic settings to a broader focus on community and geographic locations, which is a subtle and plausible semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics appears to be a gradual shift from a focus on education and academic settings to a broader focus on community and geographic locations, which is a subtle and plausible semantic change.""
+}"
+DETM,nyt,llama,17,1999,2001,Minor drift,"The topic evolution shows a gradual shift in vocabulary, with some words being replaced by synonyms or related terms, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in vocabulary, with some words being replaced by synonyms or related terms, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,17,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from urban development and geography (2002) to local politics and governance (2003-2004), which is a coherent and expected semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from urban development and geography (2002) to local politics and governance (2003-2004), which is a coherent and expected semantic change.""
+}"
+DETM,nyt,llama,17,2005,2007,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,18,1987,1989,Minor drift,"The topic evolution shows a gradual shift in focus from 'football' and 'giants' in 1987 to more general terms like 'lead' and 'scored' in 1988 and 1989, indicating a minor drift in the topic's semantic direction.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'football' and 'giants' in 1987 to more general terms like 'lead' and 'scored' in 1988 and 1989, indicating a minor drift in the topic's semantic direction.""
+}"
+DETM,nyt,llama,18,1990,1992,Minor drift,"The change in topics appears to be a gradual shift from a focus on general statements and actions (1990) to more specific and event-driven language (1991), and then to a more geopolitical and international focus (1992), which suggests a minor drift in the topic's semantic direction rather than a sudden or incoherent change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics appears to be a gradual shift from a focus on general statements and actions (1990) to more specific and event-driven language (1991), and then to a more geopolitical and international focus (1992), which suggests a minor drift in the topic's semantic direction rather than a sudden or incoherent change.""
+}"
+DETM,nyt,llama,18,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from 'trade' and 'international' to 'japan' and 'japanese', but the overall theme remains related to global politics and economics.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'trade' and 'international' to 'japan' and 'japanese', but the overall theme remains related to global politics and economics.""
+}"
+DETM,nyt,llama,18,1996,1998,Minor drift,"The topic evolution shows a gradual shift in focus from federal government spending to state and local government planning, which is a plausible semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from federal government spending to state and local government planning, which is a plausible semantic change.""
+}"
+DETM,nyt,llama,18,1999,2001,Minor drift,"The topics seem to be shifting from a focus on local politics and officials to a focus on government spending and budgeting, but the change is relatively gradual and consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a focus on local politics and officials to a focus on government spending and budgeting, but the change is relatively gradual and consistent.""
+}"
+DETM,nyt,llama,18,2002,2004,Minor drift,"The topic evolution shows a gradual shift from a focus on healthcare and financial aspects to a more general discussion of news and quotes, but the semantic change is not drastic or unexpected.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on healthcare and financial aspects to a more general discussion of news and quotes, but the semantic change is not drastic or unexpected.""
+}"
+DETM,nyt,llama,18,2005,2007,Minor drift,"The topic evolution shows a slight shift in word order and the introduction of new words ('treatment' in 2007), but the core themes of health and medicine remain consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word order and the introduction of new words ('treatment' in 2007), but the core themes of health and medicine remain consistent across the three years.""
+}"
+DETM,nyt,llama,19,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall theme of 'family' and 'children' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall theme of 'family' and 'children' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,19,1990,1992,Minor drift,"The topic evolution shows a gradual shift from a focus on police and crime to a focus on the legal process, but the vocabulary remains closely related and the change is not drastic.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on police and crime to a focus on the legal process, but the vocabulary remains closely related and the change is not drastic.""
+}"
+DETM,nyt,llama,19,1993,1995,Minor drift,"The topic evolution shows a gradual shift from a focus on the legal system to a focus on religious and cultural issues, but the core themes of 'church', 'jewish', 'religious', and 'catholic' remain consistent across the years, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on the legal system to a focus on religious and cultural issues, but the core themes of 'church', 'jewish', 'religious', and 'catholic' remain consistent across the years, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,19,1996,1998,Minor drift,"The topic evolution shows a gradual shift in the specific words used to describe the topic, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in the specific words used to describe the topic, but the overall theme remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,nyt,llama,19,1999,2001,Minor drift,"The change in topics appears to be a shift from a news-related topic (Kosovo conflict) to a leisure-related topic (tickets and museum admission), but the vocabulary is still relatively coherent within each year, suggesting a minor drift rather than a complete semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The change in topics appears to be a shift from a news-related topic (Kosovo conflict) to a leisure-related topic (tickets and museum admission), but the vocabulary is still relatively coherent within each year, suggesting a minor drift rather than a complete semantic shift.""
+}"
+DETM,nyt,llama,19,2002,2004,Minor drift,"The topics seem to be shifting from a focus on event or activity details (tickets, admission, etc.) to a focus on property characteristics (bedroom, bath, etc.), which is a plausible semantic change as the context likely shifted from a festival or event to real estate or housing market.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be shifting from a focus on event or activity details (tickets, admission, etc.) to a focus on property characteristics (bedroom, bath, etc.), which is a plausible semantic change as the context likely shifted from a festival or event to real estate or housing market.""
+}"
+DETM,nyt,llama,19,2005,2007,Minor drift,"The changes in the topic representation are subtle and consistent with a gradual shift in the focus from real estate market statistics to more general property characteristics, but the overall theme remains relatively stable.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with a gradual shift in the focus from real estate market statistics to more general property characteristics, but the overall theme remains relatively stable.""
+}"

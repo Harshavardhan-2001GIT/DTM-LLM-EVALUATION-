@@ -1,0 +1,881 @@
+dtm_model,dataset,llm,topic_idx,year_start,year_end,label,justification,raw
+DETM,neurips,llama,0,1987,1989,Minor drift,"The changes in the topic representation are subtle and incremental, with words being reordered or replaced with synonyms, indicating a gradual refinement of the topic rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being reordered or replaced with synonyms, indicating a gradual refinement of the topic rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,0,1990,1992,Minor drift,The changes in the topic representation are subtle and consistent with the gradual refinement of terminology in the field of neural networks.,"{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the gradual refinement of terminology in the field of neural networks.""
+}"
+DETM,neurips,llama,0,1993,1995,Minor drift,"The topic evolution shows a gradual shift from a focus on neural network architecture and weights to a focus on algorithms and methods, which is a plausible semantic change in the field of neural networks over time.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on neural network architecture and weights to a focus on algorithms and methods, which is a plausible semantic change in the field of neural networks over time.""
+}"
+DETM,neurips,llama,0,1996,1998,Minor drift,"The topic evolution shows a consistent shift in word order and slight changes in vocabulary, but the overall theme and key words remain similar, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent shift in word order and slight changes in vocabulary, but the overall theme and key words remain similar, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,0,1999,2001,Minor drift,"The topic evolution shows a gradual shift in word usage, with some words being replaced by synonyms or related terms, but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, with some words being replaced by synonyms or related terms, but the overall theme remains consistent.""
+}"
+DETM,neurips,llama,0,2002,2004,Minor drift,"The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall theme of discussing algorithms and methods remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and slight changes in word presence, but the overall theme of discussing algorithms and methods remains consistent.""
+}"
+DETM,neurips,llama,0,2005,2007,Minor drift,"The changes in the topic representation are subtle and consistent with the gradual refinement of terminology in the field, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the gradual refinement of terminology in the field, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,0,2008,2010,Minor drift,"The topic evolution shows a gradual shift in focus from 'greedy' and 'current setting' in 2008 to 'parameter' and 'weight' in 2010, but the core concepts of 'algorithm', 'online', and 'update' remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'greedy' and 'current setting' in 2008 to 'parameter' and 'weight' in 2010, but the core concepts of 'algorithm', 'online', and 'update' remain consistent.""
+}"
+DETM,neurips,llama,0,2011,2013,Minor drift,"The changes in the topic representation are subtle and consistent with the natural progression of the field, with terms like 'adaptive' and 'problem' emerging as the field matures.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the natural progression of the field, with terms like 'adaptive' and 'problem' emerging as the field matures.""
+}"
+DETM,neurips,llama,0,2014,2016,Minor drift,"The topic evolution shows a gradual shift in focus from general algorithmic concepts to more specific aspects of algorithm design, but the core theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from general algorithmic concepts to more specific aspects of algorithm design, but the core theme remains consistent.""
+}"
+DETM,neurips,llama,0,2017,2019,Meaningful evolution,"The topics shift from focusing on general information retrieval and ranking in 2017 to more specific concepts like adaptive sampling and optimal mechanisms in 2018 and 2019, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on general information retrieval and ranking in 2017 to more specific concepts like adaptive sampling and optimal mechanisms in 2018 and 2019, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,1,1987,1989,Minor drift,"The changes in the topic representation are subtle and incremental, with 'values' replacing 'desired' and 'single' replacing 'hidden', suggesting a refinement of the language used in the field rather than a significant shift in meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with 'values' replacing 'desired' and 'single' replacing 'hidden', suggesting a refinement of the language used in the field rather than a significant shift in meaning.""
+}"
+DETM,neurips,llama,1,1990,1992,Meaningful evolution,"The topic evolution reflects a shift from a focus on neural network architecture and training (1990) to a focus on the output and target values (1992), indicating a semantic change in the field's emphasis.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on neural network architecture and training (1990) to a focus on the output and target values (1992), indicating a semantic change in the field's emphasis.""
+}"
+DETM,neurips,llama,1,1993,1995,Minor drift,"The changes in the topic representation are subtle and incremental, with words being reordered or replaced with similar terms, indicating a gradual shift in the focus of the topic rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being reordered or replaced with similar terms, indicating a gradual shift in the focus of the topic rather than a significant semantic change.""
+}"
+DETM,neurips,llama,1,1996,1998,Minor drift,"The changes in the topic representation are subtle and consistent with the natural progression of machine learning research, with the introduction of new concepts like 'experiments' and 'performance' in 1998, but the core concepts of 'training', 'data', 'test', and 'features' remain stable.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the natural progression of machine learning research, with the introduction of new concepts like 'experiments' and 'performance' in 1998, but the core concepts of 'training', 'data', 'test', and 'features' remain stable.""
+}"
+DETM,neurips,llama,1,1999,2001,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme of machine learning and training remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme of machine learning and training remains consistent.""
+}"
+DETM,neurips,llama,1,2002,2004,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of the topic remains consistent, indicating a minor shift in the language used rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of the topic remains consistent, indicating a minor shift in the language used rather than a significant semantic change.""
+}"
+DETM,neurips,llama,1,2005,2007,Meaningful evolution,"The topics shift from focusing on 'features' and 'selection' in 2005 to emphasizing 'regularization' and 'parameter' in 2006 and 2007, indicating a semantic change in the field from feature selection to regularization techniques.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on 'features' and 'selection' in 2005 to emphasizing 'regularization' and 'parameter' in 2006 and 2007, indicating a semantic change in the field from feature selection to regularization techniques.""
+}"
+DETM,neurips,llama,1,2008,2010,Meaningful evolution,"The topic evolution reflects a shift from focusing on 'regularization' and 'lasso' in 2008 to a broader discussion of 'sparsity', 'penalty', and 'statistical' aspects in 2010, indicating a real-world semantic shift in the field of regression analysis.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from focusing on 'regularization' and 'lasso' in 2008 to a broader discussion of 'sparsity', 'penalty', and 'statistical' aspects in 2010, indicating a real-world semantic shift in the field of regression analysis.""
+}"
+DETM,neurips,llama,1,2011,2013,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'support' and 'logistic' entering the topic in 2013, but the core concepts of 'regression', 'regularization', 'lasso', and 'parameter' remain consistent across years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'support' and 'logistic' entering the topic in 2013, but the core concepts of 'regression', 'regularization', 'lasso', and 'parameter' remain consistent across years.""
+}"
+DETM,neurips,llama,1,2014,2016,Minor drift,"The topic evolution shows a gradual shift from a focus on statistical methods and journal publications to a focus on data and experiments, but the core concepts remain related to regression and data analysis.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on statistical methods and journal publications to a focus on data and experiments, but the core concepts remain related to regression and data analysis.""
+}"
+DETM,neurips,llama,1,2017,2019,Meaningful evolution,"The topic evolution reflects a shift from a focus on data and datasets to a focus on clustering and data analysis techniques, indicating a semantic change in the field of data science.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on data and datasets to a focus on clustering and data analysis techniques, indicating a semantic change in the field of data science.""
+}"
+DETM,neurips,llama,2,1987,1989,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'dynamic' and 'current' consistently appearing, but with some variation in the surrounding words, indicating a minor drift in the topic's nuances rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'dynamic' and 'current' consistently appearing, but with some variation in the surrounding words, indicating a minor drift in the topic's nuances rather than a significant semantic change.""
+}"
+DETM,neurips,llama,2,1990,1992,Minor drift,"The topic evolution shows a gradual shift from focusing on 'current' and 'dynamic' to incorporating related concepts like 'search', 'computational', and 'incremental', indicating a nuanced development of the topic rather than a drastic semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from focusing on 'current' and 'dynamic' to incorporating related concepts like 'search', 'computational', and 'incremental', indicating a nuanced development of the topic rather than a drastic semantic change.""
+}"
+DETM,neurips,llama,2,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from 'computational' and 'university' to 'problem', 'solution', and 'optimization', but the core concepts remain related to computational search and optimization.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'computational' and 'university' to 'problem', 'solution', and 'optimization', but the core concepts remain related to computational search and optimization.""
+}"
+DETM,neurips,llama,2,1996,1998,Meaningful evolution,"The topics shift from focusing on 'pruning' and 'price' in 1996 to emphasizing 'efficient', 'optimal', and 'constraints' in 1997 and 1998, indicating a semantic shift towards more advanced and nuanced concepts in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on 'pruning' and 'price' in 1996 to emphasizing 'efficient', 'optimal', and 'constraints' in 1997 and 1998, indicating a semantic shift towards more advanced and nuanced concepts in the field.""
+}"
+DETM,neurips,llama,2,1999,2001,Minor drift,"The changes in the topic representation from 1999 to 2001 are subtle and incremental, with some words being replaced or reordered, but the overall theme of optimization and problem-solving remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 1999 to 2001 are subtle and incremental, with some words being replaced or reordered, but the overall theme of optimization and problem-solving remains consistent.""
+}"
+DETM,neurips,llama,2,2002,2004,Minor drift,"The topic evolution shows a gradual shift in terminology, with words like 'support' and 'optimal' being replaced by 'norm' and 'convex', indicating a refinement in the language used, but the underlying concepts remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in terminology, with words like 'support' and 'optimal' being replaced by 'norm' and 'convex', indicating a refinement in the language used, but the underlying concepts remain relatively consistent.""
+}"
+DETM,neurips,llama,2,2005,2007,Minor drift,"The topic evolution shows a gradual shift in emphasis from optimization and convex analysis to linear algebra and machine learning concepts, but the core themes remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from optimization and convex analysis to linear algebra and machine learning concepts, but the core themes remain relatively consistent.""
+}"
+DETM,neurips,llama,2,2008,2010,Meaningful evolution,"The topic evolves from focusing on feature selection and linear vectors in 2008 to incorporating learning and matching in 2010, indicating a shift towards more advanced machine learning concepts.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolves from focusing on feature selection and linear vectors in 2008 to incorporating learning and matching in 2010, indicating a shift towards more advanced machine learning concepts.""
+}"
+DETM,neurips,llama,2,2011,2013,Meaningful evolution,"The topic evolution reflects a shift from focusing on 'sparse' and 'linear' features to 'representation' and 'invariant' features, indicating a semantic change in the field from traditional machine learning to more advanced techniques.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from focusing on 'sparse' and 'linear' features to 'representation' and 'invariant' features, indicating a semantic change in the field from traditional machine learning to more advanced techniques.""
+}"
+DETM,neurips,llama,2,2014,2016,Meaningful evolution,"The topic evolution reflects a shift from traditional computer vision concepts (2014) to deep learning techniques (2015-2016), indicating a significant semantic change in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from traditional computer vision concepts (2014) to deep learning techniques (2015-2016), indicating a significant semantic change in the field.""
+}"
+DETM,neurips,llama,2,2017,2019,Meaningful evolution,"The shift from focusing on 'image recognition' and 'deep vision' in 2017 to emphasizing 'feature' and 'local' in 2019 suggests a semantic change in the field, likely reflecting advancements in the field of convolutional neural networks.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The shift from focusing on 'image recognition' and 'deep vision' in 2017 to emphasizing 'feature' and 'local' in 2019 suggests a semantic change in the field, likely reflecting advancements in the field of convolutional neural networks.""
+}"
+DETM,neurips,llama,3,1987,1989,Minor drift,"The topic evolution shows a slight shift in word emphasis, but the core concepts of 'motion', 'visual', and 'spatial' remain consistent across the three years, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word emphasis, but the core concepts of 'motion', 'visual', and 'spatial' remain consistent across the three years, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,3,1990,1992,Minor drift,"The topic evolution shows a consistent presence of core terms ('motion', 'velocity', 'visual', 'position', 'motor', 'movement') with some minor additions and substitutions, indicating a gradual refinement of the topic rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of core terms ('motion', 'velocity', 'visual', 'position', 'motor', 'movement') with some minor additions and substitutions, indicating a gradual refinement of the topic rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,3,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from 'dynamics' and 'movement' to 'time', 'state', and 'systems', which is a natural progression in the field of control systems, but the core concepts remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'dynamics' and 'movement' to 'time', 'state', and 'systems', which is a natural progression in the field of control systems, but the core concepts remain relatively consistent.""
+}"
+DETM,neurips,llama,3,1996,1998,Minor drift,"The topic evolution shows a gradual shift in word usage, but the core concepts and themes remain relatively consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the core concepts and themes remain relatively consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,3,1999,2001,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'filter', 'switching', 'neural', 'control') entering or exiting the topic, but the overall semantic meaning remains relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'filter', 'switching', 'neural', 'control') entering or exiting the topic, but the overall semantic meaning remains relatively consistent.""
+}"
+DETM,neurips,llama,3,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from 'neural dynamics' to 'analog circuits' and 'computational systems', but the core concepts remain similar, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'neural dynamics' to 'analog circuits' and 'computational systems', but the core concepts remain similar, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,3,2005,2007,Meaningful evolution,"The topics shift from a focus on 'time' and 'state' in 2005 to a broader emphasis on 'systems' and 'dynamics' in 2006, and then to a more specific focus on 'computational' and 'control' in 2007, indicating a coherent and relevant semantic change.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from a focus on 'time' and 'state' in 2005 to a broader emphasis on 'systems' and 'dynamics' in 2006, and then to a more specific focus on 'computational' and 'control' in 2007, indicating a coherent and relevant semantic change.""
+}"
+DETM,neurips,llama,3,2008,2010,Minor drift,"The topic evolution shows a gradual shift from focusing on 'computational' and 'performance' aspects in 2008 to emphasizing 'size', 'scale', and 'accuracy' in 2010, which is a subtle but coherent change in the topic's semantic direction.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from focusing on 'computational' and 'performance' aspects in 2008 to emphasizing 'size', 'scale', and 'accuracy' in 2010, which is a subtle but coherent change in the topic's semantic direction.""
+}"
+DETM,neurips,llama,3,2011,2013,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'performance' and 'number' consistently present, but with some minor changes in surrounding words, indicating a nuanced but not drastic semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'performance' and 'number' consistently present, but with some minor changes in surrounding words, indicating a nuanced but not drastic semantic change.""
+}"
+DETM,neurips,llama,3,2014,2016,Minor drift,"The topic evolution shows a gradual shift in focus from 'performance' and 'computational' in 2014 to 'error' and 'compression' in 2016, but the overall theme remains related to testing and evaluation.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'performance' and 'computational' in 2014 to 'error' and 'compression' in 2016, but the overall theme remains related to testing and evaluation.""
+}"
+DETM,neurips,llama,3,2017,2019,Meaningful evolution,"The topic evolution shows a consistent shift from a focus on 'computational' and 'space' in 2017 to a stronger emphasis on 'international' and 'representations' in 2019, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a consistent shift from a focus on 'computational' and 'space' in 2017 to a stronger emphasis on 'international' and 'representations' in 2019, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,4,1987,1989,Meaningful evolution,"The topic evolution shows a shift from a focus on qualitative and theoretical aspects (e.g. 'qualitative', 'complex') in 1987 to a more practical and specific focus on neural network architectures (e.g. 'feedforward', 'architecture') in 1989, indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on qualitative and theoretical aspects (e.g. 'qualitative', 'complex') in 1987 to a more practical and specific focus on neural network architectures (e.g. 'feedforward', 'architecture') in 1989, indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,4,1990,1992,Meaningful evolution,"The topic evolution shows a gradual shift from emphasizing 'multi' and 'complex' to 'superior' and 'complete', indicating a semantic change in the focus from network architecture to performance.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a gradual shift from emphasizing 'multi' and 'complex' to 'superior' and 'complete', indicating a semantic change in the focus from network architecture to performance.""
+}"
+DETM,neurips,llama,4,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from neural networks to a broader discussion of network-related concepts, but the core theme remains relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from neural networks to a broader discussion of network-related concepts, but the core theme remains relatively consistent.""
+}"
+DETM,neurips,llama,4,1996,1998,Meaningful evolution,"The topic evolution shows a shift from a focus on 'consistent' and 'statistical' models to a more nuanced understanding of 'human' and 'subjective' preferences, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on 'consistent' and 'statistical' models to a more nuanced understanding of 'human' and 'subjective' preferences, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,4,1999,2001,Meaningful evolution,"The topic evolution shows a shift from a focus on statistical and Bayesian models to a focus on causal and human-centered models, reflecting a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on statistical and Bayesian models to a focus on causal and human-centered models, reflecting a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,4,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from 'causal' and 'probabilistic' models to 'link' and 'user' interactions, which is a coherent and expected progression in the field of modeling and analysis.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'causal' and 'probabilistic' models to 'link' and 'user' interactions, which is a coherent and expected progression in the field of modeling and analysis.""
+}"
+DETM,neurips,llama,4,2005,2007,Minor drift,"The evolution shows a gradual shift in focus from 'group' and 'hierarchical' to 'word' and 'document', but the underlying concepts remain related to topic modeling, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The evolution shows a gradual shift in focus from 'group' and 'hierarchical' to 'word' and 'document', but the underlying concepts remain related to topic modeling, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,4,2008,2010,Meaningful evolution,"The topic evolution reflects a shift from general concepts of 'topic' and 'semantic' to more specific and related concepts in computer vision, such as 'object', 'image', and 'recognition'.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from general concepts of 'topic' and 'semantic' to more specific and related concepts in computer vision, such as 'object', 'image', and 'recognition'.""
+}"
+DETM,neurips,llama,4,2011,2013,Minor drift,"The topic evolution shows a gradual shift in focus from 'image recognition' to 'image analysis' and 'computer vision', but the core concepts remain similar.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'image recognition' to 'image analysis' and 'computer vision', but the core concepts remain similar.""
+}"
+DETM,neurips,llama,4,2014,2016,Meaningful evolution,"The topic evolution shows a shift from a focus on image and object detection to a focus on training and model development, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on image and object detection to a focus on training and model development, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,4,2017,2019,Meaningful evolution,The topic evolution reflects a shift from a focus on training and testing deep learning models to a focus on evaluating model performance through metrics such as loss and accuracy.,"{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on training and testing deep learning models to a focus on evaluating model performance through metrics such as loss and accuracy.""
+}"
+DETM,neurips,llama,5,1987,1989,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'artificial' and 'connectionist' to 'human' and 'language', which is a plausible semantic change in the field of artificial intelligence and cognitive science.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'artificial' and 'connectionist' to 'human' and 'language', which is a plausible semantic change in the field of artificial intelligence and cognitive science.""
+}"
+DETM,neurips,llama,5,1990,1992,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'speech' and 'language' consistently present, but with some variation in other terms, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'speech' and 'language' consistently present, but with some variation in other terms, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,5,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from speech and sound processing to signal processing and neural networks, but the core concepts remain related to the field of neural networks and signal processing.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from speech and sound processing to signal processing and neural networks, but the core concepts remain related to the field of neural networks and signal processing.""
+}"
+DETM,neurips,llama,5,1996,1998,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'signal' and 'signals' consistently present, but with some variation in related terms like 'frequency', 'sources', and 'noise', indicating a nuanced but not drastic change in the topic's semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'signal' and 'signals' consistently present, but with some variation in related terms like 'frequency', 'sources', and 'noise', indicating a nuanced but not drastic change in the topic's semantic meaning.""
+}"
+DETM,neurips,llama,5,1999,2001,Minor drift,"The topic evolution shows a gradual shift in focus from signal processing to speech processing, but the core concepts remain similar, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from signal processing to speech processing, but the core concepts remain similar, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,5,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from 'analysis' and 'noise' in 2002 to 'processing' and 'separation' in 2004, but the core concepts of 'signal', 'source', and 'frequency' remain consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'analysis' and 'noise' in 2002 to 'processing' and 'separation' in 2004, but the core concepts of 'signal', 'source', and 'frequency' remain consistent across the years.""
+}"
+DETM,neurips,llama,5,2005,2007,Meaningful evolution,"The topic evolution reflects a shift from a focus on signal processing and filtering in 2005 to a focus on source localization and speech processing in 2006 and 2007, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on signal processing and filtering in 2005 to a focus on source localization and speech processing in 2006 and 2007, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,5,2008,2010,Meaningful evolution,"The topics shift from focusing on spatial and visual aspects of motion in 2008 to a more functional and brain-centric perspective in 2010, indicating a genuine semantic change in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on spatial and visual aspects of motion in 2008 to a more functional and brain-centric perspective in 2010, indicating a genuine semantic change in the field.""
+}"
+DETM,neurips,llama,5,2011,2013,Minor drift,"The topic evolution shows a gradual shift in focus from signal processing and neuroscience to related concepts, but the core themes and vocabulary remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from signal processing and neuroscience to related concepts, but the core themes and vocabulary remain relatively consistent.""
+}"
+DETM,neurips,llama,5,2014,2016,Minor drift,"The topics seem to shift from a focus on temporal and spatial analysis in 2014 to a focus on human and individual responses in 2015, and then to a focus on statistical analysis and bias in 2016, but the changes are not drastic and still seem related to the same general field of study.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to shift from a focus on temporal and spatial analysis in 2014 to a focus on human and individual responses in 2015, and then to a focus on statistical analysis and bias in 2016, but the changes are not drastic and still seem related to the same general field of study.""
+}"
+DETM,neurips,llama,5,2017,2019,Minor drift,"The topic evolution shows a gradual shift in focus from experimental design and results presentation to a more specific context of publishing research on arXiv and conferences, indicating a minor drift in the topic's scope rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from experimental design and results presentation to a more specific context of publishing research on arXiv and conferences, indicating a minor drift in the topic's scope rather than a significant semantic change.""
+}"
+DETM,neurips,llama,6,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the overall theme and vocabulary remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the overall theme and vocabulary remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,6,1990,1992,Minor drift,"The changes in the topic representation are subtle and incremental, with words being added or removed in a way that suggests a gradual refinement of the topic's meaning, rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being added or removed in a way that suggests a gradual refinement of the topic's meaning, rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,6,1993,1995,Meaningful evolution,"The topic evolution shows a clear shift from focusing on basic concepts like 'input', 'output', 'vector', and 'code' in 1993 to more advanced concepts like 'ensemble', 'classification', and 'perceptron' in 1995, indicating a significant semantic change in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a clear shift from focusing on basic concepts like 'input', 'output', 'vector', and 'code' in 1993 to more advanced concepts like 'ensemble', 'classification', and 'perceptron' in 1995, indicating a significant semantic change in the field.""
+}"
+DETM,neurips,llama,6,1996,1998,Minor drift,"The changes in the topic representation are subtle and consistent with the gradual development of machine learning concepts, but do not indicate a significant shift in semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and consistent with the gradual development of machine learning concepts, but do not indicate a significant shift in semantic meaning.""
+}"
+DETM,neurips,llama,6,1999,2001,Meaningful evolution,"The topic evolution shows a shift from a focus on machine learning algorithms (1999) to a focus on the application of classification (2000-2001), indicating a semantic change in the field's emphasis.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on machine learning algorithms (1999) to a focus on the application of classification (2000-2001), indicating a semantic change in the field's emphasis.""
+}"
+DETM,neurips,llama,6,2002,2004,Minor drift,"The changes in the topic words are subtle and incremental, with some words being reordered or replaced with synonyms, but the overall theme of machine learning and classification remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic words are subtle and incremental, with some words being reordered or replaced with synonyms, but the overall theme of machine learning and classification remains consistent.""
+}"
+DETM,neurips,llama,6,2005,2007,Minor drift,"The topic evolution shows a gradual shift in focus from general machine learning concepts to more specific aspects of supervised learning, but the core ideas remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from general machine learning concepts to more specific aspects of supervised learning, but the core ideas remain relatively consistent.""
+}"
+DETM,neurips,llama,6,2008,2010,Minor drift,"The evolution of the topic shows a gradual shift in emphasis, with some terms gaining or losing prominence, but the overall meaning and context remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The evolution of the topic shows a gradual shift in emphasis, with some terms gaining or losing prominence, but the overall meaning and context remain relatively consistent.""
+}"
+DETM,neurips,llama,6,2011,2013,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme of the topic remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme of the topic remains consistent.""
+}"
+DETM,neurips,llama,6,2014,2016,Minor drift,"The changes in the topic representation appear to be gradual and related to the evolution of the field, with a shift from ranking and labeling to more advanced concepts like neural networks and inputs, but the core themes remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation appear to be gradual and related to the evolution of the field, with a shift from ranking and labeling to more advanced concepts like neural networks and inputs, but the core themes remain relatively consistent.""
+}"
+DETM,neurips,llama,6,2017,2019,Minor drift,"The topic evolution shows a gradual shift in word usage, with some words being replaced or reordered, but the overall theme of neural networks remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, with some words being replaced or reordered, but the overall theme of neural networks remains consistent.""
+}"
+DETM,neurips,llama,7,1987,1989,Minor drift,"The topic evolution shows a gradual shift in focus from 'regions' and 'feature' to 'class' and 'examples', but the underlying concepts remain related to classification and decision-making.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'regions' and 'feature' to 'class' and 'examples', but the underlying concepts remain related to classification and decision-making.""
+}"
+DETM,neurips,llama,7,1990,1992,Minor drift,"The topic evolution shows a gradual shift in word usage, but the underlying concepts and themes remain relatively consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the underlying concepts and themes remain relatively consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,7,1993,1995,Minor drift,"The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of the topic appears to be related to robotics or human-computer interaction, suggesting a gradual shift in focus rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of the topic appears to be related to robotics or human-computer interaction, suggesting a gradual shift in focus rather than a significant semantic change.""
+}"
+DETM,neurips,llama,7,1996,1998,Minor drift,"The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of the topic (related to robotics and movement) remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of the topic (related to robotics and movement) remains consistent across the years.""
+}"
+DETM,neurips,llama,7,1999,2001,Meaningful evolution,"The topics shift from focusing on spatial and localization aspects in 1999 to a more emphasis on movement and velocity in 2001, indicating a semantic change in the field from static to dynamic aspects of robotics.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on spatial and localization aspects in 1999 to a more emphasis on movement and velocity in 2001, indicating a semantic change in the field from static to dynamic aspects of robotics.""
+}"
+DETM,neurips,llama,7,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from mechanical aspects (e.g., 'robot', 'motor', 'motion') to more visual and human-related aspects (e.g., 'visual', 'human', 'target'), but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from mechanical aspects (e.g., 'robot', 'motor', 'motion') to more visual and human-related aspects (e.g., 'visual', 'human', 'target'), but the overall theme remains consistent.""
+}"
+DETM,neurips,llama,7,2005,2007,Meaningful evolution,"The topics shift from focusing on visual and motion aspects in 2005 to a more abstract and cognitive focus on categories, causality, and decision-making in 2007, indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on visual and motion aspects in 2005 to a more abstract and cognitive focus on categories, causality, and decision-making in 2007, indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,7,2008,2010,Meaningful evolution,"The topics shift from a focus on human decision-making and evidence in 2008 to a focus on goal-directed behavior and uncertainty in 2009, and then to a focus on action and utility in 2010, reflecting a coherent progression in the field's semantic development.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from a focus on human decision-making and evidence in 2008 to a focus on goal-directed behavior and uncertainty in 2009, and then to a focus on action and utility in 2010, reflecting a coherent progression in the field's semantic development.""
+}"
+DETM,neurips,llama,7,2011,2013,Minor drift,"The topic evolution shows a gradual shift in focus from planning and expert systems to reinforcement learning and robotics, but the core concepts of agents, actions, and states remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from planning and expert systems to reinforcement learning and robotics, but the core concepts of agents, actions, and states remain consistent.""
+}"
+DETM,neurips,llama,7,2014,2016,Meaningful evolution,"The topic evolution shows a shift from a focus on game-related concepts (2014) to a more general focus on artificial intelligence and planning (2015-2016), indicating a semantic change in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on game-related concepts (2014) to a more general focus on artificial intelligence and planning (2015-2016), indicating a semantic change in the field.""
+}"
+DETM,neurips,llama,7,2017,2019,Minor drift,"The topic evolution shows a gradual shift from a focus on planning and prediction in 2017 to a more nuanced discussion of prediction, representation, and explanation in 2019, with 2018 serving as a transitional year, indicating a minor drift in the topic's semantic direction.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on planning and prediction in 2017 to a more nuanced discussion of prediction, representation, and explanation in 2019, with 2018 serving as a transitional year, indicating a minor drift in the topic's semantic direction.""
+}"
+DETM,neurips,llama,8,1987,1989,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms being replaced or added, but the overall theme of stability and dynamics remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms being replaced or added, but the overall theme of stability and dynamics remains consistent.""
+}"
+DETM,neurips,llama,8,1990,1992,Meaningful evolution,"The topic evolution shows a shift from a focus on mathematical stability and eigenvalues in 1990 to a focus on local and global behavior in 1991 and 1992, indicating a semantic change in the field of dynamics.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on mathematical stability and eigenvalues in 1990 to a focus on local and global behavior in 1991 and 1992, indicating a semantic change in the field of dynamics.""
+}"
+DETM,neurips,llama,8,1993,1995,Minor drift,"The changes in the topic representation appear to be gradual and subtle, with some words being replaced or reordered, but the overall theme of 'dynamics' and 'time' remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation appear to be gradual and subtle, with some words being replaced or reordered, but the overall theme of 'dynamics' and 'time' remains consistent across the years.""
+}"
+DETM,neurips,llama,8,1996,1998,Minor drift,"The topic evolution shows a gradual shift in word usage, but the core concepts of 'time', 'phase', 'dynamics', and 'behavior' remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the core concepts of 'time', 'phase', 'dynamics', and 'behavior' remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,8,1999,2001,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms being replaced or added, but the overall theme of 'time' and 'rate' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms being replaced or added, but the overall theme of 'time' and 'rate' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,8,2002,2004,Minor drift,"The topics show gradual changes in word selection, but the underlying concepts, such as time, rate, potential, and change, remain relatively consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics show gradual changes in word selection, but the underlying concepts, such as time, rate, potential, and change, remain relatively consistent across the years.""
+}"
+DETM,neurips,llama,8,2005,2007,Meaningful evolution,"The topic evolution shows a shift from a focus on mathematical concepts (e.g. 'rate', 'change', 'line') to a more nuanced understanding of temporal dynamics (e.g. 'processes', 'temporal', 'dynamics'), indicating a deeper exploration of the topic.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on mathematical concepts (e.g. 'rate', 'change', 'line') to a more nuanced understanding of temporal dynamics (e.g. 'processes', 'temporal', 'dynamics'), indicating a deeper exploration of the topic.""
+}"
+DETM,neurips,llama,8,2008,2010,Minor drift,"The topic evolution shows a gradual shift in word usage, but the core concepts of 'time', 'change', and 'process' remain consistent across the years, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the core concepts of 'time', 'change', and 'process' remain consistent across the years, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,8,2011,2013,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of 'time series analysis' remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of 'time series analysis' remains consistent across the years.""
+}"
+DETM,neurips,llama,8,2014,2016,Meaningful evolution,"The topic evolution shows a shift from a focus on statistical concepts (e.g., 'mixture', 'probability', 'means') to a focus on practical applications and algorithms (e.g., 'block', 'community', 'detection', 'algorithm'), indicating a semantic shift in the field of clustering.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on statistical concepts (e.g., 'mixture', 'probability', 'means') to a focus on practical applications and algorithms (e.g., 'block', 'community', 'detection', 'algorithm'), indicating a semantic shift in the field of clustering.""
+}"
+DETM,neurips,llama,8,2017,2019,Meaningful evolution,"The topic evolution shows a shift from a focus on general clustering concepts in 2017 to a more specific focus on differential algorithms and their guarantees in 2018 and 2019, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on general clustering concepts in 2017 to a more specific focus on differential algorithms and their guarantees in 2018 and 2019, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,9,1987,1989,Meaningful evolution,"The topic evolution shows a shift from a focus on 'sequence' and 'code' in 1987 to a focus on 'recognition' and 'classification' in 1988 and 1989, indicating a semantic shift towards more advanced concepts in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on 'sequence' and 'code' in 1987 to a focus on 'recognition' and 'classification' in 1988 and 1989, indicating a semantic shift towards more advanced concepts in the field.""
+}"
+DETM,neurips,llama,9,1990,1992,Minor drift,"The changes in the topic representation from 1990 to 1992 show a gradual shift from a focus on speech recognition and segmentation to a more nuanced understanding of character and word recognition, with some terms like 'context' and 'dependent' appearing in 1992, but the overall theme remains consistent with the topic of speech recognition.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 1990 to 1992 show a gradual shift from a focus on speech recognition and segmentation to a more nuanced understanding of character and word recognition, with some terms like 'context' and 'dependent' appearing in 1992, but the overall theme remains consistent with the topic of speech recognition.""
+}"
+DETM,neurips,llama,9,1993,1995,Meaningful evolution,"The topic evolution shows a shift from a focus on 'segmentation' and 'scores' in 1993 to a focus on 'class', 'pattern', and 'probability' in 1995, indicating a semantic shift towards more abstract concepts in the field of speech recognition.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on 'segmentation' and 'scores' in 1993 to a focus on 'class', 'pattern', and 'probability' in 1995, indicating a semantic shift towards more abstract concepts in the field of speech recognition.""
+}"
+DETM,neurips,llama,9,1996,1998,Meaningful evolution,"The topic shifts from focusing on speech recognition and sequence analysis in 1996 to a more general emphasis on machine learning and classification techniques in 1997 and 1998, reflecting a real-world advancement in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic shifts from focusing on speech recognition and sequence analysis in 1996 to a more general emphasis on machine learning and classification techniques in 1997 and 1998, reflecting a real-world advancement in the field.""
+}"
+DETM,neurips,llama,9,1999,2001,Minor drift,"The topic evolution shows a gradual shift in focus from 'boosting' and 'bartlett' in 1999 to 'perceptron' and 'product' in 2000 and 2001, but the core concepts of 'kernel', 'margin', and 'vector' remain consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'boosting' and 'bartlett' in 1999 to 'perceptron' and 'product' in 2000 and 2001, but the core concepts of 'kernel', 'margin', and 'vector' remain consistent across the years.""
+}"
+DETM,neurips,llama,9,2002,2004,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'weighted' and 'positive' in 2002 to 'data', 'feature', and 'supervised' in 2004, but the core concepts of 'kernel', 'vector', and 'function' remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'weighted' and 'positive' in 2002 to 'data', 'feature', and 'supervised' in 2004, but the core concepts of 'kernel', 'vector', and 'function' remain consistent.""
+}"
+DETM,neurips,llama,9,2005,2007,Meaningful evolution,"The topic evolution shows a shift from a focus on machine learning algorithms (2005) to a more specific application in classification and machine learning methods (2007), indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on machine learning algorithms (2005) to a more specific application in classification and machine learning methods (2007), indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,9,2008,2010,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme of the topic (kernel-based learning and classification) remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme of the topic (kernel-based learning and classification) remains consistent across the years.""
+}"
+DETM,neurips,llama,9,2011,2013,Minor drift,"The topic evolution shows a slight shift in word order and the introduction of new words ('search', 'based'), but the core concepts of distance, similarity, and learning remain consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in word order and the introduction of new words ('search', 'based'), but the core concepts of distance, similarity, and learning remain consistent across the years.""
+}"
+DETM,neurips,llama,9,2014,2016,Meaningful evolution,"The topic evolution shows a shift from a focus on general spatial concepts (e.g. 'space', 'distance') to more specific and advanced ideas in the field of spatial metrics and embeddings (e.g. 'metric', 'embedding', 'euclidean'), indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on general spatial concepts (e.g. 'space', 'distance') to more specific and advanced ideas in the field of spatial metrics and embeddings (e.g. 'metric', 'embedding', 'euclidean'), indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,9,2017,2019,Meaningful evolution,"The topic evolution reflects a shift from geometric and spatial concepts (2017) to graph and network structures (2018-2019), indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from geometric and spatial concepts (2017) to graph and network structures (2018-2019), indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,10,1987,1989,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'association' and 'compression' emerging as more prominent terms, but the overall semantic context remains related to 'science' and 'institute', indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'association' and 'compression' emerging as more prominent terms, but the overall semantic context remains related to 'science' and 'institute', indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,10,1990,1992,Minor drift,"The topic evolution shows a gradual shift in focus from 'dimensional' and 'science' to 'regions' and 'points', which is a subtle and coherent change in the topic's semantic direction.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'dimensional' and 'science' to 'regions' and 'points', which is a subtle and coherent change in the topic's semantic direction.""
+}"
+DETM,neurips,llama,10,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from 'local' and 'neighbor' to 'points' and 'dimensional', which is consistent with the development of the field of manifold learning and dimensionality reduction in the 1990s.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'local' and 'neighbor' to 'points' and 'dimensional', which is consistent with the development of the field of manifold learning and dimensionality reduction in the 1990s.""
+}"
+DETM,neurips,llama,10,1996,1998,Minor drift,"The topic evolution shows a gradual shift in focus from 'local' and 'points' to 'manifold' and 'distances', but the core concepts remain related to geometry and spatial analysis, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'local' and 'points' to 'manifold' and 'distances', but the core concepts remain related to geometry and spatial analysis, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,10,1999,2001,Minor drift,"The topic evolution shows a slight reordering of terms, but the overall theme of discussing spatial relationships and geometry remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight reordering of terms, but the overall theme of discussing spatial relationships and geometry remains consistent across the years.""
+}"
+DETM,neurips,llama,10,2002,2004,Minor drift,"The topic evolution shows a gradual shift in vocabulary, with some words being replaced or added, but the overall theme and concepts remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in vocabulary, with some words being replaced or added, but the overall theme and concepts remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,10,2005,2007,Minor drift,"The changes in the topic representation are subtle and incremental, with words being reordered or replaced with synonyms, but the overall theme and vocabulary remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with words being reordered or replaced with synonyms, but the overall theme and vocabulary remain consistent.""
+}"
+DETM,neurips,llama,10,2008,2010,Minor drift,"The topic evolution shows a gradual shift in word usage, but the core concepts and themes remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the core concepts and themes remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,10,2011,2013,Minor drift,"The changes in the topic representation from 2011 to 2013 are subtle and incremental, with some words being replaced or added, but the overall theme of the topic remains focused on research methods and approaches, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 2011 to 2013 are subtle and incremental, with some words being replaced or added, but the overall theme of the topic remains focused on research methods and approaches, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,10,2014,2016,Minor drift,"The changes in topic representation are subtle and incremental, with some words being replaced or reordered, but the overall theme of the topic appears to be related to data analysis and methodology, suggesting a gradual shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in topic representation are subtle and incremental, with some words being replaced or reordered, but the overall theme of the topic appears to be related to data analysis and methodology, suggesting a gradual shift in emphasis rather than a significant semantic change.""
+}"
+DETM,neurips,llama,10,2017,2019,Minor drift,"The topic evolution shows a gradual shift in focus from 'ground truth' and 'human' in 2017 to more general terms like 'scene' and 'view' in 2019, but the core concepts of 'object', 'video', and 'network' remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'ground truth' and 'human' in 2017 to more general terms like 'scene' and 'view' in 2019, but the core concepts of 'object', 'video', and 'network' remain consistent.""
+}"
+DETM,neurips,llama,11,1987,1989,Minor drift,"The topic evolution shows a gradual shift from a focus on theoretical physics to a more statistical and research-oriented approach, but the core concepts remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on theoretical physics to a more statistical and research-oriented approach, but the core concepts remain relatively consistent.""
+}"
+DETM,neurips,llama,11,1990,1992,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'convergence' and 'define' in 1990-1991 to 'optimal' and 'approximation' in 1992, but the core concepts remain similar.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'convergence' and 'define' in 1990-1991 to 'optimal' and 'approximation' in 1992, but the core concepts remain similar.""
+}"
+DETM,neurips,llama,11,1993,1995,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'convergence' and 'approximation' consistently present, but with some variation in surrounding words, indicating a nuanced but not drastic change in the topic's semantic meaning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'convergence' and 'approximation' consistently present, but with some variation in surrounding words, indicating a nuanced but not drastic change in the topic's semantic meaning.""
+}"
+DETM,neurips,llama,11,1996,1998,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'convergence', 'generalization') persisting across years, while others (e.g., 'simulations', 'curves') emerge or fade, indicating a nuanced but not dramatic semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'convergence', 'generalization') persisting across years, while others (e.g., 'simulations', 'curves') emerge or fade, indicating a nuanced but not dramatic semantic change.""
+}"
+DETM,neurips,llama,11,1999,2001,Minor drift,"The topic evolution shows a gradual shift in terminology, with some words being replaced or modified, but the overall theme and concepts remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in terminology, with some words being replaced or modified, but the overall theme and concepts remain consistent.""
+}"
+DETM,neurips,llama,11,2002,2004,Meaningful evolution,"The topic evolution shows a gradual shift from a focus on mathematical functions and gradient descent to a focus on performance and error analysis, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on mathematical functions and gradient descent to a focus on performance and error analysis, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,11,2005,2007,Minor drift,"The topic evolution shows a gradual shift in focus from optimization and error metrics to performance and validation, but the core concepts remain related to machine learning and optimization.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from optimization and error metrics to performance and validation, but the core concepts remain related to machine learning and optimization.""
+}"
+DETM,neurips,llama,11,2008,2010,Minor drift,"The topic evolution shows a gradual shift in terminology, with 'classiﬁcation' becoming more prominent and 'classiﬁer' emerging, but the overall theme remains consistent with machine learning and classification.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in terminology, with 'classiﬁcation' becoming more prominent and 'classiﬁer' emerging, but the overall theme remains consistent with machine learning and classification.""
+}"
+DETM,neurips,llama,11,2011,2013,Meaningful evolution,"The topic evolution shows a gradual shift from a focus on specific machine learning tasks (e.g. 'classiﬁcation', 'classiﬁer') to a broader discussion of data and methodology (e.g. 'data', 'supervised', 'labeled'), indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on specific machine learning tasks (e.g. 'classiﬁcation', 'classiﬁer') to a broader discussion of data and methodology (e.g. 'data', 'supervised', 'labeled'), indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,11,2014,2016,Meaningful evolution,"The topic evolution shows a shift from a focus on classification algorithms and data preparation in 2014 to a broader focus on the learning process, including loss and labeled data in 2016, indicating a semantic change in the field's emphasis.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on classification algorithms and data preparation in 2014 to a broader focus on the learning process, including loss and labeled data in 2016, indicating a semantic change in the field's emphasis.""
+}"
+DETM,neurips,llama,11,2017,2019,Minor drift,"The topic evolution shows a gradual shift in word order and slight variations in vocabulary, but the core concepts of classification, labels, and supervised learning remain consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and slight variations in vocabulary, but the core concepts of classification, labels, and supervised learning remain consistent across the years.""
+}"
+DETM,neurips,llama,12,1987,1989,Meaningful evolution,"The topics show a clear shift from a focus on 'cycles' and 'motor' in 1987 to a focus on 'environment', 'reinforcement', and 'robot' in 1988 and 1989, indicating a semantic change in the field of control systems towards reinforcement learning.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics show a clear shift from a focus on 'cycles' and 'motor' in 1987 to a focus on 'environment', 'reinforcement', and 'robot' in 1988 and 1989, indicating a semantic change in the field of control systems towards reinforcement learning.""
+}"
+DETM,neurips,llama,12,1990,1992,Minor drift,"The topic evolution shows a slight reordering of terms, but the core concepts of 'control', 'reinforcement', 'robot', and 'planning' remain consistent across the years, indicating a minor shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight reordering of terms, but the core concepts of 'control', 'reinforcement', 'robot', and 'planning' remain consistent across the years, indicating a minor shift in emphasis rather than a significant semantic change.""
+}"
+DETM,neurips,llama,12,1993,1995,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'path' and 'policy') decreasing in importance, while others (e.g., 'agent' and 'environment') increase, but the overall theme of reinforcement learning remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'path' and 'policy') decreasing in importance, while others (e.g., 'agent' and 'environment') increase, but the overall theme of reinforcement learning remains consistent.""
+}"
+DETM,neurips,llama,12,1996,1998,Meaningful evolution,"The topic evolution shows a shift from a focus on 'Monte Carlo methods' in 1996 to a broader focus on 'Machine Learning' and 'Artificial Intelligence' in 1997 and 1998, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on 'Monte Carlo methods' in 1996 to a broader focus on 'Machine Learning' and 'Artificial Intelligence' in 1997 and 1998, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,12,1999,2001,Minor drift,"The topic evolution shows a gradual shift in focus from 'user' and 'machine' to 'agent' and 'game', but the core concepts remain related to artificial intelligence and decision-making.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'user' and 'machine' to 'agent' and 'game', but the core concepts remain related to artificial intelligence and decision-making.""
+}"
+DETM,neurips,llama,12,2002,2004,Meaningful evolution,"The topics shift from focusing on 'game theory' and 'equilibrium' in 2002 to emphasizing 'strategy' and 'decision-making' in 2004, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on 'game theory' and 'equilibrium' in 2002 to emphasizing 'strategy' and 'decision-making' in 2004, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,12,2005,2007,Meaningful evolution,"The topic evolves from a focus on general game theory concepts (equilibrium, strategies, games) to a more specific focus on repeated games and response strategies, indicating a shift in the underlying research or application area.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolves from a focus on general game theory concepts (equilibrium, strategies, games) to a more specific focus on repeated games and response strategies, indicating a shift in the underlying research or application area.""
+}"
+DETM,neurips,llama,12,2008,2010,Minor drift,"The topic evolution shows a gradual shift from a focus on graph theory to a broader application of graph concepts in game theory and network analysis, but the core vocabulary remains relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on graph theory to a broader application of graph concepts in game theory and network analysis, but the core vocabulary remains relatively consistent.""
+}"
+DETM,neurips,llama,12,2011,2013,Minor drift,"The topic evolution shows a consistent focus on tree and network concepts, with some minor changes in word order and addition of related terms, indicating a gradual refinement of the topic rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent focus on tree and network concepts, with some minor changes in word order and addition of related terms, indicating a gradual refinement of the topic rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,12,2014,2016,Meaningful evolution,"The topic evolution shows a clear shift from a focus on tree data structures and algorithms in 2014-2015 to a focus on decision trees and machine learning in 2016, indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a clear shift from a focus on tree data structures and algorithms in 2014-2015 to a focus on decision trees and machine learning in 2016, indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,12,2017,2019,Meaningful evolution,"The topics shift from a focus on game theory and strategy in 2017 to a focus on reinforcement learning and policy in 2019, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from a focus on game theory and strategy in 2017 to a focus on reinforcement learning and policy in 2019, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,13,1987,1989,Minor drift,"The topic evolution shows a consistent presence of key terms related to neural networks, with minor variations in word order and the addition of a single term ('jones') in 1989, indicating a gradual and incremental change rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of key terms related to neural networks, with minor variations in word order and the addition of a single term ('jones') in 1989, indicating a gradual and incremental change rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,13,1990,1992,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of neural networks remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of neural networks remains consistent.""
+}"
+DETM,neurips,llama,13,1993,1995,Minor drift,"The topic evolution shows a gradual shift in word order and addition of new words, but the core concepts and themes remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and addition of new words, but the core concepts and themes remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,13,1996,1998,Minor drift,"The changes in the topic representation are subtle and incremental, with some words being replaced or reordered, but the overall theme of the topic remains consistent, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words being replaced or reordered, but the overall theme of the topic remains consistent, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,13,1999,2001,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'orientation' and 'selective responses' in 1999 to 'object' and 'receptive fields' in 2001, but the core concepts remain largely consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'orientation' and 'selective responses' in 1999 to 'object' and 'receptive fields' in 2001, but the core concepts remain largely consistent.""
+}"
+DETM,neurips,llama,13,2002,2004,Meaningful evolution,"The topic evolution shows a shift from focusing on 'cells' and 'visual' aspects to incorporating 'region', 'spatial', and 'attention' concepts, indicating a real-world semantic shift in the field of study.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from focusing on 'cells' and 'visual' aspects to incorporating 'region', 'spatial', and 'attention' concepts, indicating a real-world semantic shift in the field of study.""
+}"
+DETM,neurips,llama,13,2005,2007,Meaningful evolution,"The topics seem to shift from a focus on spatial and visual aspects of search in 2005 to a more specific focus on feature extraction and object detection in 2007, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics seem to shift from a focus on spatial and visual aspects of search in 2005 to a more specific focus on feature extraction and object detection in 2007, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,13,2008,2010,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of the topic (image and object recognition) remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of the topic (image and object recognition) remains consistent.""
+}"
+DETM,neurips,llama,13,2011,2013,Meaningful evolution,"The topics shift from focusing on image and scene understanding in 2011 to object detection and tracking in 2012 and 2013, reflecting a real-world advancement in computer vision research.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on image and scene understanding in 2011 to object detection and tracking in 2012 and 2013, reflecting a real-world advancement in computer vision research.""
+}"
+DETM,neurips,llama,13,2014,2016,Minor drift,"The topic evolution shows a gradual shift from a focus on video processing and learning in 2014 to a focus on online learning and regret in 2015 and 2016, which is a coherent and expected progression in the field of machine learning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on video processing and learning in 2014 to a focus on online learning and regret in 2015 and 2016, which is a coherent and expected progression in the field of machine learning.""
+}"
+DETM,neurips,llama,13,2017,2019,Minor drift,"The topic evolution shows a gradual shift in word order and emphasis, but the core concepts and vocabulary remain largely consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and emphasis, but the core concepts and vocabulary remain largely consistent across the three years.""
+}"
+DETM,neurips,llama,14,1987,1989,Meaningful evolution,"The topics appear to shift from a focus on general mathematical concepts (e.g. capacity, size, threshold) to more specific ideas related to machine learning (e.g. perceptron, examples, probability), indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics appear to shift from a focus on general mathematical concepts (e.g. capacity, size, threshold) to more specific ideas related to machine learning (e.g. perceptron, examples, probability), indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,14,1990,1992,Minor drift,"The topic evolution shows a gradual shift from a focus on theoretical concepts (e.g., 'theorem', 'exponential') to more applied and specific areas (e.g., 'networks', 'neural'), but the core themes remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on theoretical concepts (e.g., 'theorem', 'exponential') to more applied and specific areas (e.g., 'networks', 'neural'), but the core themes remain relatively consistent.""
+}"
+DETM,neurips,llama,14,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from 'complexity' and 'error' in 1993 to 'architecture' and 'weights' in 1994, and then to 'units' and 'hidden' in 1995, which suggests a minor refinement of ideas rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'complexity' and 'error' in 1993 to 'architecture' and 'weights' in 1994, and then to 'units' and 'hidden' in 1995, which suggests a minor refinement of ideas rather than a significant semantic change.""
+}"
+DETM,neurips,llama,14,1996,1998,Minor drift,"The order of words changes slightly, but the overall topic remains focused on neural networks, indicating a minor shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The order of words changes slightly, but the overall topic remains focused on neural networks, indicating a minor shift in emphasis rather than a significant semantic change.""
+}"
+DETM,neurips,llama,14,1999,2001,Minor drift,"The changes in the topic representation are subtle and incremental, with some words shifting positions but overall maintaining a similar theme of neural networks, indicating a minor drift rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words shifting positions but overall maintaining a similar theme of neural networks, indicating a minor drift rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,14,2002,2004,Minor drift,"The topic evolution shows a gradual shift in focus from 'neural network' terminology to more general 'learning' and 'prediction' concepts, but the overall theme remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'neural network' terminology to more general 'learning' and 'prediction' concepts, but the overall theme remains consistent.""
+}"
+DETM,neurips,llama,14,2005,2007,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'training' and 'prediction' in 2005 to 'performance' and 'transfer' in 2007, but the core concepts of 'learning', 'task', and 'target' remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'training' and 'prediction' in 2005 to 'performance' and 'transfer' in 2007, but the core concepts of 'learning', 'task', and 'target' remain consistent.""
+}"
+DETM,neurips,llama,14,2008,2010,Minor drift,"The topic evolution shows a gradual shift in word usage, but the core concepts and relationships between words remain relatively consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the core concepts and relationships between words remain relatively consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,14,2011,2013,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some words (e.g., 'adaptation', 'information') entering and others (e.g., 'samples', 'source') leaving, but the overall theme of machine learning remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some words (e.g., 'adaptation', 'information') entering and others (e.g., 'samples', 'source') leaving, but the overall theme of machine learning remains consistent.""
+}"
+DETM,neurips,llama,14,2014,2016,Minor drift,"The topic evolution shows a gradual shift in word usage, with some words being replaced or added, but the overall theme of 'learning' and 'machine' remains consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, with some words being replaced or added, but the overall theme of 'learning' and 'machine' remains consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,14,2017,2019,Minor drift,"The changes in the topic representation from 2017 to 2019 are minor and mostly involve slight reordering of the same words, indicating a gradual shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 2017 to 2019 are minor and mostly involve slight reordering of the same words, indicating a gradual shift in emphasis rather than a significant semantic change.""
+}"
+DETM,neurips,llama,15,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word usage, but the core concepts of 'connections', 'distributed', 'coupling', and 'brain' remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the core concepts of 'connections', 'distributed', 'coupling', and 'brain' remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,15,1990,1992,Minor drift,"The topic evolution shows a gradual shift in word usage, but the underlying concepts and themes remain relatively consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word usage, but the underlying concepts and themes remain relatively consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,15,1993,1995,Minor drift,"The topic evolution shows a gradual shift in focus from 'gamma' and 'normal' to 'speech' and 'frequency', which is a coherent and expected change in the context of signal processing and audio research.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'gamma' and 'normal' to 'speech' and 'frequency', which is a coherent and expected change in the context of signal processing and audio research.""
+}"
+DETM,neurips,llama,15,1996,1998,Minor drift,"The topic evolution shows a gradual shift in terminology, with 'segments' and 'segment' replacing 'segmentation' and 'segmentation' being replaced by 'resolution' and 'level', indicating a refinement in the language used, but the core concepts remain the same.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in terminology, with 'segments' and 'segment' replacing 'segmentation' and 'segmentation' being replaced by 'resolution' and 'level', indicating a refinement in the language used, but the core concepts remain the same.""
+}"
+DETM,neurips,llama,15,1999,2001,Meaningful evolution,"The topics appear to shift from a focus on computer vision and video processing in 1999 to a focus on human-centric video analysis and speech recognition in 2000 and 2001, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics appear to shift from a focus on computer vision and video processing in 1999 to a focus on human-centric video analysis and speech recognition in 2000 and 2001, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,15,2002,2004,Minor drift,"The topic evolution shows a gradual shift from computer vision and recognition to tracking and pose estimation, which is a natural progression in the field, but the changes are not drastic or unexpected.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from computer vision and recognition to tracking and pose estimation, which is a natural progression in the field, but the changes are not drastic or unexpected.""
+}"
+DETM,neurips,llama,15,2005,2007,Minor drift,"The topic evolution shows a gradual shift in focus from computer vision concepts (e.g., 'motion', 'resolution', 'depth') to human-centric concepts (e.g., 'human', 'body', 'pose'), but the overall theme remains related to computer vision and image processing.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from computer vision concepts (e.g., 'motion', 'resolution', 'depth') to human-centric concepts (e.g., 'human', 'body', 'pose'), but the overall theme remains related to computer vision and image processing.""
+}"
+DETM,neurips,llama,15,2008,2010,Minor drift,"The changes in the topic representation from 2008 to 2010 show a gradual shift in focus from 'shape' and 'segmentation' to 'detection' and 'vision', which is a natural progression in the field of computer vision, but the core concepts remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 2008 to 2010 show a gradual shift in focus from 'shape' and 'segmentation' to 'detection' and 'vision', which is a natural progression in the field of computer vision, but the core concepts remain relatively consistent.""
+}"
+DETM,neurips,llama,15,2011,2013,Meaningful evolution,"The topic evolution shows a shift from detection and estimation in signal processing to estimation and risk in statistics, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from detection and estimation in signal processing to estimation and risk in statistics, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,15,2014,2016,Minor drift,"The topic evolution shows a gradual shift in focus from 'density' and 'high rate' in 2014 to 'distribution' and 'probability' in 2015, and then back to 'density' in 2016, indicating a minor drift in the topic's emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'density' and 'high rate' in 2014 to 'distribution' and 'probability' in 2015, and then back to 'density' in 2016, indicating a minor drift in the topic's emphasis rather than a significant semantic change.""
+}"
+DETM,neurips,llama,15,2017,2019,Meaningful evolution,"The topic evolution shows a shift from a focus on statistical estimation and density in 2017 to a focus on machine learning models and performance metrics in 2018 and 2019, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on statistical estimation and density in 2017 to a focus on machine learning models and performance metrics in 2018 and 2019, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,16,1987,1989,Meaningful evolution,"The topic evolution shows a clear shift from a focus on general signal processing concepts (noise, signal, matrix, gain, mean, variance) to a more specific and technical discussion of stochastic processes and Gaussian distributions, indicating a deeper understanding and specialization of the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a clear shift from a focus on general signal processing concepts (noise, signal, matrix, gain, mean, variance) to a more specific and technical discussion of stochastic processes and Gaussian distributions, indicating a deeper understanding and specialization of the field.""
+}"
+DETM,neurips,llama,16,1990,1992,Meaningful evolution,"The topic evolution shows a shift from a focus on signal processing and adaptation in 1990 to a focus on statistical concepts such as density, distribution, and variance in 1992, indicating a semantic change in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on signal processing and adaptation in 1990 to a focus on statistical concepts such as density, distribution, and variance in 1992, indicating a semantic change in the field.""
+}"
+DETM,neurips,llama,16,1993,1995,Minor drift,"The changes in the topic representation are subtle and incremental, with terms being reordered or replaced by related concepts, indicating a gradual refinement of the topic rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with terms being reordered or replaced by related concepts, indicating a gradual refinement of the topic rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,16,1996,1998,Minor drift,"The topic evolution shows a slight reordering of terms, but the core concepts and terminology remain consistent, indicating a minor shift in emphasis rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight reordering of terms, but the core concepts and terminology remain consistent, indicating a minor shift in emphasis rather than a significant semantic change.""
+}"
+DETM,neurips,llama,16,1999,2001,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'noise' and 'mixture' in 1999 to 'process' in 2000, but the core concepts of Bayesian statistics remain consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'noise' and 'mixture' in 1999 to 'process' in 2000, but the core concepts of Bayesian statistics remain consistent across the years.""
+}"
+DETM,neurips,llama,16,2002,2004,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'prior' and 'posterior' to 'estimate' and 'likelihood', but the core concepts remain largely consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'prior' and 'posterior' to 'estimate' and 'likelihood', but the core concepts remain largely consistent across the three years.""
+}"
+DETM,neurips,llama,16,2005,2007,Minor drift,"The topic evolution shows a gradual shift in vocabulary, but the underlying concepts and themes remain consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in vocabulary, but the underlying concepts and themes remain consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,16,2008,2010,Meaningful evolution,"The topics shift from focusing on estimation and sampling methods in 2008 to a more advanced discussion of gradient methods, parameters, and convergence in 2010, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on estimation and sampling methods in 2008 to a more advanced discussion of gradient methods, parameters, and convergence in 2010, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,16,2011,2013,Meaningful evolution,"The topic evolution shows a shift from a focus on 'update' and 'parameter' in 2011 to a more specific focus on 'optimization' and 'descent' in 2012 and 2013, indicating a semantic change in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on 'update' and 'parameter' in 2011 to a more specific focus on 'optimization' and 'descent' in 2012 and 2013, indicating a semantic change in the field.""
+}"
+DETM,neurips,llama,16,2014,2016,Minor drift,"The topic evolution shows a slight shift in emphasis, with 'convex' becoming more prominent and 'stochastic' disappearing, but the overall theme of optimization and gradient descent remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a slight shift in emphasis, with 'convex' becoming more prominent and 'stochastic' disappearing, but the overall theme of optimization and gradient descent remains consistent.""
+}"
+DETM,neurips,llama,16,2017,2019,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'convergence' and 'regularization' entering the topic in 2018 and 2019, respectively, but the core concepts of convex optimization remain consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'convergence' and 'regularization' entering the topic in 2018 and 2019, respectively, but the core concepts of convex optimization remain consistent across the years.""
+}"
+DETM,neurips,llama,17,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word frequencies, but the core concepts of electronics and signal processing remain consistent across the three years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word frequencies, but the core concepts of electronics and signal processing remain consistent across the three years.""
+}"
+DETM,neurips,llama,17,1990,1992,Minor drift,"The topic evolution shows a gradual shift in focus from 'time' and 'signal' to 'line' and 'width', but the core concepts remain similar, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'time' and 'signal' to 'line' and 'width', but the core concepts remain similar, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,17,1993,1995,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme and vocabulary remain consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or reordered, but the overall theme and vocabulary remain consistent.""
+}"
+DETM,neurips,llama,17,1996,1998,Minor drift,"The topic evolution shows a gradual shift in focus from 'adaptation' and 'adaptive' in 1996 to 'convergence' and 'update' in 1997 and 1998, but the core concepts remain related to algorithms and optimization.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from 'adaptation' and 'adaptive' in 1996 to 'convergence' and 'update' in 1997 and 1998, but the core concepts remain related to algorithms and optimization.""
+}"
+DETM,neurips,llama,17,1999,2001,Meaningful evolution,"The topic evolution shows a shift from a focus on general algorithmic concepts (e.g. convergence, iterations) to more specific techniques (e.g. gradient, learning, greedy), indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on general algorithmic concepts (e.g. convergence, iterations) to more specific techniques (e.g. gradient, learning, greedy), indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,17,2002,2004,Minor drift,"The topic evolution shows a gradual shift in emphasis from 'boosting' and 'weak' to 'margin', 'online', and 'bound', which is a coherent and expected progression in the field of machine learning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis from 'boosting' and 'weak' to 'margin', 'online', and 'bound', which is a coherent and expected progression in the field of machine learning.""
+}"
+DETM,neurips,llama,17,2005,2007,Meaningful evolution,"The topic evolution shows a shift from focusing on 'error' and 'generalization' in 2005 to a stronger emphasis on 'loss', 'margin', and 'regret' in 2007, indicating a semantic change in the topic from general machine learning concepts to more specific aspects of learning theory.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from focusing on 'error' and 'generalization' in 2005 to a stronger emphasis on 'loss', 'margin', and 'regret' in 2007, indicating a semantic change in the topic from general machine learning concepts to more specific aspects of learning theory.""
+}"
+DETM,neurips,llama,17,2008,2010,Meaningful evolution,"The topic evolution shows a shift from focusing on general machine learning concepts (2008) to a more specific focus on online learning and regret bounds (2009-2010), indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from focusing on general machine learning concepts (2008) to a more specific focus on online learning and regret bounds (2009-2010), indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,17,2011,2013,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'regret', 'strategy', 'bound') consistently present, while others (e.g., 'oracle', 'game') appear and disappear, indicating a nuanced but not dramatic semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'regret', 'strategy', 'bound') consistently present, while others (e.g., 'oracle', 'game') appear and disappear, indicating a nuanced but not dramatic semantic change.""
+}"
+DETM,neurips,llama,17,2014,2016,Minor drift,"The topics seem to be related to decision-making and game theory, but the specific words and phrases used change slightly from year to year, indicating a gradual shift in focus rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topics seem to be related to decision-making and game theory, but the specific words and phrases used change slightly from year to year, indicating a gradual shift in focus rather than a significant semantic change.""
+}"
+DETM,neurips,llama,17,2017,2019,Minor drift,"The topic evolution shows a gradual shift from a focus on knowledge and questions to a focus on reasoning and performance, but the core themes remain related to understanding and evaluating information.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift from a focus on knowledge and questions to a focus on reasoning and performance, but the core themes remain related to understanding and evaluating information.""
+}"
+DETM,neurips,llama,18,1987,1989,Minor drift,"The topic evolution shows a gradual shift in word order and some word replacements, but the overall theme and vocabulary remain relatively consistent, indicating a minor drift rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and some word replacements, but the overall theme and vocabulary remain relatively consistent, indicating a minor drift rather than a significant semantic change.""
+}"
+DETM,neurips,llama,18,1990,1992,Meaningful evolution,"The topics show a shift from a focus on 'change' and 'initial' in 1990 to a focus on 'optimal' and 'exploration' in 1992, indicating a semantic shift in the topic from a general discussion of change to a more specific discussion of optimal exploration.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics show a shift from a focus on 'change' and 'initial' in 1990 to a focus on 'optimal' and 'exploration' in 1992, indicating a semantic shift in the topic from a general discussion of change to a more specific discussion of optimal exploration.""
+}"
+DETM,neurips,llama,18,1993,1995,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'optimal' and 'dynamic' consistently present, but with some variation in surrounding words, indicating a minor adjustment in the topic's focus rather than a significant semantic change.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'optimal' and 'dynamic' consistently present, but with some variation in surrounding words, indicating a minor adjustment in the topic's focus rather than a significant semantic change.""
+}"
+DETM,neurips,llama,18,1996,1998,Meaningful evolution,"The topics shift from focusing on the theoretical aspects of reinforcement learning (e.g., 'optimal', 'state', 'reinforcement') to a more practical and applied perspective (e.g., 'policy', 'action', 'reward'), indicating a real-world semantic shift.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics shift from focusing on the theoretical aspects of reinforcement learning (e.g., 'optimal', 'state', 'reinforcement') to a more practical and applied perspective (e.g., 'policy', 'action', 'reward'), indicating a real-world semantic shift.""
+}"
+DETM,neurips,llama,18,1999,2001,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'reward', 'reinforcement') becoming more prominent, while others (e.g., 'belief', 'environment') fade away, but the overall theme remains consistent with reinforcement learning.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'reward', 'reinforcement') becoming more prominent, while others (e.g., 'belief', 'environment') fade away, but the overall theme remains consistent with reinforcement learning.""
+}"
+DETM,neurips,llama,18,2002,2004,Minor drift,"The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'markov' to 'grid') replacing others, but the overall theme of reinforcement learning remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with some terms (e.g., 'markov' to 'grid') replacing others, but the overall theme of reinforcement learning remains consistent.""
+}"
+DETM,neurips,llama,18,2005,2007,Meaningful evolution,"The topic evolution shows a shift from a focus on general concepts in reinforcement learning (2005) to a more specific emphasis on optimal policies and beliefs (2007), indicating a semantic change in the field's understanding and application of the topic.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on general concepts in reinforcement learning (2005) to a more specific emphasis on optimal policies and beliefs (2007), indicating a semantic change in the field's understanding and application of the topic.""
+}"
+DETM,neurips,llama,18,2008,2010,Minor drift,"The topic evolution shows a consistent presence of key terms related to reinforcement learning, with some minor variations in term order and inclusion of related concepts, indicating a gradual refinement of the topic rather than a significant semantic shift.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of key terms related to reinforcement learning, with some minor variations in term order and inclusion of related concepts, indicating a gradual refinement of the topic rather than a significant semantic shift.""
+}"
+DETM,neurips,llama,18,2011,2013,Minor drift,"The changes in topic representation are subtle and consistent with the natural progression of the field, with some terms being reordered or replaced by related concepts.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in topic representation are subtle and consistent with the natural progression of the field, with some terms being reordered or replaced by related concepts.""
+}"
+DETM,neurips,llama,18,2014,2016,Minor drift,"The topic evolution shows a gradual shift in focus from control theory to machine learning, but the core concepts and vocabulary remain relatively consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in focus from control theory to machine learning, but the core concepts and vocabulary remain relatively consistent.""
+}"
+DETM,neurips,llama,18,2017,2019,Meaningful evolution,"The topic evolution shows a shift from a focus on 'neural' and 'deep' models in 2017 to a focus on 'meta' and 'training' in 2018 and 2019, indicating a semantic change in the field from deep learning to meta-learning.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on 'neural' and 'deep' models in 2017 to a focus on 'meta' and 'training' in 2018 and 2019, indicating a semantic change in the field from deep learning to meta-learning.""
+}"
+DETM,neurips,llama,19,1987,1989,Minor drift,"The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of neural networks and their components remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some words being replaced or added, but the overall theme of neural networks and their components remains consistent across the years.""
+}"
+DETM,neurips,llama,19,1990,1992,Minor drift,"The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme of neural network architecture remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in word order and addition of new words, but the overall theme of neural network architecture remains consistent.""
+}"
+DETM,neurips,llama,19,1993,1995,Minor drift,"The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of neural networks and related concepts remains consistent across the years.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation are subtle and incremental, with some terms being replaced or added, but the overall theme of neural networks and related concepts remains consistent across the years.""
+}"
+DETM,neurips,llama,19,1996,1998,Minor drift,"The changes in the topic representation from 1996 to 1998 are subtle and incremental, with some terms being replaced or reordered, but the overall theme of neural networks and computational concepts remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 1996 to 1998 are subtle and incremental, with some terms being replaced or reordered, but the overall theme of neural networks and computational concepts remains consistent.""
+}"
+DETM,neurips,llama,19,1999,2001,Minor drift,"The changes in the topic representation from 1999 to 2001 are subtle and incremental, with some terms being replaced or reordered, but the overall semantic focus on neural computation and complexity remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The changes in the topic representation from 1999 to 2001 are subtle and incremental, with some terms being replaced or reordered, but the overall semantic focus on neural computation and complexity remains consistent.""
+}"
+DETM,neurips,llama,19,2002,2004,Minor drift,"The topic evolution shows a gradual shift in emphasis, with 'fast' and 'efficient' emerging as key terms, but the overall theme of computational complexity remains consistent.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a gradual shift in emphasis, with 'fast' and 'efficient' emerging as key terms, but the overall theme of computational complexity remains consistent.""
+}"
+DETM,neurips,llama,19,2005,2007,Meaningful evolution,"The topic evolution shows a shift from a focus on computational complexity and processing in 2005 to a focus on machine learning and classification in 2007, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from a focus on computational complexity and processing in 2005 to a focus on machine learning and classification in 2007, indicating a real-world semantic shift in the field.""
+}"
+DETM,neurips,llama,19,2008,2010,Meaningful evolution,"The topics show a shift from focusing on 'classiﬁer' and 'compression' in 2008 to a more nuanced discussion of 'loss', 'hypothesis', and 'margin' in 2010, indicating a deeper understanding and refinement of the topic.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topics show a shift from focusing on 'classiﬁer' and 'compression' in 2008 to a more nuanced discussion of 'loss', 'hypothesis', and 'margin' in 2010, indicating a deeper understanding and refinement of the topic.""
+}"
+DETM,neurips,llama,19,2011,2013,Minor drift,"The topic evolution shows a consistent presence of core terms related to machine learning ('learning', 'loss', 'hypothesis', 'risk', 'prediction', 'boosting', 'convex') across the years, with some minor variations in secondary terms.","{
+  ""label"": ""Minor drift"",
+  ""justification"": ""The topic evolution shows a consistent presence of core terms related to machine learning ('learning', 'loss', 'hypothesis', 'risk', 'prediction', 'boosting', 'convex') across the years, with some minor variations in secondary terms.""
+}"
+DETM,neurips,llama,19,2014,2016,Meaningful evolution,"The topic evolution shows a shift from focusing on 'loss' and 'online' in 2014 to a broader emphasis on 'learning', 'prediction', and 'machine' in 2015, and then a further shift to include 'risk' and 'ensemble' in 2016, indicating a progression in the field of machine learning.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution shows a shift from focusing on 'loss' and 'online' in 2014 to a broader emphasis on 'learning', 'prediction', and 'machine' in 2015, and then a further shift to include 'risk' and 'ensemble' in 2016, indicating a progression in the field of machine learning.""
+}"
+DETM,neurips,llama,19,2017,2019,Meaningful evolution,"The topic evolution reflects a shift from a focus on machine learning and prediction in 2017 to a focus on causal inference and fairness in 2018 and 2019, indicating a real-world semantic shift in the field.","{
+  ""label"": ""Meaningful evolution"",
+  ""justification"": ""The topic evolution reflects a shift from a focus on machine learning and prediction in 2017 to a focus on causal inference and fairness in 2018 and 2019, indicating a real-world semantic shift in the field.""
+}"

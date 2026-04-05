@@ -1,0 +1,911 @@
+dtm_model,dataset,llm,topic_idx,year,intruder,detected,correct,raw
+DETM,neurips,llama,0,1987,learning,year,False,Year
+DETM,neurips,llama,0,1988,size,year,False,Year
+DETM,neurips,llama,0,1989,inputs,year,False,Year
+DETM,neurips,llama,0,1990,critical,year,False,Year
+DETM,neurips,llama,0,1991,machine,year,False,Year
+DETM,neurips,llama,0,1992,filter,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'hidden'"
+DETM,neurips,llama,0,1993,patterns,year:,False,"Year: 1993
+
+The word that is LEAST related to the others is: 'year'"
+DETM,neurips,llama,0,1994,squared,network,False,network
+DETM,neurips,llama,0,1995,active,year:,False,"Year: 1995
+
+The word that is LEAST related to the others is: 'given'"
+DETM,neurips,llama,0,1996,probability,year,False,Year
+DETM,neurips,llama,0,1997,computer,year,False,Year
+DETM,neurips,llama,0,1998,finite,year:,False,"Year: 1998
+Topic words: ['methods', 'algorithm', 'step', 'approach', 'finite', 'method']
+
+Year"
+DETM,neurips,llama,0,1999,probability,year,False,Year
+DETM,neurips,llama,0,2000,specific,year:,False,Year: 2000
+DETM,neurips,llama,0,2001,words,year,False,Year
+DETM,neurips,llama,0,2002,zero,zero,True,zero
+DETM,neurips,llama,0,2003,test,year,False,Year
+DETM,neurips,llama,0,2004,edges,year,False,Year
+DETM,neurips,llama,0,2005,vision,time,False,time
+DETM,neurips,llama,0,2006,analysis,year,False,Year
+DETM,neurips,llama,0,2007,section,year,False,Year
+DETM,neurips,llama,0,2008,weights,year,False,Year
+DETM,neurips,llama,0,2009,algorithm,year,False,Year
+DETM,neurips,llama,0,2010,property,year,False,Year
+DETM,neurips,llama,0,2011,variable,year,False,Year
+DETM,neurips,llama,0,2012,kernel,time,False,Time
+DETM,neurips,llama,0,2013,convergence,year,False,Year
+DETM,neurips,llama,0,2014,principal,year,False,Year
+DETM,neurips,llama,0,2015,questions,year,False,Year
+DETM,neurips,llama,0,2016,structured,user,False,User
+DETM,neurips,llama,0,2017,information,year,False,Year
+DETM,neurips,llama,0,2018,values,year,False,Year
+DETM,neurips,llama,0,2019,attention,year,False,Year
+DETM,neurips,llama,1,1987,clustering,year,False,Year
+DETM,neurips,llama,1,1988,majority,year:,False,"Year: 1988
+
+Majority"
+DETM,neurips,llama,1,1989,method,year,False,Year
+DETM,neurips,llama,1,1990,weight,year,False,Year
+DETM,neurips,llama,1,1991,concept,year,False,Year
+DETM,neurips,llama,1,1992,pruning,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,neurips,llama,1,1993,networks,year,False,Year
+DETM,neurips,llama,1,1994,character,character,True,Character
+DETM,neurips,llama,1,1995,unit,year,False,Year
+DETM,neurips,llama,1,1996,clusters,year,False,Year
+DETM,neurips,llama,1,1997,little,little,True,little
+DETM,neurips,llama,1,1998,action,year,False,Year
+DETM,neurips,llama,1,1999,global,year,False,Year
+DETM,neurips,llama,1,2000,mixture,year,False,Year
+DETM,neurips,llama,1,2001,images,year,False,Year
+DETM,neurips,llama,1,2002,domain,year,False,Year
+DETM,neurips,llama,1,2003,covariance,year,False,Year
+DETM,neurips,llama,1,2004,pair,year,False,Year
+DETM,neurips,llama,1,2005,distribution,year:,False,"Year: 2005
+
+The word that is LEAST related to the others is: 'distribution'"
+DETM,neurips,llama,1,2006,value,year:,False,"Year: 2006
+
+The word that is LEAST related to the others is: 'value'."
+DETM,neurips,llama,1,2007,linear,problem,False,Problem
+DETM,neurips,llama,1,2008,vision,vision,True,Vision
+DETM,neurips,llama,1,2009,cortex,cortex,True,cortex
+DETM,neurips,llama,1,2010,approximation,approximation,True,Approximation
+DETM,neurips,llama,1,2011,values,year:,False,"Year: 2011
+
+The word that is LEAST related to the others is: 'values'"
+DETM,neurips,llama,1,2012,corpus,corpus,True,corpus
+DETM,neurips,llama,1,2013,point,point,True,point
+DETM,neurips,llama,1,2014,game,game,True,game
+DETM,neurips,llama,1,2015,vertex,year:,False,"Year: 2015
+Topic words: ['parameter', 'data', 'statistical', 'vertex', 'regression', 'logistic']
+
+The word that is LEAST related to the others is: 'vertex'"
+DETM,neurips,llama,1,2016,following,year,False,Year
+DETM,neurips,llama,1,2017,space,year,False,Year
+DETM,neurips,llama,1,2018,generate,number,False,Number
+DETM,neurips,llama,1,2019,function,function,True,function
+DETM,neurips,llama,2,1987,states,static,False,Static
+DETM,neurips,llama,2,1988,press,press,True,Press
+DETM,neurips,llama,2,1989,output,year,False,Year
+DETM,neurips,llama,2,1990,represented,length,False,length
+DETM,neurips,llama,2,1991,networks,length,False,Length
+DETM,neurips,llama,2,1992,constraint,university,False,University
+DETM,neurips,llama,2,1993,example,university,False,University
+DETM,neurips,llama,2,1994,error,university,False,University
+DETM,neurips,llama,2,1995,output,year:,False,"Year: 1995
+
+The word that is LEAST related to the others is: 'output'"
+DETM,neurips,llama,2,1996,cross,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,neurips,llama,2,1997,field,year,False,Year
+DETM,neurips,llama,2,1998,variables,year:,False,"Year: 1998
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,neurips,llama,2,1999,zero,year,False,Year
+DETM,neurips,llama,2,2000,random,random,True,Random
+DETM,neurips,llama,2,2001,zero,year,False,Year
+DETM,neurips,llama,2,2002,trajectory,year:,False,"Year: 2002
+
+The word that is LEAST related to the others is: 'problem'."
+DETM,neurips,llama,2,2003,space,year:,False,"Year: 2003
+
+The word that is LEAST related to the others is: 'problem'."
+DETM,neurips,llama,2,2004,speech,year,False,Year
+DETM,neurips,llama,2,2005,neural,neural,True,Neural
+DETM,neurips,llama,2,2006,sensor,sensor,True,sensor
+DETM,neurips,llama,2,2007,variable,year,False,Year
+DETM,neurips,llama,2,2008,machine,year:,False,"Year: 2008
+Topic words: ['linear', 'features', 'feature', 'vector', 'machine', 'multi']
+
+The word that is LEAST related to the others is: 'multi'"
+DETM,neurips,llama,2,2009,means,year,False,Year
+DETM,neurips,llama,2,2010,values,year,False,Year
+DETM,neurips,llama,2,2011,tree,year,False,Year
+DETM,neurips,llama,2,2012,plan,dictionary,False,dictionary
+DETM,neurips,llama,2,2013,nearest,nearest,True,nearest
+DETM,neurips,llama,2,2014,high,year,False,Year
+DETM,neurips,llama,2,2015,decision,decision,True,Decision
+DETM,neurips,llama,2,2016,parallel,network,False,network
+DETM,neurips,llama,2,2017,networks,year,False,Year
+DETM,neurips,llama,2,2018,neural,block,False,block
+DETM,neurips,llama,2,2019,translation,year,False,Year
+DETM,neurips,llama,3,1987,failure,failure,True,failure
+DETM,neurips,llama,3,1988,storage,storage,True,Storage
+DETM,neurips,llama,3,1989,source,source,True,Source
+DETM,neurips,llama,3,1990,group,group,True,Group
+DETM,neurips,llama,3,1991,space,visual,False,visual
+DETM,neurips,llama,3,1992,paper,paper,True,paper
+DETM,neurips,llama,3,1993,block,control,False,control
+DETM,neurips,llama,3,1994,artificial,artificial,True,Artificial
+DETM,neurips,llama,3,1995,mixture,mixture,True,Mixture
+DETM,neurips,llama,3,1996,input,year,False,Year
+DETM,neurips,llama,3,1997,editors,editors,True,editors
+DETM,neurips,llama,3,1998,direction,state,False,State
+DETM,neurips,llama,3,1999,neural,states,False,states
+DETM,neurips,llama,3,2000,state,filter,False,Filter
+DETM,neurips,llama,3,2001,theorem,theorem,True,Theorem
+DETM,neurips,llama,3,2002,convergence,year,False,Year
+DETM,neurips,llama,3,2003,clustering,time,False,time
+DETM,neurips,llama,3,2004,layer,year,False,Year
+DETM,neurips,llama,3,2005,problems,systems,False,Systems
+DETM,neurips,llama,3,2006,empirical,time,False,time
+DETM,neurips,llama,3,2007,features,time,False,time
+DETM,neurips,llama,3,2008,factors,memory,False,memory
+DETM,neurips,llama,3,2009,gaussian,time,False,time
+DETM,neurips,llama,3,2010,recognition,time,False,time
+DETM,neurips,llama,3,2011,similarity,year,False,Year
+DETM,neurips,llama,3,2012,natural,natural,True,natural
+DETM,neurips,llama,3,2013,random,year,False,Year
+DETM,neurips,llama,3,2014,action,year,False,Year
+DETM,neurips,llama,3,2015,algorithm,year,False,Year
+DETM,neurips,llama,3,2016,means,compression,False,compression
+DETM,neurips,llama,3,2017,function,function,True,Function
+DETM,neurips,llama,3,2018,linear,linear,True,Linear
+DETM,neurips,llama,3,2019,local,local,True,Local
+DETM,neurips,llama,4,1987,single,single,True,Single
+DETM,neurips,llama,4,1988,output,complex,False,complex
+DETM,neurips,llama,4,1989,column,column,True,Column
+DETM,neurips,llama,4,1990,activity,activity,True,activity
+DETM,neurips,llama,4,1991,trees,year:,False,"Year: 1991
+
+The word that is LEAST related to the others is: 'trees'."
+DETM,neurips,llama,4,1992,performance,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'recurrent'."
+DETM,neurips,llama,4,1993,output,diego,False,diego
+DETM,neurips,llama,4,1994,speech,song,False,song
+DETM,neurips,llama,4,1995,data,song,False,song
+DETM,neurips,llama,4,1996,nodes,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'consistent'"
+DETM,neurips,llama,4,1997,number,year:,False,Year: 1997
+DETM,neurips,llama,4,1998,analog,analog,True,Analog
+DETM,neurips,llama,4,1999,learns,year,False,Year
+DETM,neurips,llama,4,2000,discrimination,subjects,False,subjects
+DETM,neurips,llama,4,2001,exact,year:,False,"Year: 2001
+Topic words: ['model', 'human', 'causal', 'cause', 'common', 'exact']
+
+Exact"
+DETM,neurips,llama,4,2002,density,year,False,Year
+DETM,neurips,llama,4,2003,distribution,year,False,Year
+DETM,neurips,llama,4,2004,statistical,year,False,Year
+DETM,neurips,llama,4,2005,constraints,year,False,Year
+DETM,neurips,llama,4,2006,dynamics,group,False,group
+DETM,neurips,llama,4,2007,samples,year,False,Year
+DETM,neurips,llama,4,2008,term,year,False,Year
+DETM,neurips,llama,4,2009,recovery,recovery,True,recovery
+DETM,neurips,llama,4,2010,document,document,True,document
+DETM,neurips,llama,4,2011,clustering,year,False,Year
+DETM,neurips,llama,4,2012,analysis,year,False,Year
+DETM,neurips,llama,4,2013,target,year,False,Year
+DETM,neurips,llama,4,2014,principal,principal,True,Principal
+DETM,neurips,llama,4,2015,neural,year,False,Year
+DETM,neurips,llama,4,2016,labeled,year,False,Year
+DETM,neurips,llama,4,2017,cluster,year,False,Year
+DETM,neurips,llama,4,2018,sparsity,year,False,Year
+DETM,neurips,llama,4,2019,case,year,False,Year
+DETM,neurips,llama,5,1987,space,space,True,space
+DETM,neurips,llama,5,1988,systems,human,False,Human
+DETM,neurips,llama,5,1989,space,space,True,Space
+DETM,neurips,llama,5,1990,order,order,True,order
+DETM,neurips,llama,5,1991,time,year:,False,"Year: 1991
+
+The word that is LEAST related to the others is: 'human'"
+DETM,neurips,llama,5,1992,theory,human,False,Human
+DETM,neurips,llama,5,1993,potential,human,False,Human
+DETM,neurips,llama,5,1994,coding,coding,True,coding
+DETM,neurips,llama,5,1995,objects,objects,True,Objects
+DETM,neurips,llama,5,1996,best,year,False,Year
+DETM,neurips,llama,5,1997,networks,year,False,Year
+DETM,neurips,llama,5,1998,systems,year,False,Year
+DETM,neurips,llama,5,1999,error,year,False,Year
+DETM,neurips,llama,5,2000,gaussian,year,False,Year
+DETM,neurips,llama,5,2001,training,noise,False,noise
+DETM,neurips,llama,5,2002,small,year:,False,"Year: 2002
+Topic words: ['signal', 'speech', 'signals', 'frequency', 'source', 'small']
+
+The word that is LEAST related to the others is: small"
+DETM,neurips,llama,5,2003,analysis,speech,False,speech
+DETM,neurips,llama,5,2004,agent,year,False,Year
+DETM,neurips,llama,5,2005,learning,learning,True,learning
+DETM,neurips,llama,5,2006,nodes,year,False,Year
+DETM,neurips,llama,5,2007,predict,predict,True,predict
+DETM,neurips,llama,5,2008,labels,labels,True,Labels
+DETM,neurips,llama,5,2009,process,year,False,Year
+DETM,neurips,llama,5,2010,pairs,year,False,Year
+DETM,neurips,llama,5,2011,ﬁrst,year:,False,"Year: 2011
+
+The word that is LEAST related to the others is: 'ﬁrst'"
+DETM,neurips,llama,5,2012,data,natural,False,natural
+DETM,neurips,llama,5,2013,number,year,False,Year
+DETM,neurips,llama,5,2014,positive,positive,True,positive
+DETM,neurips,llama,5,2015,variable,figure,False,Figure
+DETM,neurips,llama,5,2016,constraint,right,False,right
+DETM,neurips,llama,5,2017,quantization,figure,False,Figure
+DETM,neurips,llama,5,2018,layer,year,False,Year
+DETM,neurips,llama,5,2019,sequence,pages,False,Pages
+DETM,neurips,llama,6,1987,units,year,False,Year
+DETM,neurips,llama,6,1988,decision,year,False,Year
+DETM,neurips,llama,6,1989,number,year,False,Year
+DETM,neurips,llama,6,1990,graph,graph,True,graph
+DETM,neurips,llama,6,1991,visual,visual,True,Visual
+DETM,neurips,llama,6,1992,connectivity,year,False,Year
+DETM,neurips,llama,6,1993,complex,year:,False,"Year: 1993
+
+The word that is LEAST related to the others is: code"
+DETM,neurips,llama,6,1994,gaussian,ensemble,False,ensemble
+DETM,neurips,llama,6,1995,order,order,True,Order
+DETM,neurips,llama,6,1996,implementation,examples,False,Examples
+DETM,neurips,llama,6,1997,different,year,False,Year
+DETM,neurips,llama,6,1998,examples,year,False,Year
+DETM,neurips,llama,6,1999,paper,paper,True,Paper
+DETM,neurips,llama,6,2000,numbers,year,False,Year
+DETM,neurips,llama,6,2001,model,year:,False,"Year: 2001
+
+Topic words: ['examples', 'model', 'training', 'class', 'margin', 'support']
+
+Year"
+DETM,neurips,llama,6,2002,different,year,False,Year
+DETM,neurips,llama,6,2003,different,year,False,Year
+DETM,neurips,llama,6,2004,attention,year,False,Year
+DETM,neurips,llama,6,2005,density,year,False,Year
+DETM,neurips,llama,6,2006,spike,spike,True,Spike
+DETM,neurips,llama,6,2007,block,block,True,block
+DETM,neurips,llama,6,2008,generative,generative,True,Generative
+DETM,neurips,llama,6,2009,variables,variables,True,variables
+DETM,neurips,llama,6,2010,regression,active,False,Active
+DETM,neurips,llama,6,2011,approach,year,False,Year
+DETM,neurips,llama,6,2012,pairs,active,False,active
+DETM,neurips,llama,6,2013,features,year,False,Year
+DETM,neurips,llama,6,2014,theorem,year:,False,"Year: 2014
+Topic words: ['binary', 'labels', 'pairwise', 'ranking', 'theorem', 'label']
+
+The word is: theorem"
+DETM,neurips,llama,6,2015,words,year,False,Year
+DETM,neurips,llama,6,2016,variables,year,False,Year
+DETM,neurips,llama,6,2017,parameters,output,False,output
+DETM,neurips,llama,6,2018,gradient,year,False,Year
+DETM,neurips,llama,6,2019,predicted,year,False,Year
+DETM,neurips,llama,7,1987,node,year:,False,"Year: 1987
+
+Decision"
+DETM,neurips,llama,7,1988,error,space,False,Space
+DETM,neurips,llama,7,1989,cortex,space,False,Space
+DETM,neurips,llama,7,1990,coupling,space,False,Space
+DETM,neurips,llama,7,1991,functions,year,False,Year
+DETM,neurips,llama,7,1992,temporal,space,False,Space
+DETM,neurips,llama,7,1993,information,year,False,Year
+DETM,neurips,llama,7,1994,state,hand,False,hand
+DETM,neurips,llama,7,1995,performance,year:,False,"Year: 1995
+
+The word that is LEAST related to the others is: 'target'"
+DETM,neurips,llama,7,1996,distance,year,False,Year
+DETM,neurips,llama,7,1997,scale,scale,True,Scale
+DETM,neurips,llama,7,1998,result,year:,False,"Year: 1998
+
+Topic words: ['result', 'movement', 'hand', 'human', 'position', 'line']
+
+Line"
+DETM,neurips,llama,7,1999,target,light,False,light
+DETM,neurips,llama,7,2000,time,time,True,time
+DETM,neurips,llama,7,2001,random,random,True,random
+DETM,neurips,llama,7,2002,estimates,hand,False,hand
+DETM,neurips,llama,7,2003,image,task,False,task
+DETM,neurips,llama,7,2004,length,year:,False,"Year: 2004
+Topic words: ['task', 'movement', 'visual', 'human', 'target', 'length']
+
+Length"
+DETM,neurips,llama,7,2005,information,information,True,Information
+DETM,neurips,llama,7,2006,groups,year:,False,"Year: 2006
+Topic words: ['category', 'task', 'subjects', 'figure', 'groups', 'human']
+
+The word that is LEAST related to the others is: figure"
+DETM,neurips,llama,7,2007,problem,human,False,human
+DETM,neurips,llama,7,2008,label,year,False,Year
+DETM,neurips,llama,7,2009,category,'human',False,'human'
+DETM,neurips,llama,7,2010,density,year:,False,"Year: 2010
+Topic words: ['user', 'density', 'action', 'agent', 'goal', 'actions']
+
+Density"
+DETM,neurips,llama,7,2011,local,local,True,local
+DETM,neurips,llama,7,2012,corpus,corpus,True,corpus
+DETM,neurips,llama,7,2013,probabilistic,year,False,Year
+DETM,neurips,llama,7,2014,process,year.,False,Year.
+DETM,neurips,llama,7,2015,gaussian,gaussian,True,Gaussian
+DETM,neurips,llama,7,2016,learn,year,False,Year
+DETM,neurips,llama,7,2017,transition,observation,False,observation
+DETM,neurips,llama,7,2018,shape,human,False,Human
+DETM,neurips,llama,7,2019,effects,year,False,Year
+DETM,neurips,llama,8,1987,propagation,propagation,True,Propagation
+DETM,neurips,llama,8,1988,boltzmann,year:,False,"Year: 1988
+
+The word that is LEAST related to the others is: 'fixed'"
+DETM,neurips,llama,8,1989,layer,year,False,Year
+DETM,neurips,llama,8,1990,processing,processing,True,Processing
+DETM,neurips,llama,8,1991,measure,time,False,Time
+DETM,neurips,llama,8,1992,computation,computation,True,Computation
+DETM,neurips,llama,8,1993,subjects,fixed,False,Fixed
+DETM,neurips,llama,8,1994,model,model,True,Model
+DETM,neurips,llama,8,1995,nodes,time,False,time
+DETM,neurips,llama,8,1996,cell,time,False,time
+DETM,neurips,llama,8,1997,high,high,True,High
+DETM,neurips,llama,8,1998,curve,curve,True,curve
+DETM,neurips,llama,8,1999,consistent,year:,False,"Year: 1999
+Topic words: ['consistent', 'mode', 'time', 'circuit', 'rate', 'current']
+
+Answer: Mode"
+DETM,neurips,llama,8,2000,visual,memory,False,memory
+DETM,neurips,llama,8,2001,game,memory,False,Memory
+DETM,neurips,llama,8,2002,derivative,year:,False,"Year: 2002
+Topic words: ['derivative', 'potential', 'synaptic', 'rate', 'rule', 'time']
+
+Time"
+DETM,neurips,llama,8,2003,density,term,False,term
+DETM,neurips,llama,8,2004,segmentation,rule,False,rule
+DETM,neurips,llama,8,2005,online,time,False,time
+DETM,neurips,llama,8,2006,measure,line,False,Line
+DETM,neurips,llama,8,2007,node,year,False,Year
+DETM,neurips,llama,8,2008,terms,change,False,change
+DETM,neurips,llama,8,2009,multi,'year',False,'year'
+DETM,neurips,llama,8,2010,label,label,True,Label
+DETM,neurips,llama,8,2011,class,class,True,Class
+DETM,neurips,llama,8,2012,information,year,False,Year
+DETM,neurips,llama,8,2013,structure,time,False,Time
+DETM,neurips,llama,8,2014,models,models,True,Models
+DETM,neurips,llama,8,2015,output,year,False,Year
+DETM,neurips,llama,8,2016,class,year.,False,Year.
+DETM,neurips,llama,8,2017,machine,year,False,Year
+DETM,neurips,llama,8,2018,cost,problem,False,problem
+DETM,neurips,llama,8,2019,mean,year,False,Year
+DETM,neurips,llama,9,1987,potentials,potentials,True,Potentials
+DETM,neurips,llama,9,1988,analog,year:,False,"Year: 1988
+
+The word that is LEAST related to the others is: analog"
+DETM,neurips,llama,9,1989,data,year,False,Year
+DETM,neurips,llama,9,1990,complexity,segmentation,False,segmentation
+DETM,neurips,llama,9,1991,function,function,True,Function
+DETM,neurips,llama,9,1992,filter,filter,True,filter
+DETM,neurips,llama,9,1993,weights,year,False,Year
+DETM,neurips,llama,9,1994,values,year:,False,"Year: 1994
+
+The word that is LEAST related to the others is: 'character'"
+DETM,neurips,llama,9,1995,neural,year:,False,"Year: 1995
+
+The word that is LEAST related to the others is: 'word'"
+DETM,neurips,llama,9,1996,ensemble,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'ensemble'"
+DETM,neurips,llama,9,1997,channel,year:,False,"Year: 1997
+
+Channel"
+DETM,neurips,llama,9,1998,covariance,year:,False,"Year: 1998
+
+The word that is LEAST related to the others is: 'kernel'."
+DETM,neurips,llama,9,1999,signal,signal,True,Signal
+DETM,neurips,llama,9,2000,error,perceptron,False,Perceptron
+DETM,neurips,llama,9,2001,structure,year:,False,"Year: 2001
+
+The word that is LEAST related to the others is: hypothesis"
+DETM,neurips,llama,9,2002,problem,fish.,False,Fish.
+DETM,neurips,llama,9,2003,spike,year,False,Year
+DETM,neurips,llama,9,2004,subjects,subjects,True,subjects
+DETM,neurips,llama,9,2005,vision,year:,False,"Year: 2005
+Topic words: ['kernels', 'kernel', 'learning', 'vision', 'feature', 'supervised']
+
+The word that is LEAST related to the others is: 'supervised'"
+DETM,neurips,llama,9,2006,edge,year,False,Year
+DETM,neurips,llama,9,2007,loss,year:,False,"Year: 2007
+
+The word that is LEAST related to the others is: 'positive'"
+DETM,neurips,llama,9,2008,method,year,False,Year
+DETM,neurips,llama,9,2009,points,points,True,points
+DETM,neurips,llama,9,2010,variance,year,False,Year
+DETM,neurips,llama,9,2011,level,year:,False,"Year: 2011
+Topic words: ['level', 'distance', 'similarity', 'metric', 'learning', 'nearest']
+
+Learning"
+DETM,neurips,llama,9,2012,agents,year,False,Year
+DETM,neurips,llama,9,2013,structure,search,False,search
+DETM,neurips,llama,9,2014,subspace,year,False,Year
+DETM,neurips,llama,9,2015,regret,regret,True,Regret
+DETM,neurips,llama,9,2016,algorithms,year:,False,"Year: 2016
+Topic words: ['metric', 'distance', 'similarity', 'space', 'algorithms', 'embedding']
+
+The word is: algorithms"
+DETM,neurips,llama,9,2017,bound,year,False,Year
+DETM,neurips,llama,9,2018,sparsity,year,False,Year
+DETM,neurips,llama,9,2019,explanation,explanation,True,explanation
+DETM,neurips,llama,10,1987,connectivity,dimensional,False,Dimensional
+DETM,neurips,llama,10,1988,number,dimensional,False,dimensional
+DETM,neurips,llama,10,1989,block,miller,False,Miller
+DETM,neurips,llama,10,1990,coupling,friedman,False,friedman
+DETM,neurips,llama,10,1991,stochastic,friedman,False,friedman
+DETM,neurips,llama,10,1992,learn,learn,True,learn
+DETM,neurips,llama,10,1993,structure,dimensional,False,Dimensional
+DETM,neurips,llama,10,1994,field,dimensional,False,dimensional
+DETM,neurips,llama,10,1995,optimal,year,False,Year
+DETM,neurips,llama,10,1996,loss,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'loss'"
+DETM,neurips,llama,10,1997,hypothesis,manifold,False,manifold
+DETM,neurips,llama,10,1998,unit,year:,False,"Year: 1998
+
+The word that is LEAST related to the others is: curve"
+DETM,neurips,llama,10,1999,second,year:,False,"Year: 1999
+
+The word that is LEAST related to the others is: global"
+DETM,neurips,llama,10,2000,sample,sample,True,sample
+DETM,neurips,llama,10,2001,output,output,True,output
+DETM,neurips,llama,10,2002,evidence,year,False,Year
+DETM,neurips,llama,10,2003,components,year:,False,"Year: 2003
+Topic words: ['problem', 'point', 'local', 'components', 'points', 'global']
+
+Global"
+DETM,neurips,llama,10,2004,measure,year:,False,"Year: 2004
+Topic words: ['measure', 'points', 'point', 'solution', 'problem', 'local']
+
+The word that is LEAST related to the others is: local"
+DETM,neurips,llama,10,2005,variables,year,False,Year
+DETM,neurips,llama,10,2006,probability,year:,False,"Year: 2006
+Topic words: ['probability', 'solution', 'problem', 'methods', 'point', 'local']
+
+The word is: 'local'"
+DETM,neurips,llama,10,2007,problem,year,False,Year
+DETM,neurips,llama,10,2008,temporal,year,False,Year
+DETM,neurips,llama,10,2009,sets,year,False,Year
+DETM,neurips,llama,10,2010,learning,year,False,Year
+DETM,neurips,llama,10,2011,level,year,False,Year
+DETM,neurips,llama,10,2012,latent,year,False,Year
+DETM,neurips,llama,10,2013,images,year,False,Year
+DETM,neurips,llama,10,2014,methods,year,False,Year
+DETM,neurips,llama,10,2015,bounds,year:,False,"Year: 2015
+Topic words: ['method', 'point', 'bounds', 'points', 'ethods', 'data']
+
+The word that is LEAST related to the others is: data"
+DETM,neurips,llama,10,2016,distribution,year,False,Year
+DETM,neurips,llama,10,2017,smooth,year,False,Year
+DETM,neurips,llama,10,2018,word,word,True,Word
+DETM,neurips,llama,10,2019,deep,year,False,Year
+DETM,neurips,llama,11,1987,tensor,tensor,True,tensor
+DETM,neurips,llama,11,1988,best,'best',False,'best'
+DETM,neurips,llama,11,1989,dimensions,year:,False,"Year: 1989
+
+The word that is LEAST related to the others is: 'assume'"
+DETM,neurips,llama,11,1990,storage,year:,False,"Year: 1990
+Topic words: ['assume', 'storage', 'defined', 'statistical', 'theory', 'convergence']
+
+Assume"
+DETM,neurips,llama,11,1991,expert,expert,True,expert
+DETM,neurips,llama,11,1992,error,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'defined'"
+DETM,neurips,llama,11,1993,selection,defined,False,Defined
+DETM,neurips,llama,11,1994,machine,machine,True,Machine
+DETM,neurips,llama,11,1995,algorithms,year,False,Year
+DETM,neurips,llama,11,1996,sequence,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'sequence'"
+DETM,neurips,llama,11,1997,similar,year,False,Year
+DETM,neurips,llama,11,1998,programming,year,False,Year
+DETM,neurips,llama,11,1999,code,error,False,error
+DETM,neurips,llama,11,2000,state,year,False,Year
+DETM,neurips,llama,11,2001,experimental,year:,False,"Year: 2001
+
+The word that is LEAST related to the others is: 'generalization'"
+DETM,neurips,llama,11,2002,computation,year,False,Year
+DETM,neurips,llama,11,2003,variable,year,False,Year
+DETM,neurips,llama,11,2004,corpus,corpus,True,corpus
+DETM,neurips,llama,11,2005,channel,channel,True,Channel
+DETM,neurips,llama,11,2006,convex,year,False,Year
+DETM,neurips,llama,11,2007,prior,user,False,User
+DETM,neurips,llama,11,2008,words,words,True,words
+DETM,neurips,llama,11,2009,document,year,False,Year
+DETM,neurips,llama,11,2010,research,year,False,Year
+DETM,neurips,llama,11,2011,vector,year,False,Year
+DETM,neurips,llama,11,2012,estimation,year,False,Year
+DETM,neurips,llama,11,2013,machine,year,False,Year
+DETM,neurips,llama,11,2014,based,year,False,Year
+DETM,neurips,llama,11,2015,function,year,False,Year
+DETM,neurips,llama,11,2016,approximate,approximate,True,Approximate
+DETM,neurips,llama,11,2017,ﬁxed,year,False,Year
+DETM,neurips,llama,11,2018,classiﬁer,year,False,Year
+DETM,neurips,llama,11,2019,error,year,False,Year
+DETM,neurips,llama,12,1987,time,motor,False,motor
+DETM,neurips,llama,12,1988,vision,vision,True,Vision
+DETM,neurips,llama,12,1989,language,language,True,language
+DETM,neurips,llama,12,1990,systems,world,False,World
+DETM,neurips,llama,12,1991,theory,sutton,False,Sutton
+DETM,neurips,llama,12,1992,linear,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'forward'"
+DETM,neurips,llama,12,1993,input,year:,False,"Year: 1993
+
+The word that is LEAST related to the others is: 'robot'."
+DETM,neurips,llama,12,1994,neural,neural,True,Neural
+DETM,neurips,llama,12,1995,position,moore,False,Moore
+DETM,neurips,llama,12,1996,work,game,False,Game
+DETM,neurips,llama,12,1997,example,year:,False,"Year: 1997
+
+The word that is LEAST related to the others is: 'example'"
+DETM,neurips,llama,12,1998,generated,generated,True,Generated
+DETM,neurips,llama,12,1999,field,user,False,User
+DETM,neurips,llama,12,2000,kernels,kernels,True,Kernels
+DETM,neurips,llama,12,2001,kernels,year,False,Year
+DETM,neurips,llama,12,2002,computation,year,False,Year
+DETM,neurips,llama,12,2003,model,time,False,Time
+DETM,neurips,llama,12,2004,graph,year,False,Year
+DETM,neurips,llama,12,2005,group,game,False,Game
+DETM,neurips,llama,12,2006,method,year,False,Year
+DETM,neurips,llama,12,2007,data,year,False,Year
+DETM,neurips,llama,12,2008,upper,upper,True,Upper
+DETM,neurips,llama,12,2009,point,game,False,game
+DETM,neurips,llama,12,2010,predictions,year,False,Year
+DETM,neurips,llama,12,2011,representations,representations,True,representations
+DETM,neurips,llama,12,2012,information,information,True,information
+DETM,neurips,llama,12,2013,model,model,True,Model
+DETM,neurips,llama,12,2014,context,year,False,Year
+DETM,neurips,llama,12,2015,convergence,year,False,Year
+DETM,neurips,llama,12,2016,vectors,search,False,search
+DETM,neurips,llama,12,2017,constraints,year,False,Year
+DETM,neurips,llama,12,2018,perturbations,game,False,Game
+DETM,neurips,llama,12,2019,solution,year,False,Year
+DETM,neurips,llama,13,1987,initial,year,False,Year
+DETM,neurips,llama,13,1988,analog,year:,False,"Year: 1988
+
+The word that is LEAST related to the others is: 'self'"
+DETM,neurips,llama,13,1989,space,self,False,self
+DETM,neurips,llama,13,1990,output,self,False,Self
+DETM,neurips,llama,13,1991,inputs,year:,False,"Year: 1991
+Topic words: ['neural', 'nets', 'artificial', 'networks', 'self', 'inputs']
+
+Self"
+DETM,neurips,llama,13,1992,vectors,year:,False,"Year: 1992
+
+Self"
+DETM,neurips,llama,13,1993,probability,year:,False,"Year: 1993
+
+The word that is LEAST related to the others is: 'self'"
+DETM,neurips,llama,13,1994,hand,cells,False,Cells
+DETM,neurips,llama,13,1995,represented,year:,False,"Year: 1995
+
+Topic words: ['head', 'cell', 'represented', 'visual', 'motion', 'cells']
+
+The word that is LEAST related to the others is: 'head'."
+DETM,neurips,llama,13,1996,neural,year:,False,"Year: 1996
+Topic words: ['motion', 'orientation', 'cortex', 'neural', 'visual', 'cells']
+
+The word is: 'cells'"
+DETM,neurips,llama,13,1997,convergence,year:,False,"Year: 1997
+
+The word that is LEAST related to the others is: 'visual'"
+DETM,neurips,llama,13,1998,coding,cells,False,Cells
+DETM,neurips,llama,13,1999,density,cells,False,cells
+DETM,neurips,llama,13,2000,values,values,True,values
+DETM,neurips,llama,13,2001,equilibrium,year:,False,"Year: 2001
+
+The word that is LEAST related to the others is: 'visual'"
+DETM,neurips,llama,13,2002,following,following,True,following
+DETM,neurips,llama,13,2003,agent,year:,False,"Year: 2003
+
+The word that is LEAST related to the others is: 'visual'"
+DETM,neurips,llama,13,2004,test,attention,False,Attention
+DETM,neurips,llama,13,2005,following,following,True,Following
+DETM,neurips,llama,13,2006,random,random,True,random
+DETM,neurips,llama,13,2007,equivalent,year:,False,"Year: 2007
+
+The word that is LEAST related to the others is: 'search'."
+DETM,neurips,llama,13,2008,label,year,False,Year
+DETM,neurips,llama,13,2009,actions,year,False,Year
+DETM,neurips,llama,13,2010,statistical,year,False,Year
+DETM,neurips,llama,13,2011,classiﬁcation,year,False,Year
+DETM,neurips,llama,13,2012,labeled,year,False,Year
+DETM,neurips,llama,13,2013,rank,rank,True,Rank
+DETM,neurips,llama,13,2014,single,diversity,False,Diversity
+DETM,neurips,llama,13,2015,negative,year,False,Year
+DETM,neurips,llama,13,2016,learning,bound,False,Bound
+DETM,neurips,llama,13,2017,function,year,False,Year
+DETM,neurips,llama,13,2018,reasoning,year,False,Year
+DETM,neurips,llama,13,2019,video,video,True,Video
+DETM,neurips,llama,14,1987,local,local,True,local
+DETM,neurips,llama,14,1988,energy,energy,True,energy
+DETM,neurips,llama,14,1989,able,able,True,able
+DETM,neurips,llama,14,1990,barto,barto,True,Barto
+DETM,neurips,llama,14,1991,time,time,True,time
+DETM,neurips,llama,14,1992,stage,stage,True,Stage
+DETM,neurips,llama,14,1993,component,year,False,Year
+DETM,neurips,llama,14,1994,vector,year,False,Year
+DETM,neurips,llama,14,1995,neural,units,False,Units
+DETM,neurips,llama,14,1996,robot,robot,True,robot
+DETM,neurips,llama,14,1997,energy,year,False,Year
+DETM,neurips,llama,14,1998,neural,units,False,units
+DETM,neurips,llama,14,1999,size,year,False,Year
+DETM,neurips,llama,14,2000,user,units,False,units
+DETM,neurips,llama,14,2001,algorithm,year,False,Year
+DETM,neurips,llama,14,2002,figure,figure,True,figure
+DETM,neurips,llama,14,2003,compression,year:,False,"Year: 2003
+
+The word that is LEAST related to the others is: 'compression'."
+DETM,neurips,llama,14,2004,search,year,False,Year
+DETM,neurips,llama,14,2005,component,year,False,Year
+DETM,neurips,llama,14,2006,reward,year,False,Year
+DETM,neurips,llama,14,2007,method,year,False,Year
+DETM,neurips,llama,14,2008,predictions,year,False,Year
+DETM,neurips,llama,14,2009,different,year,False,Year
+DETM,neurips,llama,14,2010,setting,year,False,Year
+DETM,neurips,llama,14,2011,data,year,False,Year
+DETM,neurips,llama,14,2012,subspace,year,False,Year
+DETM,neurips,llama,14,2013,predictions,year,False,Year
+DETM,neurips,llama,14,2014,matrices,matrices,True,Matrices
+DETM,neurips,llama,14,2015,problem,year,False,Year
+DETM,neurips,llama,14,2016,network,pages,False,Pages
+DETM,neurips,llama,14,2017,sampling,conference,False,Conference
+DETM,neurips,llama,14,2018,performance,year,False,Year
+DETM,neurips,llama,14,2019,relu,year,False,Year
+DETM,neurips,llama,15,1987,network,year:,False,"Year: 1987
+
+The word that is LEAST related to the others is: 'produce'."
+DETM,neurips,llama,15,1988,regions,freeman,False,Freeman
+DETM,neurips,llama,15,1989,graph,year:,False,"Year: 1989
+
+The word that is LEAST related to the others is: 'normal'"
+DETM,neurips,llama,15,1990,description,normal,False,Normal
+DETM,neurips,llama,15,1991,morgan,morgan,True,Morgan
+DETM,neurips,llama,15,1992,modeling,filter,False,Filter
+DETM,neurips,llama,15,1993,cells,cells,True,Cells
+DETM,neurips,llama,15,1994,policies,policies,True,policies
+DETM,neurips,llama,15,1995,agent,agent,True,Agent
+DETM,neurips,llama,15,1996,point,speech,False,Speech
+DETM,neurips,llama,15,1997,performance,speech,False,Speech
+DETM,neurips,llama,15,1998,principal,year:,False,"Year: 1998
+
+Topic words: ['speech', 'segment', 'principal', 'detection', 'recognition', 'segments']
+
+Principal"
+DETM,neurips,llama,15,1999,gradient,year.,False,Year.
+DETM,neurips,llama,15,2000,cells,cells,True,Cells
+DETM,neurips,llama,15,2001,example,example,True,Example
+DETM,neurips,llama,15,2002,advances,year:,False,"Year: 2002
+
+The word that is LEAST related to the others is: 'high'."
+DETM,neurips,llama,15,2003,respect,year,False,Year
+DETM,neurips,llama,15,2004,sequence,year:,False,"Year: 2004
+
+The word that is LEAST related to the others is: 'year'"
+DETM,neurips,llama,15,2005,channel,motion,False,Motion
+DETM,neurips,llama,15,2006,synaptic,motion,False,motion
+DETM,neurips,llama,15,2007,independent,independent,True,Independent
+DETM,neurips,llama,15,2008,samples,year:,False,"Year: 2008
+Topic words: ['matching', 'samples', 'segmentation', 'segments', 'shape', 'level']
+
+The word 'level' is LEAST related to the others."
+DETM,neurips,llama,15,2009,loss,year,False,Year
+DETM,neurips,llama,15,2010,structured,ieee,False,ieee
+DETM,neurips,llama,15,2011,method,level,False,level
+DETM,neurips,llama,15,2012,parameters,year,False,Year
+DETM,neurips,llama,15,2013,features,features,True,Features
+DETM,neurips,llama,15,2014,approach,approach,True,Approach
+DETM,neurips,llama,15,2015,objective,year,False,Year
+DETM,neurips,llama,15,2016,function,year,False,Year
+DETM,neurips,llama,15,2017,approach,year:,False,"Year: 2017
+Topic words: ['model', 'estimate', 'estimation', 'estimator', 'approach', 'density']
+
+The word that is LEAST related to the others is: 'approach'"
+DETM,neurips,llama,15,2018,machine,information,False,information
+DETM,neurips,llama,15,2019,nodes,year,False,Year
+DETM,neurips,llama,16,1987,functions,year:,False,"Year: 1987
+
+The word that is LEAST related to the others is: 'gain'"
+DETM,neurips,llama,16,1988,analog,temperature,False,temperature
+DETM,neurips,llama,16,1989,continuous,noise,False,Noise
+DETM,neurips,llama,16,1990,backpropagation,term,False,Term
+DETM,neurips,llama,16,1991,location,term,False,Term
+DETM,neurips,llama,16,1992,stochastic,principal,False,Principal
+DETM,neurips,llama,16,1993,activity,activity,True,activity
+DETM,neurips,llama,16,1994,delta,delta,True,delta
+DETM,neurips,llama,16,1995,target,year,False,Year
+DETM,neurips,llama,16,1996,signal,signal,True,Signal
+DETM,neurips,llama,16,1997,frequency,frequency,True,Frequency
+DETM,neurips,llama,16,1998,regression,regression,True,Regression
+DETM,neurips,llama,16,1999,shows,year:,False,"Year: 1999
+
+The word that is LEAST related to the others is: 'shows'"
+DETM,neurips,llama,16,2000,margin,year,False,Year
+DETM,neurips,llama,16,2001,parameters,year:,False,"Year: 2001
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,neurips,llama,16,2002,training,year:,False,"Year: 2002
+Topic words: ['prior', 'posterior', 'training', 'bayesian', 'gaussian', 'distribution']
+
+Distribution"
+DETM,neurips,llama,16,2003,cell,cell,True,cell
+DETM,neurips,llama,16,2004,given,year,False,Year
+DETM,neurips,llama,16,2005,framework,year:,False,"Year: 2005
+Topic words: ['likelihood', 'prior', 'framework', 'density', 'estimation', 'estimate']
+
+Framework"
+DETM,neurips,llama,16,2006,translation,translation,True,translation
+DETM,neurips,llama,16,2007,functions,functions,True,functions
+DETM,neurips,llama,16,2008,classiﬁcation,classiﬁcation,True,classiﬁcation
+DETM,neurips,llama,16,2009,topic,topic,True,Topic
+DETM,neurips,llama,16,2010,predictions,year,False,Year
+DETM,neurips,llama,16,2011,selection,year:,False,"Year: 2011
+
+The word that is LEAST related to the others is: 'selection'"
+DETM,neurips,llama,16,2012,tracking,year,False,Year
+DETM,neurips,llama,16,2013,large,year,False,Year
+DETM,neurips,llama,16,2014,negative,year,False,Year
+DETM,neurips,llama,16,2015,algorithm,convex,False,convex
+DETM,neurips,llama,16,2016,gaussian,gaussian,True,Gaussian
+DETM,neurips,llama,16,2017,conference,conference,True,Conference
+DETM,neurips,llama,16,2018,compression,year,False,Year
+DETM,neurips,llama,16,2019,training,training,True,Training
+DETM,neurips,llama,17,1987,target,year:,False,"Year: 1987
+
+The word that is LEAST related to the others is: 'target'."
+DETM,neurips,llama,17,1988,design,year,False,Year
+DETM,neurips,llama,17,1989,order,order,True,Order
+DETM,neurips,llama,17,1990,architecture,time,False,time
+DETM,neurips,llama,17,1991,time,year,False,Year
+DETM,neurips,llama,17,1992,pattern,year:,False,"Year: 1992
+
+Topic words: ['signal', 'pattern', 'time', 'line', 'output', 'input']
+
+Output"
+DETM,neurips,llama,17,1993,node,year,False,Year
+DETM,neurips,llama,17,1994,tasks,output,False,Output
+DETM,neurips,llama,17,1995,large,year,False,Year
+DETM,neurips,llama,17,1996,gaussian,line,False,Line
+DETM,neurips,llama,17,1997,pattern,year,False,Year
+DETM,neurips,llama,17,1998,relatively,relatively,True,relatively
+DETM,neurips,llama,17,1999,learning,year,False,Year
+DETM,neurips,llama,17,2000,defined,year,False,Year
+DETM,neurips,llama,17,2001,product,year,False,Year
+DETM,neurips,llama,17,2002,receptive,receptive,True,receptive
+DETM,neurips,llama,17,2003,probabilistic,year,False,Year
+DETM,neurips,llama,17,2004,code,year,False,Year
+DETM,neurips,llama,17,2005,figure,figure,True,Figure
+DETM,neurips,llama,17,2006,play,play,True,play
+DETM,neurips,llama,17,2007,gaussian,algorithm,False,algorithm
+DETM,neurips,llama,17,2008,computational,year:,False,"Year: 2008
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,neurips,llama,17,2009,convex,year:,False,"Year: 2009
+
+The word that is LEAST related to the others is: 'loss'"
+DETM,neurips,llama,17,2010,matrices,year,False,Year
+DETM,neurips,llama,17,2011,human,human,True,Human
+DETM,neurips,llama,17,2012,consider,year,False,Year
+DETM,neurips,llama,17,2013,data,data,True,Data
+DETM,neurips,llama,17,2014,neighbor,year:,False,"Year: 2014
+
+The word that is LEAST related to the others is: 'bandit'"
+DETM,neurips,llama,17,2015,figure,figure,True,Figure
+DETM,neurips,llama,17,2016,pages,rules,False,rules
+DETM,neurips,llama,17,2017,distribution,year,False,Year
+DETM,neurips,llama,17,2018,gaussian,gaussian,True,Gaussian
+DETM,neurips,llama,17,2019,labels,year,False,Year
+DETM,neurips,llama,18,1987,chosen,chosen,True,chosen
+DETM,neurips,llama,18,1988,weight,space,False,space
+DETM,neurips,llama,18,1989,node,location,False,Location
+DETM,neurips,llama,18,1990,gradient,goal,False,Goal
+DETM,neurips,llama,18,1991,generated,space,False,space
+DETM,neurips,llama,18,1992,field,temporal,False,temporal
+DETM,neurips,llama,18,1993,generated,year.,False,Year.
+DETM,neurips,llama,18,1994,gradient,year:,False,Year: 1994
+DETM,neurips,llama,18,1995,matrix,year,False,Year
+DETM,neurips,llama,18,1996,problem,year,False,Year
+DETM,neurips,llama,18,1997,state,optimal,False,optimal
+DETM,neurips,llama,18,1998,functions,year:,False,"Year: 1998
+
+The word that is LEAST related to the others is: 'state'."
+DETM,neurips,llama,18,1999,similar,similar,True,Similar
+DETM,neurips,llama,18,2000,matrices,year,False,Year
+DETM,neurips,llama,18,2001,equation,year,False,Year
+DETM,neurips,llama,18,2002,matrices,year,False,Year
+DETM,neurips,llama,18,2003,algorithm,algorithm,True,algorithm
+DETM,neurips,llama,18,2004,subject,actions,False,actions
+DETM,neurips,llama,18,2005,relevant,state,False,state
+DETM,neurips,llama,18,2006,neuron,neuron,True,Neuron
+DETM,neurips,llama,18,2007,approach,year,False,Year
+DETM,neurips,llama,18,2008,memory,memory,True,Memory
+DETM,neurips,llama,18,2009,node,year,False,Year
+DETM,neurips,llama,18,2010,noise,year:,False,"Year: 2010
+
+The word that is LEAST related to the others is: 'value'"
+DETM,neurips,llama,18,2011,linear,year,False,Year
+DETM,neurips,llama,18,2012,subject,year,False,Year
+DETM,neurips,llama,18,2013,item,year,False,Year
+DETM,neurips,llama,18,2014,machine,time,False,Time
+DETM,neurips,llama,18,2015,bandit,year:,False,"Year: 2015
+
+Topic words: ['bandit', 'learning', 'states', 'policy', 'control', 'state']
+
+The word that is LEAST related to the others is: 'learning'."
+DETM,neurips,llama,18,2016,matrix,year,False,Year
+DETM,neurips,llama,18,2017,optimal,year,False,Year
+DETM,neurips,llama,18,2018,causal,year,False,Year
+DETM,neurips,llama,18,2019,hidden,year,False,Year
+DETM,neurips,llama,19,1987,presentation,presentation,True,presentation
+DETM,neurips,llama,19,1988,hidden,year,False,Year
+DETM,neurips,llama,19,1989,vector,year:,False,"Year: 1989
+
+The word that is LEAST related to the others is: number"
+DETM,neurips,llama,19,1990,like,number,False,Number
+DETM,neurips,llama,19,1991,capacity,layer,False,Layer
+DETM,neurips,llama,19,1992,hinton,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'number'"
+DETM,neurips,llama,19,1993,work,work,True,Work
+DETM,neurips,llama,19,1994,paper,year,False,Year
+DETM,neurips,llama,19,1995,patterns,year:,False,"Year: 1995
+
+The word that is LEAST related to the others is: 'patterns'."
+DETM,neurips,llama,19,1996,bias,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: analog"
+DETM,neurips,llama,19,1997,assume,year:,False,"Year: 1997
+
+The word that is LEAST related to the others is: assume"
+DETM,neurips,llama,19,1998,constant,year:,False,"Year: 1998
+
+The word that is LEAST related to the others is: 'neural'."
+DETM,neurips,llama,19,1999,sequence,year:,False,"Year: 1999
+
+The word that is LEAST related to the others is: 'sequence'"
+DETM,neurips,llama,19,2000,small,small,True,Small
+DETM,neurips,llama,19,2001,frames,frames,True,Frames
+DETM,neurips,llama,19,2002,local,local,True,Local
+DETM,neurips,llama,19,2003,problem,vector,False,Vector
+DETM,neurips,llama,19,2004,sparse,sparse,True,sparse
+DETM,neurips,llama,19,2005,basis,basis,True,basis
+DETM,neurips,llama,19,2006,similarity,similarity,True,similarity
+DETM,neurips,llama,19,2007,detection,year,False,Year
+DETM,neurips,llama,19,2008,random,year:,False,"Year: 2008
+
+The word that is LEAST related to the others is: 'random'"
+DETM,neurips,llama,19,2009,semantic,year:,False,"Year: 2009
+
+Topic words: ['semantic', 'learning', 'risk', 'boosting', 'complexity', 'loss']
+
+The word that is LEAST related to the others is: 'semantic'."
+DETM,neurips,llama,19,2010,form,year:,False,"Year: 2010
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,neurips,llama,19,2011,layers,year:,False,"Year: 2011
+Topic words: ['risk', 'learning', 'weak', 'layers', 'hypothesis', 'loss']
+
+The word is: layers"
+DETM,neurips,llama,19,2012,inverse,year,False,Year
+DETM,neurips,llama,19,2013,edges,edges,True,Edges
+DETM,neurips,llama,19,2014,context,year:,False,"Year: 2014
+
+The word that is LEAST related to the others is: 'boosting'"
+DETM,neurips,llama,19,2015,mapping,mapping,True,Mapping
+DETM,neurips,llama,19,2016,deep,loss,False,loss
+DETM,neurips,llama,19,2017,context,year,False,Year
+DETM,neurips,llama,19,2018,loss,loss,True,Loss
+DETM,neurips,llama,19,2019,state,year,False,Year

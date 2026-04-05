@@ -1,0 +1,1341 @@
+dtm_model,dataset,llm,topic_idx,year,temporal_coherence,temporal_smoothness,raw
+DLDA,nyt,deepseek,0,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,1991,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,0,1992,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,0,1993,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,0,1994,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,0,1995,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,0,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,1997,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,0,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,2000,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,0,2001,2,1,"{""temporal_coherence"": 2, ""temporal_smoothness"": 1}"
+DLDA,nyt,deepseek,0,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,2004,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,0,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,0,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,1988,2,3,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,1,1989,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,1,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,1991,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,1,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,1994,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,1,1995,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,1,1996,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,1,1997,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,1,1998,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,1,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,2001,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,1,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,2003,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,1,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,1,2006,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,2,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,2,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,2,1990,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,2,1991,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: state, county, jersey, york, governor, cuomo, connecticut, said, island, legislature.
+At time t, they are: state, county, jersey, york, governor, cuomo, connecticut, said, legislature, island.
+At time t+1: state, county, jersey, york, governor, cuomo, said, connecticut, legislature, island.
+
+First, I need to assess the relatedness of the words at time t compared to t-1. Let me go through each word in t and see how related it is to t-1.
+
+- State: Same across all, so 3.
+- County: Same, 3.
+- Jersey: Same, 3.
+- York: Same, 3.
+- Governor: Same, 3.
+- Cuomo: Same, 3.
+- Connecticut: Same, 3.
+- Said: Same, 3.
+- Legislature: At t-1 it was 'legislature', at t it's 'legislature' as well, but at t+1 it's 'legislature' too. Wait, no, looking again, at t-1 it's 'legislature', t is 'legislature', t+1 is 'legislature'. So it's the same, so 3.
+- Island: At t-1 it's 'island', t is 'island', t+1 is 'island'. So same, 3.
+
+Wait, but in the user's message, the words at t-1 and t are slightly different. Let me check again.
+
+Wait, at t-1: [state, county, jersey, york, governor, connecticut, cuomo, said, island, legislature]
+At t: [state, county, jersey, york, governor, cuomo, connecticut, said, legislature, island]
+At t+1: [state, county, jersey, york, governor, cuomo, said, connecticut, legislature, island]
+
+So, in t-1, the last two words are 'island' and 'legislature'.
+In t, it's 'legislature' and 'island'.
+In t+1, it's 'legislature' and 'island' again.
+
+So, the order between 'island' and 'legislature' has swapped between t-1 and t, but then back to t in t+1. So, the words themselves are the same, just the order changed.
+
+So, for relatedness, each word in t is either the same as t-1 or swapped with another. So, the relatedness is high, so I'd rate each word as 3.
+
+Now, for the transition from t-1 to t, the words are almost the same, except 'island' and 'legislature' are swapped. So, the change is minimal, just a swap. So, the transition is smooth, so I'd rate it as 3.
+
+Similarly, from t to t+1, the words are the same as t, so no change. So, the transition is also smooth, 3.
+
+Wait, but the user's example shows that in t-1, the last two are 'island' and 'legislature', in t it's 'legislature' and 'island', and in t+1 it's back to 'legislature' and 'island'. So, the order changes between t-1 and t, then back in t+1.
+
+So, the words themselves are the same, just the order changes. So, the relatedness is high, 3 for each word.
+
+For the transition from t-1 to t, the change is just a swap, so it's a minor change, but still smooth. So, 3 for smoothness.
+
+From t to t+1, the words are the same as t, so no change, so very smooth, 3.
+
+Wait, but the user's example shows that in t-1, the last two are 'island' and 'legislature', in t it's 'legislature' and 'island', and in t+1 it's back to 'legislature' and 'island'. So, the order changes between t-1 and t, then back in t+1.
+
+So, the words themselves are the same, just the order changes. So, the relatedness is high, 3 for each word.
+
+For the transition from t-1 to t, the change is just a swap, so it's a minor change, but still smooth. So, 3 for smoothness.
+
+From t to t+1, the words are the same as t,"
+DLDA,nyt,deepseek,2,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,2,1993,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: state, county, jersey, york, governor, cuomo, said, connecticut, legislature, island.
+
+At time t, the words are: state, county, jersey, governor, york, said, cuomo, connecticut, legislature, westchester.
+
+At time t+1, the words are: state, county, jersey, governor, said, york, cuomo, connecticut, pataki, legislature.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in time t and see how related it is to the corresponding word in t-1.
+
+1. state vs state: Same word, so highly related (3).
+2. county vs county: Same, so 3.
+3. jersey vs jersey: Same, 3.
+4. governor vs york: Governor is a title, York is a location. They're related but not the same. So maybe 2.
+5. york vs york: Same, 3.
+6. said vs said: Same, 3.
+7. cuomo vs cuomo: Same, 3.
+8. connecticut vs connecticut: Same, 3.
+9. legislature vs legislature: Same, 3.
+10. westchester vs island: Westchester is a county, island is a location. They're somewhat related but not the same. So 2.
+
+Wait, but the user mentioned that the top words are the same across time steps, so maybe I should compare each word in t to t-1, not t+1. Hmm, no, the user provided the three time steps and wants the transition from t-1 to t and then t to t+1. So for the relatedness, I need to compare each word in t to the corresponding word in t-1, and then each word in t+1 to t.
+
+Wait, no, the user's instruction is to rate word relatedness at time t, which I think refers to the words at time t compared to t-1. So for each word in t, how related is it to the word in t-1 at the same position.
+
+Wait, but the words at t and t-1 are different. Let me list them:
+
+t-1: [state, county, jersey, york, governor, cuomo, said, connecticut, legislature, island]
+t: [state, county, jersey, governor, york, said, cuomo, connecticut, legislature, westchester]
+
+So for each position:
+
+1. state vs state: 3
+2. county vs county: 3
+3. jersey vs jersey: 3
+4. york vs york: 3
+5. governor vs york: 2
+6. said vs said: 3
+7. cuomo vs cuomo: 3
+8. connecticut vs connecticut: 3
+9. legislature vs legislature: 3
+10. island vs westchester: 2
+
+So the relatedness scores for each position are: 3,3,3,3,2,3,3,3,3,2.
+
+Now, to get the average, I can sum them up and divide by 10.
+
+Sum: 3+3+3+3+2+3+3+3+3+2 = 30.
+
+30/10 = 3. So the relatedness is 3, which is very related.
+
+Next, for the temporal smoothness, I need to assess how smoothly the words transition from t-1 to t and then from t to t+1.
+
+Looking at t-1 to t:
+
+The words change from island to westchester. Island is a location, and westchester is a county. They are both locations but different. The change is from a more specific term (island) to a related but different term (westchester). So the transition is somewhat smooth, maybe a 2.
+
+From t to t+1:
+
+In t, we have westchester, and in t+1, we have pataki. Pataki is a name, possibly a person. Westchester is a place, and pataki is a person. That's a big shift. So the transition from westchester to pataki is not smooth. It's a jump from a place to a person's name. So this transition is not smooth, maybe a 1.
+
+Wait, but the user's instruction is to rate the transition smoothness from t-1 -> t -> t+1. So I think I need to consider the overall smoothness from t-1 to t and then t to t+1.
+
+Alternatively, maybe I should look at the change from t-1 to t and then t to"
+DLDA,nyt,deepseek,2,1994,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,2,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,2,1996,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,2,1997,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,2,1998,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,2,1999,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,2,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,2,2001,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,2,2002,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,2,2003,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,2,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,2,2005,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,2,2006,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,3,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,1990,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,3,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,1992,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,3,1993,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,3,1994,2,3,"{""temporal_coherence"": 2, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,1997,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,3,1998,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,3,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,2002,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,3,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,3,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,1989,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,4,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,1991,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,4,1992,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: president, executive, business, vice, advertising, chief, company, director, chairman, said.
+
+At time t, the words are: president, executive, advertising, business, vice, chief, company, york, director, said.
+
+At time t+1, the words are: president, executive, advertising, business, vice, york, chief, company, director, said.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in t and see how related it is to t-1.
+
+- president: same as t-1, so 3.
+- executive: same, 3.
+- advertising: present in both, 3.
+- business: same, 3.
+- vice: same, 3.
+- chief: same, 3.
+- company: same, 3.
+- york: not in t-1, so 1.
+- director: same, 3.
+- said: same, 3.
+
+So, most words are very related, but 'york' is new, so relatedness is 1. That gives a total of 8 words with 3 and 1 word with 1. So, the average relatedness is high, maybe around 2.8 or so. But since one word is 1, I might rate it as 2, somewhat related.
+
+Next, for the transition from t-1 to t+1, I need to see how the words change. Let's compare t-1 and t+1.
+
+- president: same, 3.
+- executive: same, 3.
+- business: same, 3.
+- vice: same, 3.
+- advertising: same, 3.
+- chief: same, 3.
+- company: same, 3.
+- york: not in t-1, so 1.
+- director: same, 3.
+- said: same, 3.
+
+So, again, 'york' is new, so relatedness is 1. The rest are same, so 3. So, similar to the previous step, the transition is somewhat smooth because only one word is added, but it's a significant change. So, I might rate this as 2, somewhat smooth.
+
+Wait, but the user wants the transition from t-1 to t to t+1. So, I need to consider the change from t to t+1 as well.
+
+Looking at t to t+1:
+
+- president: same, 3.
+- executive: same, 3.
+- advertising: same, 3.
+- business: same, 3.
+- vice: same, 3.
+- chief: same, 3.
+- company: same, 3.
+- york: new in t, so in t+1 it's still there, but in t-1 it wasn't. So, in t to t+1, 'york' is still present, so relatedness is 3 now because it's consistent.
+
+Wait, no. At t, 'york' is present, and at t+1, it's still present. So, from t to t+1, 'york' is still there, so it's not new. So, the transition from t to t+1 is very smooth because all words are either the same or consistent.
+
+Wait, but in the transition from t-1 to t, 'york' was added, which is a significant change. Then, from t to t+1, 'york' remains, so the change is not as drastic. So, the overall transition from t-1 to t is somewhat smooth because only one word is added, but then from t to t+1, it's very smooth because no new words are added beyond 'york'.
+
+Hmm, maybe I should rate the overall transition as 2, somewhat smooth, because the first step had a significant change, but the second step was smoother.
+
+Wait, but the user wants the transition from t-1 to t to t+1. So, I need to consider both steps. The first transition (t-1 to t) had a significant change with 'york' added, so that's somewhat smooth. The second transition (t to t+1) was very smooth because 'york' stayed. So, overall, the entire transition from t-1 to t+1 is somewhat smooth because the first step had a change, but the second was smooth.
+
+Alternatively, maybe the entire process is somewhat smooth because only one new word was added and then maintained. So, I think the transition is somewhat smooth, so I'll rate it as 2.
+
+So, putting it all together,"
+DLDA,nyt,deepseek,4,1993,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: president, executive, advertising, business, vice, chief, company, york, director, said.
+
+At time t, the words are: president, executive, advertising, business, vice, york, chief, company, director, said.
+
+At time t+1, the words are: president, executive, advertising, business, york, chief, vice, company, director, said.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in t and see how related it is to the word at the same position in t-1.
+
+1. president vs president: Same word, so highly related (3).
+2. executive vs executive: Same, so 3.
+3. advertising vs advertising: Same, 3.
+4. business vs business: Same, 3.
+5. vice vs vice: Same, 3.
+6. york vs york: Same, 3.
+7. chief vs chief: Same, 3.
+8. company vs company: Same, 3.
+9. director vs director: Same, 3.
+10. said vs said: Same, 3.
+
+So, all words at time t are exactly the same as t-1. That means the relatedness is very high, so I'll rate this as 3.
+
+Next, for the transition from t to t+1, I'll compare each word in t+1 to the corresponding word in t.
+
+1. president vs president: Same, 3.
+2. executive vs executive: Same, 3.
+3. advertising vs advertising: Same, 3.
+4. business vs business: Same, 3.
+5. york vs vice: Different words. Vice was in t at position 5, now it's replaced by york. How related are vice and york? Vice is a title, york is a location. Not really related, so 1.
+6. chief vs chief: Same, 3.
+7. vice vs chief: Different. Vice was in t at position 5, now it's replaced by vice in t+1 at position 6. Wait, no, in t, position 5 is vice, and in t+1, position 6 is vice. Wait, no, in t, position 5 is vice, and in t+1, position 6 is vice. Wait, no, in t, position 5 is vice, and in t+1, position 6 is vice. Wait, no, in t, position 5 is vice, and in t+1, position 6 is vice. Wait, no, in t, position 5 is vice, and in t+1, position 6 is vice. Wait, no, in t, position 5 is vice, and in t+1, position 6 is vice. So, vice is now at position 6. So, in t, position 5 was vice, and in t+1, position 6 is vice. So, the word at position 5 in t is vice, and in t+1, position 6 is vice. So, the words at position 5 and 6 in t+1 are vice and company, respectively. Wait, no, in t+1, the words are: president, executive, advertising, business, york, chief, vice, company, director, said. So, position 5 is york, position 6 is chief, position 7 is vice, position 8 is company.
+
+Wait, I think I'm getting confused. Let me list them out clearly.
+
+t: [president, executive, advertising, business, vice, york, chief, company, director, said]
+t+1: [president, executive, advertising, business, york, chief, vice, company, director, said]
+
+So, comparing each position:
+
+1. president vs president: 3
+2. executive vs executive: 3
+3. advertising vs advertising: 3
+4. business vs business: 3
+5. vice vs york: Different, 1
+6. york vs chief: Different, 1
+7. chief vs vice: Different, 1
+8. company vs company: 3
+9. director vs director: 3
+10. said vs said: 3
+
+So, most words are the same except positions 5,6,7. Those are all 1s. So, the relatedness is somewhat low, but not all are bad. Some are still related. So, I think the relatedness is somewhat related, so I'll rate it as 2.
+
+Now, for the temporal smoothness. How smooth is the transition from t-1 to t to t"
+DLDA,nyt,deepseek,4,1994,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,4,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,1996,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,4,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,1998,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,4,1999,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,4,2000,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,4,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,4,2004,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,4,2005,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,4,2006,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,1988,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,5,1989,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,1990,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,5,1991,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,1994,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,1995,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,1996,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,5,1997,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,2002,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,5,2005,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,5,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1988,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,6,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1990,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,6,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1993,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,6,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,1999,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,6,2000,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,6,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,6,2005,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,6,2006,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,7,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1989,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,7,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1992,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,7,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1996,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,7,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,2001,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,7,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,7,2003,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,7,2004,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,7,2005,3,1,"{""temporal_coherence"": 3, ""temporal_smoothness"": 1}"
+DLDA,nyt,deepseek,7,2006,3,1,"{""temporal_coherence"": 3, ""temporal_smoothness"": 1}"
+DLDA,nyt,deepseek,8,1988,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic related to stock shares and company performance. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: share, earns, company, reports, sales, lead, loss, revenue, corp, quarter. These all seem related to financial terms, probably discussing a company's performance in a quarter, including sales, revenue, earnings, and losses.
+
+Moving to time t, the words are: share, earns, company, reports, sales, loss, lead, revenue, quarter, corp. It looks similar to t-1, but I notice that ""lead"" and ""loss"" have swapped places with ""earn"" and ""quarter."" Wait, no, actually, ""earn"" is still there, but ""lead"" is now in the list. Maybe ""lead"" is a typo or perhaps it's a different term. Hmm, maybe ""lead"" refers to something else, like a leader in the market or a specific position. I'm not entirely sure, but it seems related.
+
+At time t+1, the words are: share, earns, company, reports, sales, loss, revenue, lead, shares, quarter. Here, ""shares"" is added, and ""quarter"" is still there. ""Lead"" is present again, so maybe it's a recurring term. I'm a bit confused about ""lead"" here, but it seems to be a consistent term across all three time steps.
+
+Now, for the relatedness at time t. I need to compare each word in t-1 with t. Let's go through each word:
+
+- share: same at t, so 3.
+- earns: same at t, 3.
+- company: same, 3.
+- reports: same, 3.
+- sales: same, 3.
+- lead: in t-1, it's ""lead,"" and in t, it's ""loss."" Wait, no, in t-1, it's ""lead,"" and in t, it's ""loss."" So ""lead"" at t-1 vs ""loss"" at t. Are they related? Not really. ""loss"" is a different concept from ""lead."" So maybe 1 for ""lead"" to ""loss.""
+- loss: in t-1, it's ""loss,"" and in t, it's ""loss"" again. So same word, 3.
+- revenue: same, 3.
+- corp: same, 3.
+- quarter: same, 3.
+
+Wait, I think I made a mistake earlier. Let me correct that. At t-1, the words are: share, earns, company, reports, sales, lead, loss, revenue, corp, quarter. At t, they are: share, earns, company, reports, sales, loss, lead, revenue, quarter, corp. So the order has changed, but the words are mostly the same except ""lead"" and ""loss"" have swapped places.
+
+So for each word in t-1, how related is it to t:
+
+1. share: same, 3.
+2. earns: same, 3.
+3. company: same, 3.
+4. reports: same, 3.
+5. sales: same, 3.
+6. lead: in t-1, it's ""lead,"" and in t, it's ""loss."" So not related, 1.
+7. loss: in t-1, it's ""loss,"" and in t, it's ""loss."" Same, 3.
+8. revenue: same, 3.
+9. corp: same, 3.
+10. quarter: same, 3.
+
+So the relatedness scores for each word at time t would be: [3,3,3,3,3,1,3,3,3,3]. The only word that's not related is ""lead"" to ""loss,"" which is 1. So the average relatedness would be mostly high, but with one low score. However, since the question is about the relatedness at time t, I think it's about how each word in t-1 relates to t. So the overall relatedness is high, except for ""lead"" to ""loss."" But since only one word is not related, I think the rate would be 2, somewhat related.
+
+Now, for the transition smoothness from t-1 to t to t+1. Looking at the words, the order has changed, but the words themselves are similar. The main change is the swap between ""lead"" and ""loss."" So the transition from t-1 to t is somewhat smooth because the words are mostly the same, just reordered. Then from t to t+1, ""lead"" is back, and ""shares"" is added. So the change from t to t+1 is a bit more, adding"
+DLDA,nyt,deepseek,8,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,1990,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,8,1991,2,3,"{""temporal_coherence"": 2, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,1992,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,8,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,1994,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,8,1995,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,8,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,1998,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,8,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,2002,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,8,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,8,2006,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,9,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,9,1990,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,9,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,9,1992,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,9,1993,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,9,1994,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,1995,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,1996,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,1997,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,9,1998,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,9,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,9,2000,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,9,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,9,2002,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,2003,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,9,2005,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,9,2006,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,10,1988,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,10,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1990,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,10,1991,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,10,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1994,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,10,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1998,2,3,"{""temporal_coherence"": 2, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,10,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1988,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,11,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1991,2,2,"{""temporal_coherence"": ""2"", ""temporal_smoothness"": ""2""}"
+DLDA,nyt,deepseek,11,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1997,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,11,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,2000,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,11,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,11,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1988,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,12,1989,2,3,"{""temporal_coherence"": 2, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1993,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,12,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,1998,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,12,1999,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,12,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,2002,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,12,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,12,2005,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,12,2006,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,1988,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,1989,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,1990,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,1991,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,1993,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,13,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,2000,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,13,2001,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,2002,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,13,2003,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,13,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,13,2006,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,14,1988,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,14,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,1990,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,14,1991,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,14,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,1993,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,14,1994,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,14,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,1996,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,14,1997,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,14,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,1999,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,14,2000,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,14,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,2002,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,14,2003,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,14,2004,2,3,"{""temporal_coherence"": 2, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,14,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,1990,3,3,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 3}
+```"
+DLDA,nyt,deepseek,15,1991,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,15,1992,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,15,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,1996,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,15,1997,3,2,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,15,1998,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,15,1999,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,15,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,2001,3,2,"```json
+{""temporal_coherence"": 3, ""temporal_smoothness"": 2}
+```"
+DLDA,nyt,deepseek,15,2002,2,3,"{""temporal_coherence"": 2, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,2003,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,15,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,15,2005,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,15,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,1988,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,16,1989,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic related to cars and transportation. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: cars, ford, train, traffic, auto, transportation, motor, bridge, drivers, transit.
+At time t, they are: cars, ford, auto, train, transportation, traffic, motor, transit, drivers, bridge.
+At time t+1: cars, ford, auto, transportation, traffic, train, transit, drivers, motor, driver.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in t and see how related it is to t-1.
+
+cars: Same as t-1, so 3.
+ford: Same, 3.
+auto: Same, 3.
+train: Same, 3.
+transportation: Same, 3.
+traffic: Same, 3.
+motor: Same, 3.
+transit: Same, 3.
+drivers: Same, 3.
+bridge: Same, 3.
+
+Wait, all words are the same? That can't be right. Let me check again. Oh, no, at t+1, the last word is ""driver"" instead of ""drivers."" So at time t, all words are the same as t-1 except maybe ""bridge"" and ""transit""? Wait, no, looking again:
+
+t-1: cars, ford, train, traffic, auto, transportation, motor, bridge, drivers, transit.
+t: cars, ford, auto, train, transportation, traffic, motor, transit, drivers, bridge.
+t+1: cars, ford, auto, transportation, traffic, train, transit, drivers, motor, driver.
+
+Wait, in t, ""bridge"" is at the end, and in t+1, ""driver"" is at the end. So in t, ""bridge"" is present, but in t+1, it's replaced by ""driver."" So the words are mostly the same, but ""bridge"" becomes ""driver."" So the relatedness is high, but not perfect because one word changes.
+
+So for each word in t, how related is it to t-1? All words are the same except ""transit"" in t-1 vs ""transit"" in t, and ""bridge"" in t vs ""bridge"" in t-1. Wait, no, in t-1, the words are cars, ford, train, traffic, auto, transportation, motor, bridge, drivers, transit. In t, it's cars, ford, auto, train, transportation, traffic, motor, transit, drivers, bridge. So the order is slightly different, but the words are the same. So each word in t is the same as t-1, just reordered. So relatedness is 3 for all.
+
+Now, for t+1, how related is each word to t? Let's see:
+
+cars: same, 3.
+ford: same, 3.
+auto: same, 3.
+train: same, 3.
+transportation: same, 3.
+traffic: same, 3.
+motor: same, 3.
+transit: same, 3.
+drivers: same, 3.
+bridge: in t, it's ""bridge,"" in t+1, it's ""driver."" So ""bridge"" is not related to ""driver,"" so that's 1.
+
+Wait, but in t, the last word is ""bridge,"" and in t+1, it's ""driver."" So ""bridge"" and ""driver"" are not related. So for that word, relatedness is 1. All others are 3. So overall, the relatedness is high, but one word is not related.
+
+So for the relatedness at time t, I think it's 3 because most words are the same, but one is not. So maybe 2? Because it's mostly the same, but not entirely.
+
+Wait, the question is to rate the word relatedness at time t. So t is the current time, and we're comparing to t-1. So for each word in t, how related is it to t-1.
+
+Wait, no, the question says: ""Rate word relatedness at time t."" So perhaps it's the relatedness of the topic at time t compared to t-1. So the words at t are mostly the same as t-1, so relatedness is high. But since one word is different, maybe it's 2.
+
+Now, for the temporal smoothness: t-1 to t to t+1. The words are mostly the same, with one word changing from ""bridge"" to ""driver."" So the transition is smooth because the words are mostly the same, just one change. So smoothness is 3.
+
+Wait, but in"
+DLDA,nyt,deepseek,16,1990,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,16,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,1993,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,16,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,1996,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,16,1997,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,16,1998,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,2003,2,2,"```json
+{
+  ""temporal_coherence"": 2,
+  ""temporal_smoothness"": 2
+}
+```"
+DLDA,nyt,deepseek,16,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,16,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,1988,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,1989,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: said, department, officials, government, federal, report, investigation, agency, office, commission.
+
+At time t, the words are: said, department, officials, federal, government, report, investigation, agency, office, information.
+
+At time t+1, the words are: said, department, officials, federal, government, investigation, report, agency, office, information.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in t and see how related it is to t-1.
+
+- said: Same as t-1, so 3.
+- department: Same, 3.
+- officials: Same, 3.
+- federal: Same, 3.
+- government: Same, 3.
+- report: Same, 3.
+- investigation: In t-1, it's ""investigation,"" and in t, it's still ""investigation."" Wait, no, in t+1, it's ""investigation"" as well. Wait, no, in t, it's ""report"" and ""investigation."" Wait, no, in t-1, the word is ""investigation,"" in t it's ""report,"" and in t+1 it's ""investigation."" Wait, no, in t-1, the word is ""investigation,"" in t it's ""report,"" and in t+1 it's ""investigation."" Hmm, maybe I need to check again.
+
+Wait, in t-1, the words are: said, department, officials, government, federal, report, investigation, agency, office, commission.
+
+In t, the words are: said, department, officials, federal, government, report, investigation, agency, office, information.
+
+In t+1, the words are: said, department, officials, federal, government, investigation, report, agency, office, information.
+
+So, looking at t vs t-1:
+
+- ""report"" in t-1 is still ""report"" in t, so related (3).
+- ""investigation"" in t-1 is still ""investigation"" in t, so related (3).
+- ""information"" in t is new, so compared to t-1, which had ""commission,"" how related is ""information"" to t-1? ""Information"" is somewhat related to ""report"" and ""investigation,"" so maybe 2.
+
+Wait, but in t, ""information"" is a new word compared to t-1. So, for each word in t, I need to compare to t-1.
+
+Wait, perhaps I should do it word by word.
+
+Time t-1: [said, department, officials, government, federal, report, investigation, agency, office, commission]
+
+Time t: [said, department, officials, federal, government, report, investigation, agency, office, information]
+
+So, for each word in t, how related is it to t-1:
+
+- said: same, 3
+- department: same, 3
+- officials: same, 3
+- federal: same, 3
+- government: same, 3
+- report: same, 3
+- investigation: same, 3
+- agency: same, 3
+- office: same, 3
+- information: new, compared to ""commission"" in t-1. ""Information"" is somewhat related to ""report"" and ""investigation,"" so maybe 2.
+
+So, the relatedness for each word in t compared to t-1 is:
+
+3,3,3,3,3,3,3,3,3,2.
+
+So, the average would be mostly 3s, with one 2. So, the relatedness is very related, but with a slight change. So, I'd rate the word relatedness at time t as 3.
+
+Now, for the transition from t-1 to t+1. Let's look at t+1 words: [said, department, officials, federal, government, investigation, report, agency, office, information].
+
+Compare each word in t+1 to t-1:
+
+- said: same, 3
+- department: same, 3
+- officials: same, 3
+- federal: same, 3
+- government: same, 3
+- investigation: in t-1, it's ""investigation,"" in t+1, it's ""investigation."" So, same, 3.
+- report: same, 3
+- agency: same, 3
+- office: same, 3
+- information: same as in t, so compared to t-1, it's new, so 2"
+DLDA,nyt,deepseek,17,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,1992,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,1996,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,1997,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,1998,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,1999,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,2000,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: said, officials, department, report, investigation, federal, agency, information, government, office.
+
+At time t, the words are: said, officials, department, report, investigation, federal, information, agency, government, security.
+
+At time t+1, the words are: said, officials, department, report, investigation, federal, information, agency, security, government.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in t and see how related it is to t-1.
+
+- said: Same as t-1, so 3.
+- officials: Same, 3.
+- department: Same, 3.
+- report: Same, 3.
+- investigation: Same, 3.
+- federal: Same, 3.
+- information: In t-1, it's ""information,"" and in t, it's ""information."" Wait, no, in t-1 it's ""information,"" and in t it's ""information"" as well. Wait, no, in t-1, the word is ""information,"" and in t, it's ""information"" again. Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in t, it's ""information."" Wait, no, in t-1, the word is ""information,"" and in"
+DLDA,nyt,deepseek,17,2001,1,3,"```json
+{
+  ""temporal_coherence"": 1,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,17,2002,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,17,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,17,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,1994,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,18,1995,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,18,1996,,,"Okay, so I need to evaluate the temporal coherence and smoothness of these three time steps for a topic. Let me start by looking at the words at each time step.
+
+At time t-1, the words are: said, research, university, study, scientists, science, years, institute, tobacco, professor.
+
+At time t, the words are: said, research, university, study, scientists, tobacco, science, years, institute, professor.
+
+At time t+1, the words are: said, research, university, study, tobacco, science, scientists, years, institute, professor.
+
+First, I'll assess the relatedness of the words at time t compared to t-1. I'll go through each word in t and see how related it is to t-1.
+
+- said: Same as t-1, so 3.
+- research: Same, 3.
+- university: Same, 3.
+- study: Same, 3.
+- scientists: Same, 3.
+- tobacco: In t-1, it's ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" too. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""tobacco"" and in t, it's ""tobacco"" as well. Wait, no, in t-1, the word is ""t"
+DLDA,nyt,deepseek,18,1997,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,18,1998,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,18,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,2002,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,18,2003,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,2004,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,18,2006,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,19,1988,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1989,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1990,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1991,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1992,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1993,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1994,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1995,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1996,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1997,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,1998,3,2,"{""temporal_coherence"": 3, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,19,1999,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,2000,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,2001,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,2002,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,2003,2,2,"{""temporal_coherence"": 2, ""temporal_smoothness"": 2}"
+DLDA,nyt,deepseek,19,2004,3,3,"```json
+{
+  ""temporal_coherence"": 3,
+  ""temporal_smoothness"": 3
+}
+```"
+DLDA,nyt,deepseek,19,2005,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"
+DLDA,nyt,deepseek,19,2006,3,3,"{""temporal_coherence"": 3, ""temporal_smoothness"": 3}"

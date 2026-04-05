@@ -1,0 +1,1231 @@
+dtm_model,dataset,llm,topic_idx,year,intruder,detected,correct,raw
+DETM,unDebates,llama,0,1970,human,called,False,called
+DETM,unDebates,llama,0,1971,peaceful,free,False,free
+DETM,unDebates,llama,0,1972,imperialism,free,False,free
+DETM,unDebates,llama,0,1973,state,free,False,free
+DETM,unDebates,llama,0,1974,aggression,called,False,called
+DETM,unDebates,llama,0,1975,efforts,power,False,Power
+DETM,unDebates,llama,0,1976,increase,space,False,Space
+DETM,unDebates,llama,0,1977,territories,life,False,Life
+DETM,unDebates,llama,0,1978,step,arms,False,arms
+DETM,unDebates,llama,0,1979,imperialism,life,False,Life
+DETM,unDebates,llama,0,1980,principles,hunger,False,hunger
+DETM,unDebates,llama,0,1981,union,rich,False,Rich
+DETM,unDebates,llama,0,1982,based,rich,False,Rich
+DETM,unDebates,llama,0,1983,common,rich,False,rich
+DETM,unDebates,llama,0,1984,today,today,True,today
+DETM,unDebates,llama,0,1985,regime,technology,False,Technology
+DETM,unDebates,llama,0,1986,mankind,arms,False,Arms
+DETM,unDebates,llama,0,1987,political,year:,False,"Year: 1987
+
+The word that is LEAST related to the others is: 'political'"
+DETM,unDebates,llama,0,1988,dialogue,year:,False,"Year: 1988
+Topic words: ['resources', 'poverty', 'environment', 'dialogue', 'developing', 'debt']
+
+Dialogue"
+DETM,unDebates,llama,0,1989,living,debt,False,debt
+DETM,unDebates,llama,0,1990,achieve,year,False,Year
+DETM,unDebates,llama,0,1991,national,year:,False,"Year: 1991
+Topic words: ['national', 'environment', 'resources', 'poverty', 'environmental', 'global']
+
+Poverty"
+DETM,unDebates,llama,0,1992,support,year:,False,Year: 1992
+DETM,unDebates,llama,0,1993,salvador,year,False,Year
+DETM,unDebates,llama,0,1994,aggression,aggression,True,Aggression
+DETM,unDebates,llama,0,1995,imposed,imposed,True,imposed
+DETM,unDebates,llama,0,1996,protection,year,False,Year
+DETM,unDebates,llama,0,1997,minister,minister,True,Minister
+DETM,unDebates,llama,0,1998,angola,year,False,Year
+DETM,unDebates,llama,0,1999,africa,africa,True,Africa
+DETM,unDebates,llama,0,2000,come,come,True,come
+DETM,unDebates,llama,0,2001,political,year,False,Year
+DETM,unDebates,llama,0,2002,conflict,conflict,True,Conflict
+DETM,unDebates,llama,0,2003,charter,year,False,Year
+DETM,unDebates,llama,0,2004,progress,year,False,Year
+DETM,unDebates,llama,0,2005,divide,divide,True,divide
+DETM,unDebates,llama,0,2006,sovereignty,national,False,National
+DETM,unDebates,llama,0,2007,high,high,True,high
+DETM,unDebates,llama,0,2008,agriculture,agriculture,True,Agriculture
+DETM,unDebates,llama,0,2009,role,year,False,Year
+DETM,unDebates,llama,0,2010,moon,moon,True,Moon
+DETM,unDebates,llama,0,2011,european,year,False,Year
+DETM,unDebates,llama,0,2012,criminal,measures,False,measures
+DETM,unDebates,llama,0,2013,drugs,year,False,Year
+DETM,unDebates,llama,0,2014,human,human,True,human
+DETM,unDebates,llama,0,2015,elections,measures,False,measures
+DETM,unDebates,llama,0,2016,crisis,year,False,Year
+DETM,unDebates,llama,0,2017,respect,year,False,Year
+DETM,unDebates,llama,0,2018,iran,year,False,Year
+DETM,unDebates,llama,0,2019,central,measures,False,measures
+DETM,unDebates,llama,0,2020,climate,climate,True,Climate
+DETM,unDebates,llama,1,1970,distinguished,operation,False,Operation
+DETM,unDebates,llama,1,1971,arms,year:,False,"Year: 1971
+
+The word that is LEAST related to the others is: 'efforts'."
+DETM,unDebates,llama,1,1972,meeting,operation,False,operation
+DETM,unDebates,llama,1,1973,hope,year,False,Year
+DETM,unDebates,llama,1,1974,problems,year:,False,"Year: 1974
+
+The word that is LEAST related to the others is: 'efforts'"
+DETM,unDebates,llama,1,1975,wish,wish,True,Wish
+DETM,unDebates,llama,1,1976,level,operation,False,Operation
+DETM,unDebates,llama,1,1977,territorial,economic,False,Economic
+DETM,unDebates,llama,1,1978,interdependence,year,False,Year
+DETM,unDebates,llama,1,1979,concern,operation,False,Operation
+DETM,unDebates,llama,1,1980,peoples,operation,False,Operation
+DETM,unDebates,llama,1,1981,viet,progress,False,Progress
+DETM,unDebates,llama,1,1982,state,year,False,Year
+DETM,unDebates,llama,1,1983,solution,force,False,Force
+DETM,unDebates,llama,1,1984,space,space,True,Space
+DETM,unDebates,llama,1,1985,political,operation,False,Operation
+DETM,unDebates,llama,1,1986,american,american,True,American
+DETM,unDebates,llama,1,1987,south,year:,False,"Year: 1987
+
+Operation"
+DETM,unDebates,llama,1,1988,asia,asia,True,Asia
+DETM,unDebates,llama,1,1989,conference,operation,False,Operation
+DETM,unDebates,llama,1,1990,morocco,morocco,True,Morocco
+DETM,unDebates,llama,1,1991,called,called,True,called
+DETM,unDebates,llama,1,1992,important,community,False,Community
+DETM,unDebates,llama,1,1993,social,year,False,Year
+DETM,unDebates,llama,1,1994,kuwait,community,False,Community
+DETM,unDebates,llama,1,1995,national,community,False,Community
+DETM,unDebates,llama,1,1996,drug,measures,False,measures
+DETM,unDebates,llama,1,1997,process,year,False,Year
+DETM,unDebates,llama,1,1998,abuse,measures,False,Measures
+DETM,unDebates,llama,1,1999,common,common,True,common
+DETM,unDebates,llama,1,2000,secretary,year:,False,"Year: 2000
+Topic words: ['conflict', 'secretary', 'measures', 'community', 'conflicts', 'political']
+
+Measures"
+DETM,unDebates,llama,1,2001,fight,measures,False,measures
+DETM,unDebates,llama,1,2002,committed,year,False,Year
+DETM,unDebates,llama,1,2003,region,middle,False,middle
+DETM,unDebates,llama,1,2004,social,year,False,Year
+DETM,unDebates,llama,1,2005,respect,year:,False,"Year: 2005
+Topic words: ['respect', 'conflicts', 'conflict', 'violence', 'lasting', 'community']
+
+The word is: lasting"
+DETM,unDebates,llama,1,2006,community,year,False,Year
+DETM,unDebates,llama,1,2007,second,second,True,Second
+DETM,unDebates,llama,1,2008,second,second,True,Second
+DETM,unDebates,llama,1,2009,east,lasting,False,lasting
+DETM,unDebates,llama,1,2010,agricultural,agricultural,True,Agricultural
+DETM,unDebates,llama,1,2011,gender,gender,True,Gender
+DETM,unDebates,llama,1,2012,leone,leone,True,Leone
+DETM,unDebates,llama,1,2013,solutions,solutions,True,solutions
+DETM,unDebates,llama,1,2014,measures,measures,True,measures
+DETM,unDebates,llama,1,2015,regional,iraq,False,Iraq
+DETM,unDebates,llama,1,2016,continue,continue,True,continue
+DETM,unDebates,llama,1,2017,kingdom,kingdom,True,Kingdom
+DETM,unDebates,llama,1,2018,level,iran,False,Iran
+DETM,unDebates,llama,1,2019,fifth,fifth,True,Fifth
+DETM,unDebates,llama,1,2020,economy,economy,True,Economy
+DETM,unDebates,llama,2,1970,progress,progress,True,Progress
+DETM,unDebates,llama,2,1971,union,year,False,Year
+DETM,unDebates,llama,2,1972,article,year,False,Year
+DETM,unDebates,llama,2,1973,disarmament,terrorism,False,terrorism
+DETM,unDebates,llama,2,1974,special,charter,False,charter
+DETM,unDebates,llama,2,1975,state,state,True,State
+DETM,unDebates,llama,2,1976,political,year:,False,"Year: 1976
+
+The word that is LEAST related to the others is: turkey"
+DETM,unDebates,llama,2,1977,express,cyprus,False,Cyprus
+DETM,unDebates,llama,2,1978,science,science,True,Science
+DETM,unDebates,llama,2,1979,force,lebanon,False,Lebanon
+DETM,unDebates,llama,2,1980,long,lebanon,False,Lebanon
+DETM,unDebates,llama,2,1981,forces,position,False,Position
+DETM,unDebates,llama,2,1982,weapons,year,False,Year
+DETM,unDebates,llama,2,1983,regime,year,False,Year
+DETM,unDebates,llama,2,1984,argentina,argentina,True,Argentina
+DETM,unDebates,llama,2,1985,life,life,True,life
+DETM,unDebates,llama,2,1986,javier,javier,True,Javier
+DETM,unDebates,llama,2,1987,german,afghanistan,False,Afghanistan
+DETM,unDebates,llama,2,1988,saint,saint,True,saint
+DETM,unDebates,llama,2,1989,regime,positive,False,positive
+DETM,unDebates,llama,2,1990,events,positive,False,positive
+DETM,unDebates,llama,2,1991,important,east,False,east
+DETM,unDebates,llama,2,1992,year,year,True,Year
+DETM,unDebates,llama,2,1993,determination,positive,False,Positive
+DETM,unDebates,llama,2,1994,economic,positive,False,positive
+DETM,unDebates,llama,2,1995,vienna,france,False,France
+DETM,unDebates,llama,2,1996,herzegovina,kingdom,False,Kingdom
+DETM,unDebates,llama,2,1997,build,kingdom,False,kingdom
+DETM,unDebates,llama,2,1998,order,kingdom,False,kingdom
+DETM,unDebates,llama,2,1999,capital,kingdom,False,Kingdom
+DETM,unDebates,llama,2,2000,appreciation,appreciation,True,appreciation
+DETM,unDebates,llama,2,2001,state,region,False,Region
+DETM,unDebates,llama,2,2002,russian,'including',False,'including'
+DETM,unDebates,llama,2,2003,election,road,False,Road
+DETM,unDebates,llama,2,2004,economic,road,False,Road
+DETM,unDebates,llama,2,2005,permanent,permanent,True,permanent
+DETM,unDebates,llama,2,2006,hope,hope,True,Hope
+DETM,unDebates,llama,2,2007,great,great,True,Great
+DETM,unDebates,llama,2,2008,years,including,False,including
+DETM,unDebates,llama,2,2009,common,common,True,common
+DETM,unDebates,llama,2,2010,cent,cent,True,cent
+DETM,unDebates,llama,2,2011,planet,planet,True,Planet
+DETM,unDebates,llama,2,2012,leaders,building,False,Building
+DETM,unDebates,llama,2,2013,global,building,False,Building
+DETM,unDebates,llama,2,2014,inclusive,year:,False,"Year: 2014
+Topic words: ['building', 'inclusive', 'health', 'government', 'education', 'care']
+
+Care"
+DETM,unDebates,llama,2,2015,groups,groups,True,groups
+DETM,unDebates,llama,2,2016,support,building,False,building
+DETM,unDebates,llama,2,2017,environment,year,False,Year
+DETM,unDebates,llama,2,2018,said,building,False,Building
+DETM,unDebates,llama,2,2019,life,year,False,Year
+DETM,unDebates,llama,2,2020,environment,environment,True,Environment
+DETM,unDebates,llama,3,1970,european,european,True,European
+DETM,unDebates,llama,3,1971,state,republic,False,republic
+DETM,unDebates,llama,3,1972,country,year,False,Year
+DETM,unDebates,llama,3,1973,taken,taken,True,Taken
+DETM,unDebates,llama,3,1974,decolonization,guinea,False,guinea
+DETM,unDebates,llama,3,1975,situation,year:,False,"Year: 1975
+
+The word 'country' is LEAST related to the others."
+DETM,unDebates,llama,3,1976,movements,chairman,False,Chairman
+DETM,unDebates,llama,3,1977,today,today,True,today
+DETM,unDebates,llama,3,1978,military,year:,False,"Year: 1978
+Topic words: ['racist', 'imperialism', 'struggle', 'colonialism', 'military', 'regimes']
+
+Military"
+DETM,unDebates,llama,3,1979,fundamental,arab,False,Arab
+DETM,unDebates,llama,3,1980,country,country,True,Country
+DETM,unDebates,llama,3,1981,individual,individual,True,individual
+DETM,unDebates,llama,3,1982,hunger,year:,False,"Year: 1982
+
+The word that is LEAST related to the others is: 'hunger'."
+DETM,unDebates,llama,3,1983,political,year:,False,"Year: 1983
+
+The word that is LEAST related to the others is: 'military'"
+DETM,unDebates,llama,3,1984,balance,years,False,years
+DETM,unDebates,llama,3,1985,nuclear,years,False,Years
+DETM,unDebates,llama,3,1986,region,fact,False,fact
+DETM,unDebates,llama,3,1987,solution,cent,False,cent
+DETM,unDebates,llama,3,1988,peoples,cent,False,cent
+DETM,unDebates,llama,3,1989,session,cent,False,Cent
+DETM,unDebates,llama,3,1990,president,cent,False,cent
+DETM,unDebates,llama,3,1991,national,cent,False,cent
+DETM,unDebates,llama,3,1992,children,cent,False,cent
+DETM,unDebates,llama,3,1993,boutros,cent,False,cent
+DETM,unDebates,llama,3,1994,integration,cent,False,cent
+DETM,unDebates,llama,3,1995,year,cent,False,cent
+DETM,unDebates,llama,3,1996,conflicts,cent,False,Cent
+DETM,unDebates,llama,3,1997,humanitarian,cent,False,cent
+DETM,unDebates,llama,3,1998,implementation,year,False,Year
+DETM,unDebates,llama,3,1999,based,cent,False,cent
+DETM,unDebates,llama,3,2000,welcome,welcome,True,Welcome
+DETM,unDebates,llama,3,2001,based,cent,False,cent
+DETM,unDebates,llama,3,2002,charter,cent,False,cent
+DETM,unDebates,llama,3,2003,action,cent,False,cent
+DETM,unDebates,llama,3,2004,today,today,True,Today
+DETM,unDebates,llama,3,2005,guinea,guinea,True,Guinea
+DETM,unDebates,llama,3,2006,human,cent,False,cent
+DETM,unDebates,llama,3,2007,bosnia,food,False,Food
+DETM,unDebates,llama,3,2008,country,country,True,Country
+DETM,unDebates,llama,3,2009,continue,cent,False,Cent
+DETM,unDebates,llama,3,2010,institutions,institutions,True,institutions
+DETM,unDebates,llama,3,2011,know,know,True,know
+DETM,unDebates,llama,3,2012,china,resources,False,Resources
+DETM,unDebates,llama,3,2013,hope,country,False,Country
+DETM,unDebates,llama,3,2014,disputes,like,False,like
+DETM,unDebates,llama,3,2015,country,year,False,Year
+DETM,unDebates,llama,3,2016,israeli,like,False,like
+DETM,unDebates,llama,3,2017,north,like,False,like
+DETM,unDebates,llama,3,2018,important,year,False,Year
+DETM,unDebates,llama,3,2019,peaceful,challenges,False,challenges
+DETM,unDebates,llama,3,2020,paris,like,False,Like
+DETM,unDebates,llama,4,1970,members,principles,False,principles
+DETM,unDebates,llama,4,1971,like,like,True,Like
+DETM,unDebates,llama,4,1972,long,year:,False,"Year: 1972
+
+The word that is LEAST related to the others is: long"
+DETM,unDebates,llama,4,1973,east,year:,False,"Year: 1973
+
+The word that is LEAST related to the others is: 'natural'"
+DETM,unDebates,llama,4,1974,detente,year,False,Year
+DETM,unDebates,llama,4,1975,forces,zone,False,Zone
+DETM,unDebates,llama,4,1976,important,year,False,Year
+DETM,unDebates,llama,4,1977,lebanon,lebanon,True,Lebanon
+DETM,unDebates,llama,4,1978,america,year:,False,"Year: 1978
+
+The word that is LEAST related to the others is: 'common'."
+DETM,unDebates,llama,4,1979,powers,year,False,Year
+DETM,unDebates,llama,4,1980,policy,year,False,Year
+DETM,unDebates,llama,4,1981,independence,common,False,Common
+DETM,unDebates,llama,4,1982,question,year,False,Year
+DETM,unDebates,llama,4,1983,east,year,False,Year
+DETM,unDebates,llama,4,1984,china,year,False,Year
+DETM,unDebates,llama,4,1985,state,year,False,Year
+DETM,unDebates,llama,4,1986,president,president,True,president
+DETM,unDebates,llama,4,1987,south,year:,False,"Year: 1987
+
+The word that is LEAST related to the others is: self"
+DETM,unDebates,llama,4,1988,multilateral,mankind,False,Mankind
+DETM,unDebates,llama,4,1989,year,year,True,Year
+DETM,unDebates,llama,4,1990,guinea,guinea,True,Guinea
+DETM,unDebates,llama,4,1991,dialogue,dialogue,True,dialogue
+DETM,unDebates,llama,4,1992,integrity,integrity,True,integrity
+DETM,unDebates,llama,4,1993,elections,elections,True,elections
+DETM,unDebates,llama,4,1994,efforts,efforts,True,efforts
+DETM,unDebates,llama,4,1995,changes,changes,True,changes
+DETM,unDebates,llama,4,1996,leaders,leaders,True,Leaders
+DETM,unDebates,llama,4,1997,continue,year,False,Year
+DETM,unDebates,llama,4,1998,arab,arab,True,Arab
+DETM,unDebates,llama,4,1999,growth,growth,True,Growth
+DETM,unDebates,llama,4,2000,important,important,True,important
+DETM,unDebates,llama,4,2001,direct,direct,True,Direct
+DETM,unDebates,llama,4,2002,humanitarian,terrorism,False,terrorism
+DETM,unDebates,llama,4,2003,threats,convention,False,Convention
+DETM,unDebates,llama,4,2004,order,year,False,Year
+DETM,unDebates,llama,4,2005,economic,economic,True,Economic
+DETM,unDebates,llama,4,2006,support,terrorism,False,terrorism
+DETM,unDebates,llama,4,2007,government,convention,False,convention
+DETM,unDebates,llama,4,2008,african,reform,False,Reform
+DETM,unDebates,llama,4,2009,secretary,efforts,False,efforts
+DETM,unDebates,llama,4,2010,independence,year:,False,"Year: 2010
+Topic words: ['independence', 'role', 'council', 'resolution', 'peacekeeping', 'reform']
+
+The word is: reform"
+DETM,unDebates,llama,4,2011,japan,japan,True,Japan
+DETM,unDebates,llama,4,2012,year,year,True,Year
+DETM,unDebates,llama,4,2013,global,global,True,Global
+DETM,unDebates,llama,4,2014,free,challenges,False,Challenges
+DETM,unDebates,llama,4,2015,important,important,True,important
+DETM,unDebates,llama,4,2016,efforts,operations,False,Operations
+DETM,unDebates,llama,4,2017,terrorism,reform,False,Reform
+DETM,unDebates,llama,4,2018,global,peacekeeping,False,Peacekeeping
+DETM,unDebates,llama,4,2019,access,year,False,Year
+DETM,unDebates,llama,4,2020,water,year,False,Year
+DETM,unDebates,llama,5,1970,power,power,True,Power
+DETM,unDebates,llama,5,1971,problem,technology,False,Technology
+DETM,unDebates,llama,5,1972,shown,shown,True,Shown
+DETM,unDebates,llama,5,1973,express,million,False,million
+DETM,unDebates,llama,5,1974,southern,cent,False,cent
+DETM,unDebates,llama,5,1975,fully,population,False,Population
+DETM,unDebates,llama,5,1976,developing,cent,False,cent
+DETM,unDebates,llama,5,1977,arab,cent,False,cent
+DETM,unDebates,llama,5,1978,south,cent,False,cent
+DETM,unDebates,llama,5,1979,detente,detente,True,Detente
+DETM,unDebates,llama,5,1980,council,cent,False,cent
+DETM,unDebates,llama,5,1981,small,cent,False,cent
+DETM,unDebates,llama,5,1982,continue,continue,True,continue
+DETM,unDebates,llama,5,1983,fully,fully,True,Fully
+DETM,unDebates,llama,5,1984,gulf,cent,False,cent
+DETM,unDebates,llama,5,1985,south,cent,False,cent
+DETM,unDebates,llama,5,1986,efforts,javier,False,Javier
+DETM,unDebates,llama,5,1987,ensure,ensure,True,ensure
+DETM,unDebates,llama,5,1988,right,javier,False,Javier
+DETM,unDebates,llama,5,1989,iraqi,living,False,Living
+DETM,unDebates,llama,5,1990,problems,effects,False,Effects
+DETM,unDebates,llama,5,1991,relief,living,False,Living
+DETM,unDebates,llama,5,1992,building,year:,False,"Year: 1992
+
+The word that is LEAST related to the others is: 'express'"
+DETM,unDebates,llama,5,1993,body,material,False,Material
+DETM,unDebates,llama,5,1994,keeping,material,False,Material
+DETM,unDebates,llama,5,1995,herzegovina,material,False,Material
+DETM,unDebates,llama,5,1996,ensure,year,False,Year
+DETM,unDebates,llama,5,1997,occupied,occupied,True,occupied
+DETM,unDebates,llama,5,1998,taken,year:,False,"Year: 1998
+Topic words: ['convention', 'taken', 'drug', 'trafficking', 'forms', 'drugs']
+
+Forms"
+DETM,unDebates,llama,5,1999,political,1999,False,1999
+DETM,unDebates,llama,5,2000,region,congratulate,False,congratulate
+DETM,unDebates,llama,5,2001,acts,acts,True,Acts
+DETM,unDebates,llama,5,2002,challenges,congratulate,False,congratulate
+DETM,unDebates,llama,5,2003,resources,resources,True,Resources
+DETM,unDebates,llama,5,2004,member,children,False,children
+DETM,unDebates,llama,5,2005,multilateral,multilateral,True,multilateral
+DETM,unDebates,llama,5,2006,public,public,True,public
+DETM,unDebates,llama,5,2007,union,forms,False,Forms
+DETM,unDebates,llama,5,2008,needs,forms,False,Forms
+DETM,unDebates,llama,5,2009,earth,forms,False,Forms
+DETM,unDebates,llama,5,2010,small,small,True,Small
+DETM,unDebates,llama,5,2011,theme,year,False,Year
+DETM,unDebates,llama,5,2012,challenges,year,False,Year
+DETM,unDebates,llama,5,2013,agenda,agenda,True,Agenda
+DETM,unDebates,llama,5,2014,region,gender,False,Gender
+DETM,unDebates,llama,5,2015,poverty,year,False,Year
+DETM,unDebates,llama,5,2016,threat,year,False,Year
+DETM,unDebates,llama,5,2017,million,million,True,Million
+DETM,unDebates,llama,5,2018,continues,continues,True,continues
+DETM,unDebates,llama,5,2019,want,year,False,Year
+DETM,unDebates,llama,5,2020,respect,year,False,Year
+DETM,unDebates,llama,6,1970,year,powers,False,powers
+DETM,unDebates,llama,6,1971,mankind,major,False,major
+DETM,unDebates,llama,6,1972,action,past,False,past
+DETM,unDebates,llama,6,1973,welcome,welcome,True,Welcome
+DETM,unDebates,llama,6,1974,production,production,True,production
+DETM,unDebates,llama,6,1975,community,long,False,Long
+DETM,unDebates,llama,6,1976,treaty,change,False,Change
+DETM,unDebates,llama,6,1977,peoples,year,False,Year
+DETM,unDebates,llama,6,1978,self,self,True,self
+DETM,unDebates,llama,6,1979,independence,global,False,Global
+DETM,unDebates,llama,6,1980,million,million,True,million
+DETM,unDebates,llama,6,1981,billion,'need',False,'need'
+DETM,unDebates,llama,6,1982,accept,years,False,Years
+DETM,unDebates,llama,6,1983,held,years,False,Years
+DETM,unDebates,llama,6,1984,treaty,years,False,Years
+DETM,unDebates,llama,6,1985,year,year,True,Year
+DETM,unDebates,llama,6,1986,community,work,False,work
+DETM,unDebates,llama,6,1987,weapons,work,False,work
+DETM,unDebates,llama,6,1988,east,work,False,Work
+DETM,unDebates,llama,6,1989,island,island,True,island
+DETM,unDebates,llama,6,1990,fourth,fully,False,fully
+DETM,unDebates,llama,6,1991,mass,uruguay,False,Uruguay
+DETM,unDebates,llama,6,1992,respect,uruguay,False,Uruguay
+DETM,unDebates,llama,6,1993,order,fully,False,fully
+DETM,unDebates,llama,6,1994,years,years,True,Years
+DETM,unDebates,llama,6,1995,technology,technology,True,Technology
+DETM,unDebates,llama,6,1996,years,making,False,making
+DETM,unDebates,llama,6,1997,express,fully,False,fully
+DETM,unDebates,llama,6,1998,unilateral,rome,False,Rome
+DETM,unDebates,llama,6,1999,poverty,fully,False,Fully
+DETM,unDebates,llama,6,2000,principles,fully,False,fully
+DETM,unDebates,llama,6,2001,community,fully,False,fully
+DETM,unDebates,llama,6,2002,american,fully,False,Fully
+DETM,unDebates,llama,6,2003,european,making,False,making
+DETM,unDebates,llama,6,2004,economic,making,False,Making
+DETM,unDebates,llama,6,2005,right,fully,False,fully
+DETM,unDebates,llama,6,2006,african,fully,False,fully
+DETM,unDebates,llama,6,2007,community,fully,False,fully
+DETM,unDebates,llama,6,2008,food,food,True,Food
+DETM,unDebates,llama,6,2009,palestine,'good',False,'good'
+DETM,unDebates,llama,6,2010,change,year:,False,"Year: 2010
+
+The word that is LEAST related to the others is: 'good'."
+DETM,unDebates,llama,6,2011,africa,year,False,Year
+DETM,unDebates,llama,6,2012,work,year,False,Year
+DETM,unDebates,llama,6,2013,terrorist,year,False,Year
+DETM,unDebates,llama,6,2014,occupation,peaceful,False,peaceful
+DETM,unDebates,llama,6,2015,transition,transition,True,Transition
+DETM,unDebates,llama,6,2016,change,change,True,Change
+DETM,unDebates,llama,6,2017,continue,year,False,Year
+DETM,unDebates,llama,6,2018,settlement,year,False,Year
+DETM,unDebates,llama,6,2019,right,year,False,Year
+DETM,unDebates,llama,6,2020,developed,developed,True,Developed
+DETM,unDebates,llama,7,1970,welcome,welcome,True,welcome
+DETM,unDebates,llama,7,1971,republic,year,False,Year
+DETM,unDebates,llama,7,1972,process,year,False,Year
+DETM,unDebates,llama,7,1973,agreement,year,False,Year
+DETM,unDebates,llama,7,1974,role,year,False,Year
+DETM,unDebates,llama,7,1975,korean,year,False,Year
+DETM,unDebates,llama,7,1976,great,great,True,Great
+DETM,unDebates,llama,7,1977,illegal,year,False,Year
+DETM,unDebates,llama,7,1978,palestinian,government,False,Government
+DETM,unDebates,llama,7,1979,country,year,False,Year
+DETM,unDebates,llama,7,1980,hunger,year,False,Year
+DETM,unDebates,llama,7,1981,assistance,year,False,Year
+DETM,unDebates,llama,7,1982,measures,year,False,Year
+DETM,unDebates,llama,7,1983,rich,rich,True,Rich
+DETM,unDebates,llama,7,1984,relations,year,False,Year
+DETM,unDebates,llama,7,1985,principles,year:,False,"Year: 1985
+
+The word that is LEAST related to the others is: 'principles'."
+DETM,unDebates,llama,7,1986,government,year,False,Year
+DETM,unDebates,llama,7,1987,weapons,weapons,True,weapons
+DETM,unDebates,llama,7,1988,dialogue,year,False,Year
+DETM,unDebates,llama,7,1989,drugs,year,False,Year
+DETM,unDebates,llama,7,1990,nuclear,economic,False,economic
+DETM,unDebates,llama,7,1991,powers,year:,False,"Year: 1991
+
+The word that is LEAST related to the others is: 'powers'."
+DETM,unDebates,llama,7,1992,time,year,False,Year
+DETM,unDebates,llama,7,1993,yugoslavia,year:,False,"Year: 1993
+
+The word that is LEAST related to the others is: 'economic'"
+DETM,unDebates,llama,7,1994,justice,year,False,Year
+DETM,unDebates,llama,7,1995,believe,year,False,Year
+DETM,unDebates,llama,7,1996,agreement,year,False,Year
+DETM,unDebates,llama,7,1997,continue,year:,False,Year: 1997
+DETM,unDebates,llama,7,1998,mediterranean,year,False,Year
+DETM,unDebates,llama,7,1999,community,year,False,Year
+DETM,unDebates,llama,7,2000,small,year:,False,Year: 2000
+DETM,unDebates,llama,7,2001,institutions,year,False,Year
+DETM,unDebates,llama,7,2002,refugees,refugees,True,refugees
+DETM,unDebates,llama,7,2003,election,economic,False,economic
+DETM,unDebates,llama,7,2004,forward,dialogue,False,dialogue
+DETM,unDebates,llama,7,2005,high,year,False,Year
+DETM,unDebates,llama,7,2006,developing,developing,True,developing
+DETM,unDebates,llama,7,2007,respect,year,False,Year
+DETM,unDebates,llama,7,2008,history,year,False,Year
+DETM,unDebates,llama,7,2009,process,israel,False,Israel
+DETM,unDebates,llama,7,2010,dignity,year,False,Year
+DETM,unDebates,llama,7,2011,support,year,False,Year
+DETM,unDebates,llama,7,2012,global,global,True,Global
+DETM,unDebates,llama,7,2013,national,national,True,National
+DETM,unDebates,llama,7,2014,session,session,True,session
+DETM,unDebates,llama,7,2015,thank,thank,True,Thank
+DETM,unDebates,llama,7,2016,agreement,year,False,Year
+DETM,unDebates,llama,7,2017,life,life,True,Life
+DETM,unDebates,llama,7,2018,community,community,True,Community
+DETM,unDebates,llama,7,2019,presidential,presidential,True,presidential
+DETM,unDebates,llama,7,2020,crisis,year,False,Year
+DETM,unDebates,llama,8,1970,committee,committee,True,committee
+DETM,unDebates,llama,8,1971,past,year,False,Year
+DETM,unDebates,llama,8,1972,importance,importance,True,importance
+DETM,unDebates,llama,8,1973,arab,year,False,Year
+DETM,unDebates,llama,8,1974,assistance,assistance,True,assistance
+DETM,unDebates,llama,8,1975,respect,year:,False,"Year: 1975
+
+The word that is LEAST related to the others is: 'respect'."
+DETM,unDebates,llama,8,1976,reached,reached,True,Reached
+DETM,unDebates,llama,8,1977,order,order,True,Order
+DETM,unDebates,llama,8,1978,settlement,year:,False,"Year: 1978
+
+The word that is LEAST related to the others is: 'social'"
+DETM,unDebates,llama,8,1979,appreciation,year,False,Year
+DETM,unDebates,llama,8,1980,particularly,year,False,Year
+DETM,unDebates,llama,8,1981,racist,year,False,Year
+DETM,unDebates,llama,8,1982,clear,clear,True,Clear
+DETM,unDebates,llama,8,1983,stability,'peoples',False,'peoples'
+DETM,unDebates,llama,8,1984,economic,america,False,america
+DETM,unDebates,llama,8,1985,fact,fact,True,Fact
+DETM,unDebates,llama,8,1986,election,year,False,Year
+DETM,unDebates,llama,8,1987,aggression,aggression,True,aggression
+DETM,unDebates,llama,8,1988,human,america,False,America
+DETM,unDebates,llama,8,1989,long,children,False,children
+DETM,unDebates,llama,8,1990,economic,children,False,children
+DETM,unDebates,llama,8,1991,high,mankind,False,Mankind
+DETM,unDebates,llama,8,1992,secretary,today,False,Today
+DETM,unDebates,llama,8,1993,trade,trade,True,trade
+DETM,unDebates,llama,8,1994,sustainable,'shall',False,'shall'
+DETM,unDebates,llama,8,1995,portugal,portugal,True,Portugal
+DETM,unDebates,llama,8,1996,foreign,today,False,today
+DETM,unDebates,llama,8,1997,high,high,True,High
+DETM,unDebates,llama,8,1998,national,children,False,children
+DETM,unDebates,llama,8,1999,european,children,False,children
+DETM,unDebates,llama,8,2000,criminal,freedom,False,Freedom
+DETM,unDebates,llama,8,2001,work,year:,False,"Year: 2001
+
+The word that is LEAST related to the others is: 'free'"
+DETM,unDebates,llama,8,2002,secretary,year:,False,"Year: 2002
+Topic words: ['social', 'poverty', 'american', 'america', 'secretary', 'public']
+
+The word is: 'secretary'"
+DETM,unDebates,llama,8,2003,year,cent,False,Cent
+DETM,unDebates,llama,8,2004,sustainable,america,False,america
+DETM,unDebates,llama,8,2005,persons,year,False,Year
+DETM,unDebates,llama,8,2006,caribbean,cent,False,cent
+DETM,unDebates,llama,8,2007,commission,cent,False,cent
+DETM,unDebates,llama,8,2008,korean,cent,False,cent
+DETM,unDebates,llama,8,2009,democratic,cent,False,cent
+DETM,unDebates,llama,8,2010,republic,cent,False,cent
+DETM,unDebates,llama,8,2011,afghanistan,cent,False,cent
+DETM,unDebates,llama,8,2012,member,cent,False,cent
+DETM,unDebates,llama,8,2013,iran,cent,False,cent
+DETM,unDebates,llama,8,2014,american,year,False,Year
+DETM,unDebates,llama,8,2015,treaty,year,False,Year
+DETM,unDebates,llama,8,2016,gross,year:,False,"Year: 2016
+Topic words: ['gross', 'commitment', 'poverty', 'social', 'public', 'education']
+
+Gross"
+DETM,unDebates,llama,8,2017,arms,arms,True,Arms
+DETM,unDebates,llama,8,2018,global,year,False,Year
+DETM,unDebates,llama,8,2019,life,year,False,Year
+DETM,unDebates,llama,8,2020,cooperation,year,False,Year
+DETM,unDebates,llama,9,1970,state,year:,False,"Year: 1970
+
+The word that is LEAST related to the others is: 'effective'"
+DETM,unDebates,llama,9,1971,situation,effective,False,effective
+DETM,unDebates,llama,9,1972,shall,believe,False,believe
+DETM,unDebates,llama,9,1973,important,year:,False,"Year: 1973
+
+The word that is LEAST related to the others is: 'believe'"
+DETM,unDebates,llama,9,1974,viet,effective,False,Effective
+DETM,unDebates,llama,9,1975,conference,conference,True,Conference
+DETM,unDebates,llama,9,1976,assistance,year:,False,"Year: 1976
+
+The word that is LEAST related to the others is: 'believe'"
+DETM,unDebates,llama,9,1977,efforts,year,False,Year
+DETM,unDebates,llama,9,1978,session,year:,False,"Year: 1978
+
+The word that is LEAST related to the others is: 'effective'"
+DETM,unDebates,llama,9,1979,developing,year,False,Year
+DETM,unDebates,llama,9,1980,billion,billion,True,Billion
+DETM,unDebates,llama,9,1981,free,year:,False,"Year: 1981
+
+The word that is LEAST related to the others is: 'free'"
+DETM,unDebates,llama,9,1982,mediterranean,mediterranean,True,Mediterranean
+DETM,unDebates,llama,9,1983,region,year:,False,"Year: 1983
+
+The word 'necessary' is LEAST related to the others."
+DETM,unDebates,llama,9,1984,solution,solution,True,solution
+DETM,unDebates,llama,9,1985,operation,operation,True,Operation
+DETM,unDebates,llama,9,1986,hope,hope,True,Hope
+DETM,unDebates,llama,9,1987,region,region,True,Region
+DETM,unDebates,llama,9,1988,lebanon,year,False,Year
+DETM,unDebates,llama,9,1989,africa,africa,True,Africa
+DETM,unDebates,llama,9,1990,remains,remains,True,remains
+DETM,unDebates,llama,9,1991,national,national,True,National
+DETM,unDebates,llama,9,1992,aggression,technology,False,Technology
+DETM,unDebates,llama,9,1993,changes,uruguay,False,Uruguay
+DETM,unDebates,llama,9,1994,continue,uruguay,False,Uruguay
+DETM,unDebates,llama,9,1995,government,uruguay,False,Uruguay
+DETM,unDebates,llama,9,1996,forum,year,False,Year
+DETM,unDebates,llama,9,1997,body,body,True,Body
+DETM,unDebates,llama,9,1998,north,information,False,information
+DETM,unDebates,llama,9,1999,economy,honour,False,Honour
+DETM,unDebates,llama,9,2000,terrorist,terrorist,True,Terrorist
+DETM,unDebates,llama,9,2001,questions,fifth,False,Fifth
+DETM,unDebates,llama,9,2002,women,technology,False,Technology
+DETM,unDebates,llama,9,2003,community,bangladesh,False,Bangladesh
+DETM,unDebates,llama,9,2004,sovereignty,information,False,Information
+DETM,unDebates,llama,9,2005,conflict,gross,False,Gross
+DETM,unDebates,llama,9,2006,session,gross,False,Gross
+DETM,unDebates,llama,9,2007,europe,europe,True,Europe
+DETM,unDebates,llama,9,2008,relations,gross,False,Gross
+DETM,unDebates,llama,9,2009,state,japan,False,Japan
+DETM,unDebates,llama,9,2010,north,haiti,False,Haiti
+DETM,unDebates,llama,9,2011,union,union,True,union
+DETM,unDebates,llama,9,2012,south,gross,False,Gross
+DETM,unDebates,llama,9,2013,trade,japan,False,Japan
+DETM,unDebates,llama,9,2014,republic,cent,False,cent
+DETM,unDebates,llama,9,2015,integrity,gross,False,Gross
+DETM,unDebates,llama,9,2016,human,domestic,False,domestic
+DETM,unDebates,llama,9,2017,community,year,False,Year
+DETM,unDebates,llama,9,2018,human,gross,False,Gross
+DETM,unDebates,llama,9,2019,challenges,year,False,Year
+DETM,unDebates,llama,9,2020,climate,climate,True,Climate
+DETM,unDebates,llama,10,1970,subject,subject,True,subject
+DETM,unDebates,llama,10,1971,important,delegation,False,delegation
+DETM,unDebates,llama,10,1972,efforts,delegation,False,Delegation
+DETM,unDebates,llama,10,1973,progress,developed,False,Developed
+DETM,unDebates,llama,10,1974,session,small,False,Small
+DETM,unDebates,llama,10,1975,negotiations,continue,False,continue
+DETM,unDebates,llama,10,1976,negotiation,continue,False,continue
+DETM,unDebates,llama,10,1977,problems,economic,False,economic
+DETM,unDebates,llama,10,1978,west,west,True,West
+DETM,unDebates,llama,10,1979,remain,economic,False,economic
+DETM,unDebates,llama,10,1980,council,year:,False,"Year: 1980
+Topic words: ['arms', 'council', 'treaty', 'disarmament', 'nuclear', 'weapons']
+
+The word that is LEAST related to the others is: 'council'"
+DETM,unDebates,llama,10,1981,implementation,implementation,True,Implementation
+DETM,unDebates,llama,10,1982,progress,progress,True,Progress
+DETM,unDebates,llama,10,1983,national,national,True,National
+DETM,unDebates,llama,10,1984,treaties,race,False,race
+DETM,unDebates,llama,10,1985,power,year:,False,"Year: 1985
+Topic words: ['race', 'power', 'nuclear', 'weapons', 'arms', 'disarmament']
+
+The word is: 'race'"
+DETM,unDebates,llama,10,1986,effects,year,False,Year
+DETM,unDebates,llama,10,1987,high,high,True,high
+DETM,unDebates,llama,10,1988,vienna,vienna,True,Vienna
+DETM,unDebates,llama,10,1989,political,environment,False,Environment
+DETM,unDebates,llama,10,1990,assistance,welcome,False,welcome
+DETM,unDebates,llama,10,1991,economic,welcome,False,welcome
+DETM,unDebates,llama,10,1992,arab,environment,False,Environment
+DETM,unDebates,llama,10,1993,power,power,True,Power
+DETM,unDebates,llama,10,1994,rights,rights,True,rights
+DETM,unDebates,llama,10,1995,social,social,True,social
+DETM,unDebates,llama,10,1996,movement,express,False,Express
+DETM,unDebates,llama,10,1997,member,annan,False,annan
+DETM,unDebates,llama,10,1998,region,express,False,Express
+DETM,unDebates,llama,10,1999,work,fourth,False,fourth
+DETM,unDebates,llama,10,2000,chile,chile,True,Chile
+DETM,unDebates,llama,10,2001,israeli,express,False,express
+DETM,unDebates,llama,10,2002,crime,express,False,Express
+DETM,unDebates,llama,10,2003,members,annan,False,annan
+DETM,unDebates,llama,10,2004,institutional,express,False,Express
+DETM,unDebates,llama,10,2005,european,express,False,Express
+DETM,unDebates,llama,10,2006,state,kofi,False,Kofi
+DETM,unDebates,llama,10,2007,stand,year,False,Year
+DETM,unDebates,llama,10,2008,council,express,False,Express
+DETM,unDebates,llama,10,2009,warming,express,False,express
+DETM,unDebates,llama,10,2010,mexico,express,False,Express
+DETM,unDebates,llama,10,2011,small,small,True,small
+DETM,unDebates,llama,10,2012,second,year,False,Year
+DETM,unDebates,llama,10,2013,product,year,False,Year
+DETM,unDebates,llama,10,2014,power,september,False,September
+DETM,unDebates,llama,10,2015,union,express,False,express
+DETM,unDebates,llama,10,2016,union,express,False,Express
+DETM,unDebates,llama,10,2017,wish,wish,True,wish
+DETM,unDebates,llama,10,2018,mandela,terrorist,False,terrorist
+DETM,unDebates,llama,10,2019,council,given,False,Given
+DETM,unDebates,llama,10,2020,national,including,False,including
+DETM,unDebates,llama,11,1970,machinery,machinery,True,Machinery
+DETM,unDebates,llama,11,1971,country,operation,False,Operation
+DETM,unDebates,llama,11,1972,argentina,argentina,True,Argentina
+DETM,unDebates,llama,11,1973,right,year:,False,"Year: 1973
+
+The word that is LEAST related to the others is: 'welcome'"
+DETM,unDebates,llama,11,1974,welcome,year:,False,Year: 1974
+DETM,unDebates,llama,11,1975,work,year:,False,"Year: 1975
+
+The word that is LEAST related to the others is: welcome"
+DETM,unDebates,llama,11,1976,republic,session,False,session
+DETM,unDebates,llama,11,1977,great,great,True,Great
+DETM,unDebates,llama,11,1978,positive,positive,True,Positive
+DETM,unDebates,llama,11,1979,important,important,True,Important
+DETM,unDebates,llama,11,1980,free,year,False,Year
+DETM,unDebates,llama,11,1981,imperialism,session,False,Session
+DETM,unDebates,llama,11,1982,establish,year,False,Year
+DETM,unDebates,llama,11,1983,support,year:,False,"Year: 1983
+Topic words: ['assistance', 'developed', 'session', 'developing', 'support', 'delegation']
+
+Year: 1983 is the word that is LEAST related to the others."
+DETM,unDebates,llama,11,1984,acts,year:,False,"Year: 1984
+
+Developed"
+DETM,unDebates,llama,11,1985,afghanistan,afghanistan,True,Afghanistan
+DETM,unDebates,llama,11,1986,problems,bangladesh,False,Bangladesh
+DETM,unDebates,llama,11,1987,withdrawal,bangladesh,False,bangladesh
+DETM,unDebates,llama,11,1988,financial,year,False,Year
+DETM,unDebates,llama,11,1989,economic,year,False,Year
+DETM,unDebates,llama,11,1990,social,high,False,high
+DETM,unDebates,llama,11,1991,government,high,False,High
+DETM,unDebates,llama,11,1992,problems,bear,False,bear
+DETM,unDebates,llama,11,1993,national,bear,False,Bear
+DETM,unDebates,llama,11,1994,years,years,True,Years
+DETM,unDebates,llama,11,1995,achieve,achieve,True,achieve
+DETM,unDebates,llama,11,1996,keeping,year,False,Year
+DETM,unDebates,llama,11,1997,organization,year:,False,"Year: 1997
+Topic words: ['organization', 'sanctions', 'imposed', 'unilateral', 'court', 'aggression']
+
+Court"
+DETM,unDebates,llama,11,1998,cooperation,cooperation,True,Cooperation
+DETM,unDebates,llama,11,1999,proliferation,party,False,party
+DETM,unDebates,llama,11,2000,session,session,True,Session
+DETM,unDebates,llama,11,2001,greater,greater,True,Greater
+DETM,unDebates,llama,11,2002,iraqi,year,False,Year
+DETM,unDebates,llama,11,2003,delegation,bear,False,bear
+DETM,unDebates,llama,11,2004,reform,year:,False,"Year: 2004
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,unDebates,llama,11,2005,america,america,True,america
+DETM,unDebates,llama,11,2006,council,year,False,Year
+DETM,unDebates,llama,11,2007,right,year,False,Year
+DETM,unDebates,llama,11,2008,mdgs,mdgs,True,mdgs
+DETM,unDebates,llama,11,2009,leadership,year:,False,"Year: 2009
+Topic words: ['leadership', 'challenges', 'effort', 'responsibility', 'need', 'common']
+
+The word is: common"
+DETM,unDebates,llama,11,2010,history,year,False,Year
+DETM,unDebates,llama,11,2011,today,year,False,Year
+DETM,unDebates,llama,11,2012,second,second,True,second
+DETM,unDebates,llama,11,2013,drugs,year,False,Year
+DETM,unDebates,llama,11,2014,community,year,False,Year
+DETM,unDebates,llama,11,2015,cooperation,year,False,Year
+DETM,unDebates,llama,11,2016,european,year,False,Year
+DETM,unDebates,llama,11,2017,global,better,False,better
+DETM,unDebates,llama,11,2018,election,election,True,Election
+DETM,unDebates,llama,11,2019,domestic,domestic,True,Domestic
+DETM,unDebates,llama,11,2020,commitment,year,False,Year
+DETM,unDebates,llama,12,1970,accordance,year:,False,"Year: 1970
+Topic words: ['trade', 'resources', 'economic', 'developing', 'accordance', 'developed']
+
+Developed"
+DETM,unDebates,llama,12,1971,million,million,True,million
+DETM,unDebates,llama,12,1972,acts,year:,False,"Year: 1972
+
+acts"
+DETM,unDebates,llama,12,1973,charter,year,False,Year
+DETM,unDebates,llama,12,1974,relations,developed,False,developed
+DETM,unDebates,llama,12,1975,issues,issues,True,issues
+DETM,unDebates,llama,12,1976,struggle,struggle,True,Struggle
+DETM,unDebates,llama,12,1977,island,island,True,Island
+DETM,unDebates,llama,12,1978,thirty,thirty,True,thirty
+DETM,unDebates,llama,12,1979,south,south,True,south
+DETM,unDebates,llama,12,1980,adopted,year,False,Year
+DETM,unDebates,llama,12,1981,gross,year:,False,"Year: 1981
+
+The word that is LEAST related to the others is: 'program'."
+DETM,unDebates,llama,12,1982,peoples,year,False,Year
+DETM,unDebates,llama,12,1983,islands,islands,True,islands
+DETM,unDebates,llama,12,1984,occupied,occupied,True,Occupied
+DETM,unDebates,llama,12,1985,society,society,True,Society
+DETM,unDebates,llama,12,1986,foreign,year,False,Year
+DETM,unDebates,llama,12,1987,community,community,True,community
+DETM,unDebates,llama,12,1988,foreign,year:,False,"Year: 1988
+Foreign"
+DETM,unDebates,llama,12,1989,role,year,False,Year
+DETM,unDebates,llama,12,1990,council,council,True,council
+DETM,unDebates,llama,12,1991,order,year:,False,"Year: 1991
+
+The word that is LEAST related to the others is: 'growth'"
+DETM,unDebates,llama,12,1992,japan,japan,True,Japan
+DETM,unDebates,llama,12,1993,council,council,True,Council
+DETM,unDebates,llama,12,1994,declaration,declaration,True,Declaration
+DETM,unDebates,llama,12,1995,israel,israel,True,israel
+DETM,unDebates,llama,12,1996,government,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'developed'"
+DETM,unDebates,llama,12,1997,weapon,weapon,True,weapon
+DETM,unDebates,llama,12,1998,respect,respect,True,Respect
+DETM,unDebates,llama,12,1999,asian,year,False,Year
+DETM,unDebates,llama,12,2000,taiwan,taiwan,True,taiwan
+DETM,unDebates,llama,12,2001,express,year,False,Year
+DETM,unDebates,llama,12,2002,aids,year,False,Year
+DETM,unDebates,llama,12,2003,congo,developed,False,Developed
+DETM,unDebates,llama,12,2004,poverty,caribbean,False,Caribbean
+DETM,unDebates,llama,12,2005,support,year,False,Year
+DETM,unDebates,llama,12,2006,comprehensive,year:,False,"Year: 2006
+Topic words: ['comprehensive', 'trade', 'economic', 'developing', 'small', 'global']
+
+The word is: small"
+DETM,unDebates,llama,12,2007,human,caribbean,False,caribbean
+DETM,unDebates,llama,12,2008,situation,caribbean,False,Caribbean
+DETM,unDebates,llama,12,2009,continues,small,False,small
+DETM,unDebates,llama,12,2010,role,year,False,Year
+DETM,unDebates,llama,12,2011,governments,small,False,Small
+DETM,unDebates,llama,12,2012,process,year,False,Year
+DETM,unDebates,llama,12,2013,country,global,False,Global
+DETM,unDebates,llama,12,2014,regional,global,False,Global
+DETM,unDebates,llama,12,2015,free,year,False,Year
+DETM,unDebates,llama,12,2016,arab,caribbean,False,caribbean
+DETM,unDebates,llama,12,2017,commitment,caribbean,False,Caribbean
+DETM,unDebates,llama,12,2018,support,global,False,Global
+DETM,unDebates,llama,12,2019,global,caribbean,False,Caribbean
+DETM,unDebates,llama,12,2020,state,global,False,Global
+DETM,unDebates,llama,13,1970,measures,year:,False,"Year: 1970
+
+Discrimination"
+DETM,unDebates,llama,13,1971,importance,importance,True,Importance
+DETM,unDebates,llama,13,1972,israeli,colonialism,False,Colonialism
+DETM,unDebates,llama,13,1973,decolonization,making,False,Making
+DETM,unDebates,llama,13,1974,east,year:,False,"Year: 1974
+
+The word that is LEAST related to the others is: east"
+DETM,unDebates,llama,13,1975,special,year:,False,"Year: 1975
+
+The word 'year' is LEAST related to the others."
+DETM,unDebates,llama,13,1976,european,european,True,European
+DETM,unDebates,llama,13,1977,union,making,False,Making
+DETM,unDebates,llama,13,1978,problem,year:,False,"Year: 1978
+
+The word that is LEAST related to the others is: 'making'"
+DETM,unDebates,llama,13,1979,minority,year:,False,"Year: 1979
+
+The word that is LEAST related to the others is: 'year'"
+DETM,unDebates,llama,13,1980,israeli,year:,False,"Year: 1980
+
+The word that is LEAST related to the others is: 'comprehensive'"
+DETM,unDebates,llama,13,1981,constant,constant,True,constant
+DETM,unDebates,llama,13,1982,government,comprehensive,False,Comprehensive
+DETM,unDebates,llama,13,1983,namibia,year,False,Year
+DETM,unDebates,llama,13,1984,time,year,False,Year
+DETM,unDebates,llama,13,1985,freedom,year,False,Year
+DETM,unDebates,llama,13,1986,dignity,dignity,True,dignity
+DETM,unDebates,llama,13,1987,recent,year,False,Year
+DETM,unDebates,llama,13,1988,negotiations,year,False,Year
+DETM,unDebates,llama,13,1989,cuellar,cuellar,True,Cuellar
+DETM,unDebates,llama,13,1990,mankind,year,False,Year
+DETM,unDebates,llama,13,1991,latin,latin,True,Latin
+DETM,unDebates,llama,13,1992,bosnia,arab,False,Arab
+DETM,unDebates,llama,13,1993,market,market,True,Market
+DETM,unDebates,llama,13,1994,conflict,year,False,Year
+DETM,unDebates,llama,13,1995,membership,iraq,False,Iraq
+DETM,unDebates,llama,13,1996,solution,year:,False,"Year: 1996
+
+The word that is LEAST related to the others is: 'solution'"
+DETM,unDebates,llama,13,1997,solution,year,False,Year
+DETM,unDebates,llama,13,1998,terrorism,council,False,council
+DETM,unDebates,llama,13,1999,conflicts,year,False,Year
+DETM,unDebates,llama,13,2000,necessary,kuwait,False,kuwait
+DETM,unDebates,llama,13,2001,election,election,True,election
+DETM,unDebates,llama,13,2002,foreign,year,False,Year
+DETM,unDebates,llama,13,2003,conflict,year,False,Year
+DETM,unDebates,llama,13,2004,organization,year,False,Year
+DETM,unDebates,llama,13,2005,means,means,True,means
+DETM,unDebates,llama,13,2006,peacekeeping,human,False,human
+DETM,unDebates,llama,13,2007,effective,effective,True,effective
+DETM,unDebates,llama,13,2008,achievement,based,False,Based
+DETM,unDebates,llama,13,2009,islands,islands,True,islands
+DETM,unDebates,llama,13,2010,territories,year,False,Year
+DETM,unDebates,llama,13,2011,support,year,False,Year
+DETM,unDebates,llama,13,2012,court,fundamental,False,Fundamental
+DETM,unDebates,llama,13,2013,product,product,True,Product
+DETM,unDebates,llama,13,2014,responsibility,year,False,Year
+DETM,unDebates,llama,13,2015,measures,sustainable,False,Sustainable
+DETM,unDebates,llama,13,2016,like,like,True,Like
+DETM,unDebates,llama,13,2017,iraq,iraq,True,iraq
+DETM,unDebates,llama,13,2018,strengthening,year,False,Year
+DETM,unDebates,llama,13,2019,ocean,ocean,True,Ocean
+DETM,unDebates,llama,13,2020,sustainable,year,False,Year
+DETM,unDebates,llama,14,1970,concerned,fifth,False,Fifth
+DETM,unDebates,llama,14,1971,pacific,pacific,True,pacific
+DETM,unDebates,llama,14,1972,effective,year:,False,"Year: 1972
+Topic words: ['efforts', 'effective', 'conference', 'measures', 'positive', 'effective']
+
+Year"
+DETM,unDebates,llama,14,1973,economic,conference,False,Conference
+DETM,unDebates,llama,14,1974,today,cyprus,False,Cyprus
+DETM,unDebates,llama,14,1975,problems,cyprus,False,Cyprus
+DETM,unDebates,llama,14,1976,problem,indian,False,Indian
+DETM,unDebates,llama,14,1977,recognized,cyprus,False,Cyprus
+DETM,unDebates,llama,14,1978,weapons,efforts,False,efforts
+DETM,unDebates,llama,14,1979,free,cyprus,False,Cyprus
+DETM,unDebates,llama,14,1980,determination,cyprus,False,Cyprus
+DETM,unDebates,llama,14,1981,area,cyprus,False,Cyprus
+DETM,unDebates,llama,14,1982,regional,continue,False,continue
+DETM,unDebates,llama,14,1983,regime,fully,False,Fully
+DETM,unDebates,llama,14,1984,american,american,True,American
+DETM,unDebates,llama,14,1985,organization,year,False,Year
+DETM,unDebates,llama,14,1986,state,year,False,Year
+DETM,unDebates,llama,14,1987,meeting,year,False,Year
+DETM,unDebates,llama,14,1988,western,western,True,Western
+DETM,unDebates,llama,14,1989,mankind,mankind,True,Mankind
+DETM,unDebates,llama,14,1990,longer,year,False,Year
+DETM,unDebates,llama,14,1991,government,year,False,Year
+DETM,unDebates,llama,14,1992,violations,year,False,Year
+DETM,unDebates,llama,14,1993,reform,year,False,Year
+DETM,unDebates,llama,14,1994,struggle,year,False,Year
+DETM,unDebates,llama,14,1995,clear,year,False,Year
+DETM,unDebates,llama,14,1996,developing,year:,False,Year: 1996
+DETM,unDebates,llama,14,1997,african,process,False,Process
+DETM,unDebates,llama,14,1998,session,year,False,Year
+DETM,unDebates,llama,14,1999,need,year,False,Year
+DETM,unDebates,llama,14,2000,congo,congo,True,congo
+DETM,unDebates,llama,14,2001,interests,year,False,Year
+DETM,unDebates,llama,14,2002,force,year:,False,"Year: 2002
+Topic words: ['support', 'community', 'efforts', 'continue', 'role', 'force']
+
+The word is: 'force'"
+DETM,unDebates,llama,14,2003,threat,year:,False,"Year: 2003
+
+The word that is LEAST related to the others is: 'Year'"
+DETM,unDebates,llama,14,2004,right,year,False,Year
+DETM,unDebates,llama,14,2005,peacekeeping,continue,False,Continue
+DETM,unDebates,llama,14,2006,member,conflict,False,Conflict
+DETM,unDebates,llama,14,2007,state,year:,False,"Year: 2007
+Topic words: ['community', 'economic', 'support', 'state', 'role', 'cooperation']
+
+Year"
+DETM,unDebates,llama,14,2008,country,year,False,Year
+DETM,unDebates,llama,14,2009,appreciation,afghanistan,False,Afghanistan
+DETM,unDebates,llama,14,2010,work,afghanistan,False,Afghanistan
+DETM,unDebates,llama,14,2011,iraq,economic,False,Economic
+DETM,unDebates,llama,14,2012,work,year,False,Year
+DETM,unDebates,llama,14,2013,council,water,False,water
+DETM,unDebates,llama,14,2014,trafficking,year,False,Year
+DETM,unDebates,llama,14,2015,cooperation,year,False,Year
+DETM,unDebates,llama,14,2016,sovereignty,cooperation,False,cooperation
+DETM,unDebates,llama,14,2017,nation,year,False,Year
+DETM,unDebates,llama,14,2018,taken,terrorism,False,terrorism
+DETM,unDebates,llama,14,2019,building,building,True,Building
+DETM,unDebates,llama,14,2020,korean,afghanistan,False,Afghanistan
+DETM,unDebates,llama,15,1970,power,'important',False,'important'
+DETM,unDebates,llama,15,1971,time,time,True,Time
+DETM,unDebates,llama,15,1972,great,great,True,Great
+DETM,unDebates,llama,15,1973,question,german,False,German
+DETM,unDebates,llama,15,1974,south,south,True,South
+DETM,unDebates,llama,15,1975,action,action,True,Action
+DETM,unDebates,llama,15,1976,community,community,True,Community
+DETM,unDebates,llama,15,1977,wish,wish,True,Wish
+DETM,unDebates,llama,15,1978,recognized,socialist,False,Socialist
+DETM,unDebates,llama,15,1979,community,community,True,Community
+DETM,unDebates,llama,15,1980,know,know,True,know
+DETM,unDebates,llama,15,1981,charter,peoples,False,Peoples
+DETM,unDebates,llama,15,1982,ocean,ocean,True,Ocean
+DETM,unDebates,llama,15,1983,peaceful,year:,False,"Year: 1983
+Topic words: ['peoples', 'peaceful', 'policy', 'relations', 'peaceful', 'military']
+
+The word is: military"
+DETM,unDebates,llama,15,1984,principles,year,False,Year
+DETM,unDebates,llama,15,1985,angola,peaceful,False,peaceful
+DETM,unDebates,llama,15,1986,europe,year,False,Year
+DETM,unDebates,llama,15,1987,conference,life,False,life
+DETM,unDebates,llama,15,1988,meeting,year:,False,"Year: 1988
+
+The word that is LEAST related to the others is: 'basis'"
+DETM,unDebates,llama,15,1989,south,year:,False,"Year: 1989
+
+The word that is LEAST related to the others is: 'human'"
+DETM,unDebates,llama,15,1990,haiti,haiti,True,haiti
+DETM,unDebates,llama,15,1991,pacific,pacific,True,pacific
+DETM,unDebates,llama,15,1992,important,year,False,Year
+DETM,unDebates,llama,15,1993,changes,year,False,Year
+DETM,unDebates,llama,15,1994,organization,year,False,Year
+DETM,unDebates,llama,15,1995,important,year,False,Year
+DETM,unDebates,llama,15,1996,small,small,True,small
+DETM,unDebates,llama,15,1997,respect,year,False,Year
+DETM,unDebates,llama,15,1998,organization,year,False,Year
+DETM,unDebates,llama,15,1999,trade,year:,False,"Year: 1999
+
+The word that is LEAST related to the others is: 'principles'."
+DETM,unDebates,llama,15,2000,displaced,right,False,Right
+DETM,unDebates,llama,15,2001,timor,timor,True,timor
+DETM,unDebates,llama,15,2002,need,year,False,Year
+DETM,unDebates,llama,15,2003,debate,year:,False,"Year: 2003
+
+The word that is LEAST related to the others is: 'force'"
+DETM,unDebates,llama,15,2004,hunger,hunger,True,Hunger
+DETM,unDebates,llama,15,2005,council,force,False,Force
+DETM,unDebates,llama,15,2006,force,ethiopia,False,Ethiopia
+DETM,unDebates,llama,15,2007,leaders,charter,False,charter
+DETM,unDebates,llama,15,2008,effects,effects,True,Effects
+DETM,unDebates,llama,15,2009,fundamental,fundamental,True,Fundamental
+DETM,unDebates,llama,15,2010,moon,moon,True,Moon
+DETM,unDebates,llama,15,2011,history,year,False,Year
+DETM,unDebates,llama,15,2012,organization,organization,True,Organization
+DETM,unDebates,llama,15,2013,maritime,maritime,True,Maritime
+DETM,unDebates,llama,15,2014,forum,forum,True,Forum
+DETM,unDebates,llama,15,2015,think,think,True,think
+DETM,unDebates,llama,15,2016,principles,year,False,Year
+DETM,unDebates,llama,15,2017,settlement,settlement,True,settlement
+DETM,unDebates,llama,15,2018,justice,country,False,Country
+DETM,unDebates,llama,15,2019,effects,effects,True,Effects
+DETM,unDebates,llama,15,2020,continue,continue,True,continue
+DETM,unDebates,llama,16,1970,prime,francisco,False,Francisco
+DETM,unDebates,llama,16,1971,discrimination,come,False,Come
+DETM,unDebates,llama,16,1972,chile,chile,True,Chile
+DETM,unDebates,llama,16,1973,negotiation,year:,False,"Year: 1973
+
+The word that is LEAST related to the others is: 'like'"
+DETM,unDebates,llama,16,1974,president,shall,False,Shall
+DETM,unDebates,llama,16,1975,special,like,False,like
+DETM,unDebates,llama,16,1976,self,year:,False,"Year: 1976
+
+The word that is LEAST related to the others is: 'interests'"
+DETM,unDebates,llama,16,1977,north,interests,False,interests
+DETM,unDebates,llama,16,1978,imperialist,imperialist,True,imperialist
+DETM,unDebates,llama,16,1979,america,america,True,america
+DETM,unDebates,llama,16,1980,necessary,interests,False,interests
+DETM,unDebates,llama,16,1981,force,interests,False,interests
+DETM,unDebates,llama,16,1982,racist,racist,True,racist
+DETM,unDebates,llama,16,1983,proposals,union,False,Union
+DETM,unDebates,llama,16,1984,developing,union,False,union
+DETM,unDebates,llama,16,1985,organization,space,False,Space
+DETM,unDebates,llama,16,1986,agreement,space,False,space
+DETM,unDebates,llama,16,1987,action,action,True,Action
+DETM,unDebates,llama,16,1988,economic,economic,True,economic
+DETM,unDebates,llama,16,1989,predecessor,predecessor,True,predecessor
+DETM,unDebates,llama,16,1990,multilateral,year:,False,"Year: 1990
+
+The word that is LEAST related to the others is: 'multilateral'."
+DETM,unDebates,llama,16,1991,south,year:,False,"Year: 1991
+
+The word that is LEAST related to the others is: 'state'"
+DETM,unDebates,llama,16,1992,member,year,False,Year
+DETM,unDebates,llama,16,1993,organization,organization,True,organization
+DETM,unDebates,llama,16,1994,africa,year:,False,"Year: 1994
+Topic words: ['africa', 'political', 'national', 'republic', 'state', 'country']
+
+The word that is LEAST related to the others is: 'year'"
+DETM,unDebates,llama,16,1995,government,year,False,Year
+DETM,unDebates,llama,16,1996,blockade,year,False,Year
+DETM,unDebates,llama,16,1997,reform,year,False,Year
+DETM,unDebates,llama,16,1998,like,'like',False,'like'
+DETM,unDebates,llama,16,1999,letter,letter,True,letter
+DETM,unDebates,llama,16,2000,resolution,resolution,True,resolution
+DETM,unDebates,llama,16,2001,action,year,False,Year
+DETM,unDebates,llama,16,2002,better,better,True,Better
+DETM,unDebates,llama,16,2003,leone,leone,True,leone
+DETM,unDebates,llama,16,2004,time,time,True,time
+DETM,unDebates,llama,16,2005,climate,climate,True,climate
+DETM,unDebates,llama,16,2006,member,member,True,Member
+DETM,unDebates,llama,16,2007,rules,rules,True,rules
+DETM,unDebates,llama,16,2008,gender,gender,True,Gender
+DETM,unDebates,llama,16,2009,region,union,False,Union
+DETM,unDebates,llama,16,2010,continent,continent,True,continent
+DETM,unDebates,llama,16,2011,kuwait,south,False,south
+DETM,unDebates,llama,16,2012,food,food,True,Food
+DETM,unDebates,llama,16,2013,important,important,True,Important
+DETM,unDebates,llama,16,2014,right,right,True,Right
+DETM,unDebates,llama,16,2015,protection,kingdom,False,Kingdom
+DETM,unDebates,llama,16,2016,measures,morocco,False,Morocco
+DETM,unDebates,llama,16,2017,france,france,True,France
+DETM,unDebates,llama,16,2018,jerusalem,jerusalem,True,Jerusalem
+DETM,unDebates,llama,16,2019,multilateralism,multilateralism,True,multilateralism
+DETM,unDebates,llama,16,2020,forward,forward,True,Forward
+DETM,unDebates,llama,17,1970,great,south,False,South
+DETM,unDebates,llama,17,1971,democratic,welcome,False,welcome
+DETM,unDebates,llama,17,1972,held,minister,False,Minister
+DETM,unDebates,llama,17,1973,cost,welcome,False,Welcome
+DETM,unDebates,llama,17,1974,making,self,False,self
+DETM,unDebates,llama,17,1975,guinea,guinea,True,Guinea
+DETM,unDebates,llama,17,1976,future,self,False,Self
+DETM,unDebates,llama,17,1977,efforts,welcome,False,Welcome
+DETM,unDebates,llama,17,1978,achieve,year,False,Year
+DETM,unDebates,llama,17,1979,regime,continue,False,continue
+DETM,unDebates,llama,17,1980,cent,self,False,self
+DETM,unDebates,llama,17,1981,role,continue,False,continue
+DETM,unDebates,llama,17,1982,rich,rich,True,rich
+DETM,unDebates,llama,17,1983,indian,small,False,small
+DETM,unDebates,llama,17,1984,democratic,year,False,Year
+DETM,unDebates,llama,17,1985,political,year:,False,"Year: 1985
+
+The word 'pacific' is a geographical term, while the others are more related to politics and governance."
+DETM,unDebates,llama,17,1986,political,drug,False,Drug
+DETM,unDebates,llama,17,1987,fact,drug,False,Drug
+DETM,unDebates,llama,17,1988,resolutions,drugs,False,Drugs
+DETM,unDebates,llama,17,1989,making,year,False,Year
+DETM,unDebates,llama,17,1990,gulf,keeping,False,Keeping
+DETM,unDebates,llama,17,1991,convention,keeping,False,Keeping
+DETM,unDebates,llama,17,1992,life,year:,False,"Year: 1992
+
+The word 'life' is the least related to the others."
+DETM,unDebates,llama,17,1993,rights,keeping,False,keeping
+DETM,unDebates,llama,17,1994,hope,yugoslavia,False,Yugoslavia
+DETM,unDebates,llama,17,1995,sovereignty,operations,False,operations
+DETM,unDebates,llama,17,1996,liberia,liberia,True,Liberia
+DETM,unDebates,llama,17,1997,reforms,year,False,Year
+DETM,unDebates,llama,17,1998,institutions,cyprus,False,Cyprus
+DETM,unDebates,llama,17,1999,need,year,False,Year
+DETM,unDebates,llama,17,2000,report,year,False,Year
+DETM,unDebates,llama,17,2001,condemnation,cyprus,False,Cyprus
+DETM,unDebates,llama,17,2002,treaty,cyprus,False,Cyprus
+DETM,unDebates,llama,17,2003,respect,cyprus,False,Cyprus
+DETM,unDebates,llama,17,2004,political,year,False,Year
+DETM,unDebates,llama,17,2005,leone,leone,True,Leone
+DETM,unDebates,llama,17,2006,document,year,False,Year
+DETM,unDebates,llama,17,2007,disasters,disasters,True,Disasters
+DETM,unDebates,llama,17,2008,lebanon,lebanon,True,lebanon
+DETM,unDebates,llama,17,2009,community,year,False,Year
+DETM,unDebates,llama,17,2010,entity,year,False,Year
+DETM,unDebates,llama,17,2011,climate,climate,True,climate
+DETM,unDebates,llama,17,2012,life,life,True,Life
+DETM,unDebates,llama,17,2013,committed,year,False,Year
+DETM,unDebates,llama,17,2014,health,health,True,health
+DETM,unDebates,llama,17,2015,island,island,True,Island
+DETM,unDebates,llama,17,2016,commitment,continue,False,continue
+DETM,unDebates,llama,17,2017,france,france,True,France
+DETM,unDebates,llama,17,2018,product,year,False,Year
+DETM,unDebates,llama,17,2019,change,year,False,Year
+DETM,unDebates,llama,17,2020,asia,year,False,Year
+DETM,unDebates,llama,18,1970,progress,progress,True,Progress
+DETM,unDebates,llama,18,1971,power,year:,False,"Year: 1971
+
+The word 'social' is the least related to the others."
+DETM,unDebates,llama,18,1972,time,year,False,Year
+DETM,unDebates,llama,18,1973,state,year:,False,"Year: 1973
+
+The word that is LEAST related to the others is: 'operation'."
+DETM,unDebates,llama,18,1974,soviet,year:,False,"Year: 1974
+
+The word that is LEAST related to the others is: 'economic'"
+DETM,unDebates,llama,18,1975,conference,year:,False,"Year: 1975
+
+The word that is LEAST related to the others is: 'social'."
+DETM,unDebates,llama,18,1976,human,year:,False,"Year: 1976
+Topic words: ['political', 'social', 'human', 'problems', 'economic', 'resources']
+
+Resources"
+DETM,unDebates,llama,18,1977,peaceful,peaceful,True,Peaceful
+DETM,unDebates,llama,18,1978,regime,year:,False,"Year: 1978
+Topic words: ['problems', 'regime', 'resources', 'economic', 'social', 'political']
+
+Resources"
+DETM,unDebates,llama,18,1979,change,year,False,Year
+DETM,unDebates,llama,18,1980,fact,fact,True,Fact
+DETM,unDebates,llama,18,1981,strategic,year:,False,"Year: 1981
+
+The word that is LEAST related to the others is: 'cooperation'."
+DETM,unDebates,llama,18,1982,israel,israel,True,Israel
+DETM,unDebates,llama,18,1983,long,year,False,Year
+DETM,unDebates,llama,18,1984,right,year,False,Year
+DETM,unDebates,llama,18,1985,charter,important,False,Important
+DETM,unDebates,llama,18,1986,fully,fully,True,fully
+DETM,unDebates,llama,18,1987,support,year:,False,"Year: 1987
+
+The word 'year' is not in the list, but 'recent' is."
+DETM,unDebates,llama,18,1988,today,today,True,today
+DETM,unDebates,llama,18,1989,efforts,year:,False,"Year: 1989
+
+The word 'taken' is the least related to the others."
+DETM,unDebates,llama,18,1990,spirit,spirit,True,spirit
+DETM,unDebates,llama,18,1991,year,number,False,Number
+DETM,unDebates,llama,18,1992,hope,hope,True,Hope
+DETM,unDebates,llama,18,1993,rwanda,rwanda,True,rwanda
+DETM,unDebates,llama,18,1994,transition,number,False,Number
+DETM,unDebates,llama,18,1995,lebanon,lebanon,True,lebanon
+DETM,unDebates,llama,18,1996,boutros,'boutros',False,'boutros'
+DETM,unDebates,llama,18,1997,sustainable,number,False,Number
+DETM,unDebates,llama,18,1998,sovereignty,recent,False,Recent
+DETM,unDebates,llama,18,1999,children,year:,False,"Year: 1999
+Topic words: ['children', 'report', 'decision', 'criminal', 'council', 'court']
+
+The word is: 'children'"
+DETM,unDebates,llama,18,2000,member,year,False,Year
+DETM,unDebates,llama,18,2001,year,year,True,Year
+DETM,unDebates,llama,18,2002,consensus,year:,False,"Year: 2002
+
+The word that is LEAST related to the others is: 'consensus'."
+DETM,unDebates,llama,18,2003,justice,year,False,Year
+DETM,unDebates,llama,18,2004,secretary,secretary,True,secretary
+DETM,unDebates,llama,18,2005,republic,year:,False,"Year: 2005
+
+The word that is LEAST related to the others is: 'republic'."
+DETM,unDebates,llama,18,2006,rights,rights,True,rights
+DETM,unDebates,llama,18,2007,planet,protocol,False,protocol
+DETM,unDebates,llama,18,2008,human,year,False,Year
+DETM,unDebates,llama,18,2009,drug,drug,True,drug
+DETM,unDebates,llama,18,2010,discrimination,discrimination,True,discrimination
+DETM,unDebates,llama,18,2011,prosperity,prosperity,True,Prosperity
+DETM,unDebates,llama,18,2012,haiti,haiti,True,Haiti
+DETM,unDebates,llama,18,2013,organization,action,False,Action
+DETM,unDebates,llama,18,2014,country,country,True,Country
+DETM,unDebates,llama,18,2015,action,year,False,Year
+DETM,unDebates,llama,18,2016,rights,rights,True,Rights
+DETM,unDebates,llama,18,2017,action,action,True,Action
+DETM,unDebates,llama,18,2018,agreement,year,False,Year
+DETM,unDebates,llama,18,2019,presidency,action,False,Action
+DETM,unDebates,llama,18,2020,fair,fair,True,Fair
+DETM,unDebates,llama,19,1970,operation,latin,False,latin
+DETM,unDebates,llama,19,1971,principles,principles,True,Principles
+DETM,unDebates,llama,19,1972,union,chile,False,Chile
+DETM,unDebates,llama,19,1973,german,german,True,German
+DETM,unDebates,llama,19,1974,progress,latin,False,latin
+DETM,unDebates,llama,19,1975,relations,year:,False,"Year: 1975
+Topic words: ['america', 'chile', 'latin', 'economic', 'relations', 'american']
+
+The word is: 'economic'"
+DETM,unDebates,llama,19,1976,freedom,year:,False,"Year: 1976
+
+The word that is LEAST related to the others is: 'latin'"
+DETM,unDebates,llama,19,1977,work,american,False,American
+DETM,unDebates,llama,19,1978,poor,year,False,Year
+DETM,unDebates,llama,19,1979,role,year,False,Year
+DETM,unDebates,llama,19,1980,question,question,True,question
+DETM,unDebates,llama,19,1981,policy,year,False,Year
+DETM,unDebates,llama,19,1982,territory,social,False,social
+DETM,unDebates,llama,19,1983,major,year,False,Year
+DETM,unDebates,llama,19,1984,organization,year,False,Year
+DETM,unDebates,llama,19,1985,role,year:,False,"Year: 1985
+
+The word that is LEAST related to the others is: 'economic'."
+DETM,unDebates,llama,19,1986,conference,conference,True,Conference
+DETM,unDebates,llama,19,1987,fully,fully,True,Fully
+DETM,unDebates,llama,19,1988,region,action,False,Action
+DETM,unDebates,llama,19,1989,agreement,year:,False,"Year: 1989
+
+The word that is LEAST related to the others is: 'social'."
+DETM,unDebates,llama,19,1990,brazil,year:,False,Year: 1990
+DETM,unDebates,llama,19,1991,aggression,aggression,True,Aggression
+DETM,unDebates,llama,19,1992,time,time,True,Time
+DETM,unDebates,llama,19,1993,federation,programme,False,programme
+DETM,unDebates,llama,19,1994,south,programme,False,Programme
+DETM,unDebates,llama,19,1995,letter,boutros,False,Boutros
+DETM,unDebates,llama,19,1996,efforts,programme,False,Programme
+DETM,unDebates,llama,19,1997,bosnia,programme,False,Programme
+DETM,unDebates,llama,19,1998,spread,spread,True,Spread
+DETM,unDebates,llama,19,1999,members,conference,False,conference
+DETM,unDebates,llama,19,2000,principles,government,False,Government
+DETM,unDebates,llama,19,2001,conflict,conference,False,Conference
+DETM,unDebates,llama,19,2002,russia,conference,False,Conference
+DETM,unDebates,llama,19,2003,human,year,False,Year
+DETM,unDebates,llama,19,2004,equitable,review,False,review
+DETM,unDebates,llama,19,2005,council,year:,False,"Year: 2005
+Topic words: ['continue', 'government', 'support', 'level', 'implementation', 'council']
+
+continue"
+DETM,unDebates,llama,19,2006,palestinian,year,False,Year
+DETM,unDebates,llama,19,2007,community,high,False,high
+DETM,unDebates,llama,19,2008,fundamental,conference,False,Conference
+DETM,unDebates,llama,19,2009,life,life,True,Life
+DETM,unDebates,llama,19,2010,justice,justice,True,justice
+DETM,unDebates,llama,19,2011,time,welcome,False,Welcome
+DETM,unDebates,llama,19,2012,important,year,False,Year
+DETM,unDebates,llama,19,2013,government,sustainable,False,Sustainable
+DETM,unDebates,llama,19,2014,central,year,False,Year
+DETM,unDebates,llama,19,2015,jerusalem,jerusalem,True,Jerusalem
+DETM,unDebates,llama,19,2016,protection,year,False,Year
+DETM,unDebates,llama,19,2017,weapons,weapons,True,weapons
+DETM,unDebates,llama,19,2018,multilateralism,year,False,Year
+DETM,unDebates,llama,19,2019,small,small,True,small
+DETM,unDebates,llama,19,2020,settlement,year,False,Year
