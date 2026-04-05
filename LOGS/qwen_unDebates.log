@@ -1,0 +1,239 @@
+nohup: ignoring input
+
+=================================================================
+  LLM-DTM Evaluation Pipeline
+  data_root : /home/sox45ben/Downloads/LLM Evaluation for DTM/prolific
+  DTM models: ['DLDA', 'DETM']
+  Datasets  : ['unDebates']
+  LLMs      : ['qwen']
+  Tasks     : all
+  Top-N     : 10 words per topic
+=================================================================
+
+
+─────────────────────────────────────────────────────────────────
+  Loading: DLDA / unDebates
+  Loaded 51 years | 50 topics/year | from DLDA/unDebates
+
+  LLM: qwen  |  qwen/qwen-2.5-7b-instruct:free
+  [Skip] already done: results/DLDA/unDebates/qwen_coherence.csv
+
+  [Task 2] Temporal Intrusion Detection
+    [Int] topic=00 year=1970 intruder=american ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1971 intruder=developed ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1972 intruder=europe ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1973 intruder=independence ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1974 intruder=respect ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1975 intruder=crisis ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1976 intruder=operation ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1977 intruder=gathering ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1978 intruder=namibia ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1979 intruder=aggression ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1980 intruder=efforts ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1981 intruder=disarmament ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1982 intruder=continue ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1983 intruder=bangladesh ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1984 intruder=years ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1985 intruder=asian ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1986 intruder=economy ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1987 intruder=kampuchea ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1988 intruder=central ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1989 intruder=country ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1990 intruder=region ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1991 intruder=parties ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1992 intruder=assistance ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1993 intruder=social ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1994 intruder=charter ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1995 intruder=financial ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1996 intruder=support ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1997 intruder=conflicts ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1998 intruder=aggression ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=1999 intruder=palestinian ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=2000 intruder=globalization ... 
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+
+    [HTTP 404] {"error":{"message":"No endpoints found for qwen/qwen-2.5-7b-instruct:free.","code":404},"user_id":"user_3BqIcWnOWFRLqN9LDchiHm9nvBL"}
+detected=None correct=False
+    [Int] topic=00 year=2001 intruder=israel ... 
